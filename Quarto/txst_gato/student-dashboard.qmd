@@ -1,81 +1,44 @@
 ---
-title: "Student Learning Dashboard"
-format:
+title: "智慧教育质量监测看板"
+subtitle: "教学干预实验多维分析报告"
+author: "数据实验室"
+format: 
   html:
-    theme: default
-    toc: false
+    embed-resources: true
+    theme: flatly
+    toc: true
+    toc-location: left
     page-layout: full
+    code-tools: true    # 右上角显示查看源代码工具栏
 ---
 
-<style>
-/* Dashboard-wide styles */
-.kpi-row {
-  display: flex;
-  gap: 16px;
-  margin-bottom: 24px;
-}
-
-.kpi-card {
-  flex: 1;
-  background: #f2f0f7;
-  border-radius: 8px;
-  padding: 16px;
-}
-
-.kpi-title {
-  font-size: 0.9rem;
-  color: #333;
-}
-
-.kpi-value {
-  font-size: 2.2rem;
-  font-weight: bold;
-  color: #512888;
-}
-
-.section-title {
-  margin-top: 32px;
-  margin-bottom: 12px;
-  color: #512888;
-}
-</style>
-
-## Overview
-
-<div class="kpi-row">
-  <div class="kpi-card">
-    <div class="kpi-title">Engagement Rate</div>
-    <div class="kpi-value">78%</div>
-  </div>
-
-  <div class="kpi-card">
-    <div class="kpi-title">Completion Rate</div>
-    <div class="kpi-value">64%</div>
-  </div>
-
-  <div class="kpi-card">
-    <div class="kpi-title">Active Students</div>
-    <div class="kpi-value">312</div>
-  </div>
-</div>
-
-## Engagement Trend {.section-title}
-
 ```{r}
-library(plotly)
+#| label: setup
+#| include: false
 
-weeks <- c("Week 1","Week 2","Week 3","Week 4","Week 5")
-engagement <- c(62, 68, 71, 75, 78)
+# 加载交互式工具包
+library(ggplot2)
+library(dplyr)
+library(plotly)    # 用于生成带工具栏的动态图表
+library(DT)        # 用于生成带搜索、分页和导出功能的表格
+library(tidyr)
 
-plot_ly(
-  x = weeks,
-  y = engagement,
-  type = "scatter",
-  mode = "lines+markers",
-  hovertemplate = "%{x}<br>Engagement: %{y}%<extra></extra>"
-) %>%
-  layout(
-    yaxis = list(title = "Engagement (%)", range = c(0,100)),
-    xaxis = list(title = ""),
-    margin = list(t = 40)
+# 1. 模拟复杂的教育学实验数据
+set.seed(42)
+n <- 200
+data <- data.frame(
+  StudentID = sprintf("S%03d", 1:n),
+  Group = sample(c("实验组 (AI辅助)", "对照组 (传统教学)"), n, replace = TRUE),
+  Region = sample(c("一区", "二区", "三区"), n, replace = TRUE),
+  Pre_Test = rnorm(n, 65, 10),
+  Motivation = sample(1:5, n, replace = TRUE)
+)
+
+# 模拟干预后的成绩提升（实验组提升更明显）
+data <- data %>%
+  mutate(
+    Post_Test = ifelse(Group == "实验组 (AI辅助)", 
+                       Pre_Test + rnorm(n, 12, 5) + Motivation * 2, 
+                       Pre_Test + rnorm(n, 5, 4) + Motivation * 1),
+    Post_Test = pmin(Post_Test, 100) # 最高100分
   )
