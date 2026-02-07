@@ -1,44 +1,26 @@
 ---
-title: "智慧教育质量监测看板"
-subtitle: "教学干预实验多维分析报告"
-author: "数据实验室"
+title: "教育数据分析交互看板"
+author: "Your Name"
 format: 
   html:
     embed-resources: true
-    theme: flatly
     toc: true
-    toc-location: left
-    page-layout: full
-    code-tools: true    # 右上角显示查看源代码工具栏
+    theme: cosmo
+execute:
+  echo: false
+  warning: false
 ---
 
 ```{r}
-#| label: setup
+#| label: check-packages
 #| include: false
 
-# 加载交互式工具包
+# 自动检查并安装缺失包的脚本（理科生的自动化思维）
+required_packages <- c("ggplot2", "plotly", "DT", "dplyr")
+new_packages <- required_packages[!(required_packages %in% installed.packages()[,"Package"])]
+if(length(new_packages)) install.packages(new_packages, repos = "[https://cran.rstudio.com/](https://cran.rstudio.com/)")
+
 library(ggplot2)
+library(plotly)
+library(DT)
 library(dplyr)
-library(plotly)    # 用于生成带工具栏的动态图表
-library(DT)        # 用于生成带搜索、分页和导出功能的表格
-library(tidyr)
-
-# 1. 模拟复杂的教育学实验数据
-set.seed(42)
-n <- 200
-data <- data.frame(
-  StudentID = sprintf("S%03d", 1:n),
-  Group = sample(c("实验组 (AI辅助)", "对照组 (传统教学)"), n, replace = TRUE),
-  Region = sample(c("一区", "二区", "三区"), n, replace = TRUE),
-  Pre_Test = rnorm(n, 65, 10),
-  Motivation = sample(1:5, n, replace = TRUE)
-)
-
-# 模拟干预后的成绩提升（实验组提升更明显）
-data <- data %>%
-  mutate(
-    Post_Test = ifelse(Group == "实验组 (AI辅助)", 
-                       Pre_Test + rnorm(n, 12, 5) + Motivation * 2, 
-                       Pre_Test + rnorm(n, 5, 4) + Motivation * 1),
-    Post_Test = pmin(Post_Test, 100) # 最高100分
-  )
