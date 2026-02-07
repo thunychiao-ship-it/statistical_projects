@@ -1,0 +1,81 @@
+---
+title: "Student Learning Dashboard"
+format:
+  html:
+    theme: default
+    toc: false
+    page-layout: full
+---
+
+<style>
+/* Dashboard-wide styles */
+.kpi-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.kpi-card {
+  flex: 1;
+  background: #f2f0f7;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.kpi-title {
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.kpi-value {
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: #512888;
+}
+
+.section-title {
+  margin-top: 32px;
+  margin-bottom: 12px;
+  color: #512888;
+}
+</style>
+
+## Overview
+
+<div class="kpi-row">
+  <div class="kpi-card">
+    <div class="kpi-title">Engagement Rate</div>
+    <div class="kpi-value">78%</div>
+  </div>
+
+  <div class="kpi-card">
+    <div class="kpi-title">Completion Rate</div>
+    <div class="kpi-value">64%</div>
+  </div>
+
+  <div class="kpi-card">
+    <div class="kpi-title">Active Students</div>
+    <div class="kpi-value">312</div>
+  </div>
+</div>
+
+## Engagement Trend {.section-title}
+
+```{r}
+library(plotly)
+
+weeks <- c("Week 1","Week 2","Week 3","Week 4","Week 5")
+engagement <- c(62, 68, 71, 75, 78)
+
+plot_ly(
+  x = weeks,
+  y = engagement,
+  type = "scatter",
+  mode = "lines+markers",
+  hovertemplate = "%{x}<br>Engagement: %{y}%<extra></extra>"
+) %>%
+  layout(
+    yaxis = list(title = "Engagement (%)", range = c(0,100)),
+    xaxis = list(title = ""),
+    margin = list(t = 40)
+  )

@@ -1,0 +1,1172 @@
+﻿ID,User ID,Client Name,Currency,Payment Method,Date,M,Description,Invoice ID,Transaction ID,Amount In,Fees,Amount Out,Exchange Rate,Income,Income ($)
+143,25,,USD,PayPal,2024-06-16 22:11,6,Invoice Payment,10440,,21.69,0,0,7.25519,21.69,$21.6900
+144,4,,USD,PayPal,2024-06-16 22:27,6,Invoice Payment,10476,70M06181MN227831E,2.99,0.59,0,1,2.4,$2.4000
+145,4,,USD,Bank Card,2024-06-16 22:53,6,Invoice Payment,10488,txn_3PSKScLC1qWai2Wk13QMwtxU,2.99,0.4,0,1,2.59,$2.5900
+146,28,omen xu,CNY,PayPal,2024-06-16 23:59,6,Invoice Payment,10500,,21.69,0,0,7.25519,21.69,$2.9896
+147,4,,USD,PayPal,2024-06-17 12:05,6,Invoice Payment,10560,pi_3PSWoeLC1qWai2Wk0Fy4D0qs,2.99,0,0,1,2.99,$2.9900
+148,32,qi mr,USD,PayPal,2024-06-18 00:00,6,Invoice Payment,10572,,0,0,0,1,0,$0.0000
+150,34,raiders 168,CNY,PayPal,2024-06-20 00:00,6,Invoice Payment,10596,,0,0,0,7.25695,0,$0.0000
+151,35,dow wan,USD,PayPal,2024-06-20 00:00,6,Invoice Payment,10608,,0,0,0,1,0,$0.0000
+152,24,joys feng,USD,PayPal,2024-06-20 00:00,6,Invoice Payment,10620,pi_3PThRyLC1qWai2Wk0hoQ0vJ8,0,0,0,1,0,$0.0000
+153,36,leton Car,USD,Mail In Payment,2024-06-21 22:01,6,Invoice Payment,10644,,255,0,0,1,255,$255.0000
+154,38,blade dao,USD,PayPal,2024-06-25 11:53,6,Invoice Payment,10656,,3.99,0,0,1,3.99,$3.9900
+172,33,hello hey,USD,Mail In Payment,2024-06-27 00:00,6,Invoice Payment,10848,,0,0,0,1,0,$0.0000
+155,40,David Song,USD,PayPal,2024-06-27 18:13,6,Invoice Payment,10680,8KK8846671967620X,1,0.54,0,1,0.46,$0.4600
+156,44,Al CA Al CA,USD,PayPal,2024-06-27 18:21,6,Invoice Payment,10728,pi_3PWFRYLC1qWai2Wk06AsQoH1,1,0,0,1,1,$1.0000
+157,45,Checo Tom,USD,PayPal,2024-06-27 18:23,6,Invoice Payment,10752,pi_3PWFT9LC1qWai2Wk0xA2i1pO,1,0,0,1,1,$1.0000
+158,41,Tauretta Mccray,USD,PayPal,2024-06-27 18:25,6,Invoice Payment,10692,pi_3PWFSaLC1qWai2Wk0e8fz6kJ,1,0,0,1,1,$1.0000
+159,47,11 22,USD,PayPal,2024-06-27 18:25,6,Invoice Payment,10764,2WR491628Y735060L,1,0.54,0,1,0.46,$0.4600
+160,49,??? ???,USD,PayPal,2024-06-27 18:28,6,Invoice Payment,10800,pi_3PWFXuLC1qWai2Wk1TjjA1Hf,1,0,0,1,1,$1.0000
+161,48,Alexandra Adams,USD,PayPal,2024-06-27 18:29,6,Invoice Payment,10788,4X210966XM120514P,1,0.52,0,1,0.48,$0.4800
+162,46,x x,USD,PayPal,2024-06-27 18:30,6,Invoice Payment,10776,1HW89316YC536430A,1,0.54,0,1,0.46,$0.4600
+163,42,Hale Eric R,USD,PayPal,2024-06-27 18:37,6,Invoice Payment,10704,pi_3PWFgmLC1qWai2Wk08Z2QVYy,1,0,0,1,1,$1.0000
+164,50,Monkey Ray,USD,PayPal,2024-06-27 18:39,6,Invoice Payment,10812,6TP43758SN755703K,1,0.54,0,1,0.46,$0.4600
+165,51,Jew Trump,USD,PayPal,2024-06-27 18:44,6,Invoice Payment,10824,pi_3PWFmZLC1qWai2Wk12sNLKC6,1,0,0,1,1,$1.0000
+166,44,Al CA Al CA,USD,PayPal,2024-06-27 19:22,6,Invoice Payment,10728,pi_3PWFRYLC1qWai2Wk06AsQoH1,1,0,0,1,1,$1.0000
+167,45,Checo Tom,USD,PayPal,2024-06-27 19:22,6,Invoice Payment,10752,pi_3PWFT9LC1qWai2Wk0xA2i1pO,1,0,0,1,1,$1.0000
+168,41,Tauretta Mccray,USD,PayPal,2024-06-27 19:25,6,Invoice Payment,10692,pi_3PWFSaLC1qWai2Wk0e8fz6kJ,1,0,0,1,1,$1.0000
+169,49,??? ???,USD,PayPal,2024-06-27 19:29,6,Invoice Payment,10800,pi_3PWFXuLC1qWai2Wk1TjjA1Hf,1,0,0,1,1,$1.0000
+170,42,Hale Eric R,USD,PayPal,2024-06-27 19:37,6,Invoice Payment,10704,pi_3PWFgmLC1qWai2Wk08Z2QVYy,1,0,0,1,1,$1.0000
+171,52,bo mo,USD,PayPal,2024-06-27 20:02,6,Invoice Payment,10836,pi_3PWH1LLC1qWai2Wk1V18Cu4p,1,0,0,1,1,$1.0000
+173,54,??? ???,CNY,PayPal,2024-06-27 21:49,6,Invoice Payment,10860,pi_3PWIhhLC1qWai2Wk1hUOzm0L,21.71,0,0,7.26663,21.71,$2.9876
+175,32,qi mr,USD,PayPal,2024-06-28 11:59,6,Invoice Payment,10920,,7.99,0,0,1,7.99,$7.9900
+176,57,Kusuo Saiki,USD,PayPal,2024-06-28 13:49,6,Invoice Payment,11004,pi_3PWXfKLC1qWai2Wk1vL1I1Ry,1,0,0,1,1,$1.0000
+177,58,k k,USD,PayPal,2024-06-28 13:53,6,Invoice Payment,11016,9DF28969VM0591221,1,0.54,0,1,0.46,$0.4600
+178,59,jb ok,USD,PayPal,2024-06-28 13:54,6,Invoice Payment,11028,pi_3PWXkkLC1qWai2Wk0f5CrByF,1,0,0,1,1,$1.0000
+179,60,Moretti Klein,USD,PayPal,2024-06-28 13:58,6,Invoice Payment,11040,4PF87572H2576661C,1,0.54,0,1,0.46,$0.4600
+180,61,L L,USD,PayPal,2024-06-28 14:00,6,Invoice Payment,11052,6B2788068P4813916,1,0.54,0,1,0.46,$0.4600
+181,62,e kin,USD,PayPal,2024-06-28 14:06,6,Invoice Payment,11064,94R75013YC870621F,1,0.54,0,1,0.46,$0.4600
+182,65,yi huang,USD,PayPal,2024-06-28 14:29,6,Invoice Payment,11088,pi_3PWYIhLC1qWai2Wk1XREabMg,1,0,0,1,1,$1.0000
+183,66,?????? ???,CNY,PayPal,2024-06-28 14:51,6,Invoice Payment,11100,pi_3PWYdhLC1qWai2Wk0UmM7fHn,7.26,0,0,7.26861,7.26,$0.9988
+184,56,SERV EN,USD,PayPal,2024-06-28 15:18,6,Invoice Payment,11112,pi_3PWZ3ULC1qWai2Wk1gYsKHoP,1,0,0,1,1,$1.0000
+185,66,?????? ???,CNY,PayPal,2024-06-28 15:29,6,Invoice Payment,11100,,0.01,0,0,7.26861,0.01,$0.0014
+186,68,Andres Nava,USD,PayPal,2024-06-28 15:34,6,Invoice Payment,11124,pi_3PWZJRLC1qWai2Wk1S4nj8WA,4.99,0,0,1,4.99,$4.9900
+187,70,jack lee,USD,PayPal,2024-06-28 15:37,6,Invoice Payment,11148,7FN98044702356611,1,0.54,0,1,0.46,$0.4600
+188,72,shihohg xu,USD,PayPal,2024-06-28 15:37,6,Invoice Payment,11160,pi_3PWZMoLC1qWai2Wk14LSLYmA,1,0,0,1,1,$1.0000
+189,71,Ytxiaoxiao 1,CNY,PayPal,2024-06-28 15:41,6,Invoice Payment,11172,pi_3PWZP8LC1qWai2Wk1FDQt46s,7.26,0,0,7.26861,7.26,$0.9988
+190,74,sss ???,USD,PayPal,2024-06-28 17:57,6,Invoice Payment,11184,pi_3PWbXiLC1qWai2Wk1t8AFgst,1,0,0,1,1,$1.0000
+191,79,seg etwq,USD,PayPal,2024-06-28 22:59,6,Invoice Payment,11244,96M62513F77716235,1,0.52,0,1,0.48,$0.4800
+192,33,hello hey,USD,Alipay ????????? GO,2024-06-29 00:00,6,Invoice Payment,11280,py_3PWgpULC1qWai2Wk0sJHniW6,0,0.31,0,1,-0.31,-$0.3100
+193,33,hello hey,USD,Alipay ????????? GO,2024-06-29 00:00,6,Invoice Payment,11292,py_3PWh8BLC1qWai2Wk02yDikOL,0,0.31,0,1,-0.31,-$0.3100
+194,56,SERV EN,USD,Crypto ????????????,2024-06-29 00:00,6,Invoice Payment,11304,a6201ddbd623d7140861f1e4d142fada59e10af7350e072cdfbe4373eec8a03c,0,0,0,1,0,$0.0000
+195,82,shanghai xuhui,USD,PayPal,2024-06-29 16:13,6,Invoice Payment,11316,48P14773J23242913,1,0.54,0,1,0.46,$0.4600
+196,82,shanghai xuhui,USD,PayPal,2024-06-29 17:46,6,Reversed Transaction ID: 48P14773J23242913,11316,1HE40025EX219142A,0,-0.54,1,1,-0.46,-$0.4600
+197,55,Tom Smith,USD,PayPal,2024-06-30 00:00,6,Invoice Payment,11328,,0,0,0,1,0,$0.0000
+198,84,Frank White,USD,Crypto ????????????,2024-06-30 11:22,6,Invoice Payment,11352,,4.99,0,0,1,4.99,$4.9900
+199,75,Donghua Gu,USD,PayPal,2024-07-01 15:18,7,Invoice Payment,11388,70B17261BH9932101,24,1.69,0,1,22.31,$22.3100
+200,88,??????- ??????,USD,Alipay ????????? (QR+APP),2024-07-01 20:32,7,Invoice Payment,11400,,3.19,0,0,1,3.19,$3.1900
+201,56,SERV EN,USD,Alipay ????????? (QR+APP),2024-07-01 22:02,7,Invoice Payment,11412,pi_3PXkmFB0NNhXczIK1WTTqQQj,1,0,0,1,1,$1.0000
+202,91,en san,USD,Alipay ????????? (QR+APP),2024-07-02 22:40,7,Invoice Payment,11964,pi_3PY7rBB0NNhXczIK0bJPVsnI,4.99,0,0,1,4.99,$4.9900
+204,94,William Arcuri,USD,Alipay ????????? (QR+APP),2024-07-03 20:15,7,Invoice Payment,12000,pi_3PYS57B0NNhXczIK1TeSSJiq,1.09,0,0,1,1.09,$1.0900
+205,94,William Arcuri,USD,Alipay ????????? (QR+APP),2024-07-03 20:15,7,Invoice Payment,12000,pi_3PYS57B0NNhXczIK1TeSSJiq,1.09,0,0,1,1.09,$1.0900
+206,93,?????? ???,USD,PayPal,2024-07-03 20:31,7,Invoice Payment,11988,7DP66106SU837635T,1.09,0.54,0,1,0.55,$0.5500
+207,98,Qiang 163,USD,PayPal,2024-07-03 20:44,7,Invoice Payment,12024,95G759662K103391B,1.88,0.58,0,1,1.3,$1.3000
+208,101,Zara Stanly,USD,PayPal,2024-07-03 20:47,7,Invoice Payment,12048,7BS50984J01442549,1.88,0.58,0,1,1.3,$1.3000
+209,99,Lili Zhu,USD,Alipay ????????? (QR+APP),2024-07-03 21:54,7,Invoice Payment,12036,pi_3PYTcgB0NNhXczIK1Z2wMesx,1.88,0,0,1,1.88,$1.8800
+210,102,ceshi a2a,USD,PayPal,2024-07-03 21:55,7,Invoice Payment,12049,3M71982362251450X,1.88,0.58,0,1,1.3,$1.3000
+211,65,yi huang,USD,PayPal,2024-07-03 22:02,7,Invoice Payment,12073,42651296DR122644H,1.88,0.58,0,1,1.3,$1.3000
+212,104,Darrell Ice,USD,Alipay ????????? (QR+APP),2024-07-03 22:23,7,Invoice Payment,12086,pi_3PYU4SB0NNhXczIK0OO6J0iW,1.88,0,0,1,1.88,$1.8800
+213,104,Darrell Ice,USD,Alipay ????????? (QR+APP),2024-07-03 23:22,7,Invoice Payment,12086,pi_3PYU4SB0NNhXczIK0OO6J0iW,1.88,0,0,1,1.88,$1.8800
+214,108,Autuk Kanon,USD,Alipay ????????? (QR+APP),2024-07-03 23:38,7,Invoice Payment,12099,pi_3PYVGAB0NNhXczIK1D5P5GwC,1.88,0,0,1,1.88,$1.8800
+215,100,Michael Ritter,USD,Alipay ????????? (QR+APP),2024-07-03 23:40,7,Invoice Payment,12012,pi_3PYVHfB0NNhXczIK18ZkUfyF,1.88,0,0,1,1.88,$1.8800
+216,109,N ???,USD,Alipay ????????? (QR+APP),2024-07-03 23:40,7,Invoice Payment,12123,pi_3PYVHkB0NNhXczIK1VYeEv8y,1.88,0,0,1,1.88,$1.8800
+217,110,?????? ???,USD,Alipay ????????? (QR+APP),2024-07-03 23:41,7,Invoice Payment,12147,pi_3PYVIFB0NNhXczIK0lKHM1jq,1.88,0,0,1,1.88,$1.8800
+218,113,xun xun,USD,Alipay ????????? (QR+APP),2024-07-03 23:42,7,Invoice Payment,12207,pi_3PYVJIB0NNhXczIK0RMLarOS,1.88,0,0,1,1.88,$1.8800
+219,103,sun cha,USD,Alipay ????????? (QR+APP),2024-07-03 23:42,7,Invoice Payment,12195,pi_3PYVJBB0NNhXczIK1se2dIHM,1.88,0,0,1,1.88,$1.8800
+220,111,kun xiao,USD,Alipay ????????? (QR+APP),2024-07-03 23:42,7,Invoice Payment,12159,pi_3PYVIMB0NNhXczIK03hYW1hE,1.88,0,0,1,1.88,$1.8800
+229,33,hello hey,USD,Mail In Payment,2024-07-04 00:00,7,Invoice Payment,12232,,0,0,0,1,0,$0.0000
+221,99,Lili Zhu,USD,Alipay ????????? (QR+APP),2024-07-04 00:55,7,Invoice Payment,12036,pi_3PYTcgB0NNhXczIK1Z2wMesx,1.88,0,0,1,1.88,$1.8800
+222,94,William Arcuri,USD,Alipay ????????? (QR+APP),2024-07-04 01:16,7,Invoice Payment,12000,pi_3PYS57B0NNhXczIK1TeSSJiq,1.09,0,0,1,1.09,$1.0900
+223,64,xing yun,USD,PayPal,2024-07-04 01:18,7,Invoice Payment,12074,,1.88,0,0,1,1.88,$1.8800
+224,107,benjamin benjamin,USD,PayPal,2024-07-04 01:21,7,Invoice Payment,12111,,1.88,0,0,1,1.88,$1.8800
+225,104,Darrell Ice,USD,Alipay ????????? (QR+APP),2024-07-04 01:22,7,Invoice Payment,12086,pi_3PYU4SB0NNhXczIK0OO6J0iW,1.88,0,0,1,1.88,$1.8800
+226,97,harry wang,CNY,PayPal,2024-07-04 01:32,7,Invoice Payment,12171,,7.26,0,0,7.27132,7.26,$0.9984
+227,75,Donghua Gu,USD,PayPal,2024-07-04 01:41,7,Invoice Payment,12183,,1.88,0,0,1,1.88,$1.8800
+228,105,Yunlin Xie,USD,PayPal,2024-07-04 01:47,7,Invoice Payment,12098,,1.88,0,0,1,1.88,$1.8800
+230,64,xing yun,USD,PayPal,2024-07-04 21:15,7,Invoice Payment,12074,4AT22900EM7351828,1.88,0.58,0,1,1.3,$1.3000
+231,122,abc def,CNY,Bank Card,2024-07-04 22:19,7,Invoice Payment,12244,txn_3PYqVRB0NNhXczIK0CdeuWYa,174.31,9.75,0,7.27338,164.56,$22.6250
+232,107,benjamin benjamin,USD,PayPal,2024-07-04 22:30,7,Invoice Payment,12111,9W459117SK748924W,1.88,0.58,0,1,1.3,$1.3000
+233,75,Donghua Gu,USD,PayPal,2024-07-04 22:33,7,Invoice Payment,12183,8P287232AE295160W,1.88,0.58,0,1,1.3,$1.3000
+234,97,harry wang,CNY,PayPal,2024-07-04 22:33,7,Invoice Payment,12171,41E670351H810404V,7.26,3.93,0,7.27338,3.33,$0.4578
+235,105,Yunlin Xie,USD,PayPal,2024-07-04 23:10,7,Invoice Payment,12098,6R359676D0020084D,1.88,0.58,0,1,1.3,$1.3000
+236,105,Yunlin Xie,USD,PayPal,2024-07-04 23:11,7,Invoice Payment,12098,8J431320AG027484U,1.88,0.58,0,1,1.3,$1.3000
+237,24,joys feng,USD,Mail In Payment,2024-07-05 00:00,7,Invoice Payment,12256,,0,0,0,1,0,$0.0000
+238,33,hello hey,USD,Mail In Payment,2024-07-05 00:00,7,Invoice Payment,12268,,0,0,0,1,0,$0.0000
+239,127,dandy api,USD,PayPal,2024-07-05 22:15,7,Invoice Payment,12280,3GL27659T4872183U,1.88,0.58,0,1,1.3,$1.3000
+240,127,dandy api,USD,PayPal,2024-07-05 22:16,7,Invoice Payment,12280,5S361987JS191202B,1.88,0.58,0,1,1.3,$1.3000
+241,124,Lin Yu,CNY,Alipay ????????? (QR+APP),2024-07-05 23:17,7,Invoice Payment,12292,pi_3PZDrxB0NNhXczIK0rLEPp6c,7.27,0,0,7.26991,7.27,$1.0000
+242,128,se ya,USD,Alipay ????????? (QR+APP),2024-07-06 02:10,7,Invoice Payment,12304,pi_3PZGZQB0NNhXczIK0nZRIPQD,1.88,0,0,1,1.88,$1.8800
+243,130,Benny X,USD,PayPal,2024-07-07 00:18,7,Invoice Payment,12341,6CK25837JG3899727,1.98,0.56,0,1,1.42,$1.4200
+244,131,hongye liu,USD,Alipay ????????? (QR+APP),2024-07-07 00:21,7,Invoice Payment,12353,pi_3PZbL6B0NNhXczIK0G7aSz9v,1.98,0,0,1,1.98,$1.9800
+245,132,Misk Lin,CNY,PayPal,2024-07-07 06:24,7,Invoice Payment,12365,5TH16457W3070153W,7.26,3.92,0,7.26672,3.34,$0.4596
+246,83,Qiang qq,USD,Alipay ????????? (QR+APP),2024-07-07 08:20,7,Invoice Payment,12377,pi_3PZiogB0NNhXczIK1iJtQGcX,1.98,0,0,1,1.98,$1.9800
+247,133,lin wang,USD,PayPal,2024-07-07 09:51,7,Invoice Payment,12401,6SF9393816691922Y,1.98,0.59,0,1,1.39,$1.3900
+248,134,azusa azusa,USD,PayPal,2024-07-07 10:26,7,Invoice Payment,12413,7L523226370702943,1.98,0.59,0,1,1.39,$1.3900
+249,120,d d,USD,PayPal,2024-07-07 11:09,7,Invoice Payment,12425,8FB56309PY913425L,1.98,0.59,0,1,1.39,$1.3900
+250,121,Gransson Isra,USD,PayPal,2024-07-07 11:09,7,Invoice Payment,12437,0GN86225N4050563P,1.98,0.59,0,1,1.39,$1.3900
+251,135,jack wang,USD,Alipay ????????? (QR+APP),2024-07-07 14:17,7,Invoice Payment,12461,pi_3PZoOLB0NNhXczIK02YhxKdu,1.98,0,0,1,1.98,$1.9800
+252,136,??? ???,USD,Alipay ????????? (QR+APP),2024-07-07 14:22,7,Invoice Payment,12473,pi_3PZoT0B0NNhXczIK0vsPSpY3,1.98,0,0,1,1.98,$1.9800
+253,137,He He,USD,Alipay ????????? (QR+APP),2024-07-07 14:40,7,Invoice Payment,12485,pi_3PZol9B0NNhXczIK0D6tqbog,1.98,0,0,1,1.98,$1.9800
+254,139,abod golden,USD,Alipay ????????? (QR+APP),2024-07-07 15:28,7,Invoice Payment,12497,pi_3PZpVlB0NNhXczIK1bvNXOk1,1.98,0,0,1,1.98,$1.9800
+255,140,Lin Wang,USD,Alipay ????????? (QR+APP),2024-07-07 16:01,7,Invoice Payment,12509,pi_3PZpwmB0NNhXczIK0okNGUhH,1.98,0,0,1,1.98,$1.9800
+256,115,ameal S,USD,Alipay ????????? (QR+APP),2024-07-07 20:18,7,Invoice Payment,12533,pi_3PZu2rB0NNhXczIK04GBicGB,1.98,0,0,1,1.98,$1.9800
+257,144,flixe les,USD,Alipay ????????? (QR+APP),2024-07-07 20:19,7,Invoice Payment,12569,pi_3PZu3RB0NNhXczIK0XtZ9p2H,1.98,0,0,1,1.98,$1.9800
+258,142,xsd asdsa,USD,Alipay ????????? (QR+APP),2024-07-07 20:21,7,Invoice Payment,12545,pi_3PZu4WB0NNhXczIK0k7Qsndg,1.98,0,0,1,1.98,$1.9800
+259,141,yui ie,USD,Alipay ????????? (QR+APP),2024-07-07 20:22,7,Invoice Payment,12521,pi_3PZu5eB0NNhXczIK15cy8MYm,1.98,0,0,1,1.98,$1.9800
+260,143,john fang,USD,Alipay ????????? (QR+APP),2024-07-07 20:31,7,Invoice Payment,12557,pi_3PZuEQB0NNhXczIK19AjneLM,1.98,0,0,1,1.98,$1.9800
+261,149,kj hs,USD,PayPal,2024-07-08 02:21,7,Invoice Payment,12581,1VA94210PM793344M,1.98,0.56,0,1,1.42,$1.4200
+262,150,?????? ???,USD,Alipay ????????? (QR+APP),2024-07-08 13:05,7,Invoice Payment,12593,pi_3Pa9hrB0NNhXczIK12SNt5Nt,1.98,0,0,1,1.98,$1.9800
+263,151,yizhuo li,USD,Alipay ????????? (QR+APP),2024-07-08 16:15,7,Invoice Payment,12617,pi_3PaCj1B0NNhXczIK0CBp8uDR,1.98,0,0,1,1.98,$1.9800
+264,153,laohu ma,USD,Alipay ????????? (QR+APP),2024-07-08 16:17,7,Invoice Payment,12641,pi_3PaCl2B0NNhXczIK0R6EvdUs,1.98,0,0,1,1.98,$1.9800
+265,114,feng li,USD,Alipay ????????? (QR+APP),2024-07-08 16:28,7,Invoice Payment,12653,pi_3PaCuRB0NNhXczIK0Dii6QRA,1.98,0,0,1,1.98,$1.9800
+266,156,Ye La,USD,Alipay ????????? (QR+APP),2024-07-08 16:41,7,Invoice Payment,12677,pi_3PaD6fB0NNhXczIK1qFJHvSd,1.98,0,0,1,1.98,$1.9800
+267,116,TeaYang Jong,USD,Alipay ????????? (QR+APP),2024-07-08 16:43,7,Invoice Payment,12689,pi_3PaD9kB0NNhXczIK0ULOAukf,1.98,0,0,1,1.98,$1.9800
+268,155,mou chen,CNY,PayPal,2024-07-08 16:50,7,Invoice Payment,12665,81N509736T857542X,14.39,4.29,0,7.26672,10.1,$1.3899
+269,146,Kathy Jackson,USD,Alipay ????????? (QR+APP),2024-07-08 17:10,7,Invoice Payment,12725,pi_3PaDafB0NNhXczIK0zwna6P4,1.98,0,0,1,1.98,$1.9800
+270,158,Jackie Jordon,USD,Crypto ????????????,2024-07-08 17:27,7,Invoice Payment,12701,,1.98,0,0,1,1.98,$1.9800
+271,147,Rawwiin Rawwiin,USD,Alipay ????????? (QR+APP),2024-07-08 18:30,7,Invoice Payment,12737,pi_3PaEpIB0NNhXczIK028QqwtL,1.98,0,0,1,1.98,$1.9800
+272,145,herr li,CNY,PayPal,2024-07-08 19:05,7,Invoice Payment,12761,9UW249683B641934S,14.39,4.29,0,7.26672,10.1,$1.3899
+273,160,Len Gorrio,USD,Alipay ????????? (QR+APP),2024-07-08 19:22,7,Invoice Payment,12797,pi_3PaFeAB0NNhXczIK0VLHYzVj,1.98,0,0,1,1.98,$1.9800
+274,159,Joyce Uecker,USD,Crypto ????????????,2024-07-08 20:15,7,Invoice Payment,12749,,1.98,0,0,1,1.98,$1.9800
+275,59,jb ok,USD,Alipay ????????? (QR+APP),2024-07-08 21:10,7,Invoice Payment,12845,pi_3PaHGKB0NNhXczIK145QWS0D,14.1,0,0,1,14.1,$14.1000
+276,166,kang jian,USD,Alipay ????????? (QR+APP),2024-07-08 21:13,7,Invoice Payment,12881,pi_3PaHNBB0NNhXczIK17xTSjb7,1.98,0,0,1,1.98,$1.9800
+277,165,Eduardo Kopievic,USD,PayPal,2024-07-08 21:15,7,Invoice Payment,12857,441520908E406302N,1.98,0.59,0,1,1.39,$1.3900
+278,161,dd ss,CNY,Alipay ????????? (QR+APP),2024-07-08 21:17,7,Invoice Payment,12785,pi_3PaHQXB0NNhXczIK1zUrdtTo,14.39,0,0,7.26672,14.39,$1.9803
+279,46,x x,USD,PayPal,2024-07-08 21:38,7,Invoice Payment,12929,4HM0847012465513K,13,1.14,0,1,11.86,$11.8600
+280,168,Thank Lol,USD,PayPal,2024-07-08 22:12,7,Invoice Payment,12953,1DL54954TA313291P,1.98,0.59,0,1,1.39,$1.3900
+281,169,chen yu,USD,Alipay ????????? (QR+APP),2024-07-08 22:28,7,Invoice Payment,12965,pi_3PaIY1B0NNhXczIK1z7AIxp3,1.98,0,0,1,1.98,$1.9800
+282,171,Love I'm,USD,Alipay ????????? (QR+APP),2024-07-08 22:38,7,Invoice Payment,12989,pi_3PaIhIB0NNhXczIK1VhjbSES,1.98,0,0,1,1.98,$1.9800
+283,173,nothon pang,USD,Alipay ????????? (QR+APP),2024-07-08 22:50,7,Invoice Payment,13025,pi_3PaIt3B0NNhXczIK0t6Ilz0V,1.98,0,0,1,1.98,$1.9800
+284,174,Jim Mike,USD,PayPal,2024-07-08 22:51,7,Invoice Payment,13037,4N81767583862730T,1.98,0.56,0,1,1.42,$1.4200
+285,172,afaf afgvas,USD,Alipay ????????? (QR+APP),2024-07-08 22:53,7,Invoice Payment,13049,pi_3PaIvUB0NNhXczIK1PdpBeUQ,1.98,0,0,1,1.98,$1.9800
+286,90,huaitao jin,CNY,Alipay ????????? (QR+APP),2024-07-08 22:53,7,Invoice Payment,13013,pi_3PaIwLB0NNhXczIK1YlgDlpk,14.39,0,0,7.26672,14.39,$1.9803
+287,175,kenven li,USD,PayPal,2024-07-08 22:56,7,Invoice Payment,13085,0K336381FY1014517,1.98,0.56,0,1,1.42,$1.4200
+288,148,Wan Ops,USD,PayPal,2024-07-08 23:00,7,Invoice Payment,13109,78M69848RV354521S,1.98,0.56,0,1,1.42,$1.4200
+289,118,Starlight X,CNY,Alipay ????????? (QR+APP),2024-07-08 23:05,7,Invoice Payment,13133,pi_3PaJ7LB0NNhXczIK0eijTQH1,14.39,0,0,7.26672,14.39,$1.9803
+290,178,Pamela M Seals Pamela,USD,Alipay ????????? (QR+APP),2024-07-08 23:05,7,Invoice Payment,13145,pi_3PaJ82B0NNhXczIK1buB3yDM,1.98,0,0,1,1.98,$1.9800
+291,179,Sarah Polli,USD,PayPal,2024-07-08 23:13,7,Invoice Payment,13157,9PN244114P178363T,1.98,0.56,0,1,1.42,$1.4200
+292,181,Le strac,USD,Alipay ????????? (QR+APP),2024-07-08 23:48,7,Invoice Payment,13169,pi_3PaJn5B0NNhXczIK1ZPJpbLY,24,0,0,1,24,$24.0000
+293,182,luo ???,USD,Alipay ????????? (QR+APP),2024-07-09 01:41,7,Invoice Payment,13181,pi_3PaLYCB0NNhXczIK1TFXpHDN,1.98,0,0,1,1.98,$1.9800
+294,184,geng yang,USD,PayPal,2024-07-09 23:03,7,Invoice Payment,13229,8FJ00258D9912350U,1.98,0.56,0,1,1.42,$1.4200
+295,185,fan qing,USD,Alipay ????????? (QR+APP),2024-07-09 23:05,7,Invoice Payment,13241,pi_3PafaLB0NNhXczIK0OJ0OxMZ,1.98,0,0,1,1.98,$1.9800
+296,143,john fang,USD,PayPal,2024-07-09 23:16,7,Invoice Payment,13253,92W8810757200153C,13.93,1.19,0,1,12.74,$12.7400
+297,187,rui hu,USD,Alipay ????????? (QR+APP),2024-07-09 23:23,7,Invoice Payment,13277,pi_3PafsgB0NNhXczIK1gakjVJJ,1.98,0,0,1,1.98,$1.9800
+342,36,leton Car,USD,Crypto ????????????,2024-07-10 00:00,7,Invoice Payment,13673,,415,0,0,1,415,$415.0000
+298,189,liang wang,USD,Alipay ????????? (QR+APP),2024-07-10 00:36,7,Invoice Payment,13325,pi_3Pah1gB0NNhXczIK1ylr31jv,1.98,0,0,1,1.98,$1.9800
+299,190,solaire h3,USD,Alipay ????????? (QR+APP),2024-07-10 15:04,7,Invoice Payment,13337,pi_3PauZCB0NNhXczIK13IYRKBb,1.98,0,0,1,1.98,$1.9800
+300,191,Cayden Jone,USD,Alipay ????????? (QR+APP),2024-07-10 15:06,7,Invoice Payment,13349,pi_3PauZEB0NNhXczIK0sIw1i1u,1.98,0,0,1,1.98,$1.9800
+301,192,Bob Qu,USD,PayPal,2024-07-10 15:06,7,Invoice Payment,13361,2VA54347MV291523M,1.98,0.59,0,1,1.39,$1.3900
+302,194,lei yuchu,USD,Alipay ????????? (QR+APP),2024-07-10 15:16,7,Invoice Payment,13373,pi_3PaulUB0NNhXczIK0ZyYamGS,1.98,0,0,1,1.98,$1.9800
+303,193,guy jiang,CNY,Alipay ????????? (QR+APP),2024-07-10 15:18,7,Invoice Payment,13385,pi_3PaulYB0NNhXczIK0FxxrlBv,14.4,0,0,7.27196,14.4,$1.9802
+304,195,Yang Liu,USD,Alipay ????????? (QR+APP),2024-07-10 15:27,7,Invoice Payment,13397,pi_3PauvDB0NNhXczIK1QX2qJEZ,1.98,0,0,1,1.98,$1.9800
+305,196,jakan leung,USD,Alipay ????????? (QR+APP),2024-07-10 15:32,7,Invoice Payment,13409,pi_3PauzjB0NNhXczIK0NCvxoMQ,1.98,0,0,1,1.98,$1.9800
+306,197,Joseph Wang,USD,Alipay ????????? (QR+APP),2024-07-10 15:36,7,Invoice Payment,13421,pi_3Pav4PB0NNhXczIK0AeJ7vxU,1.98,0,0,1,1.98,$1.9800
+307,199,bie nao,USD,Alipay ????????? (QR+APP),2024-07-10 15:48,7,Invoice Payment,13445,pi_3PavGMB0NNhXczIK0ZZ56E50,1.98,0,0,1,1.98,$1.9800
+308,198,Mason cli,USD,PayPal,2024-07-10 15:53,7,Invoice Payment,13433,52721762BE230073N,1.98,0.56,0,1,1.42,$1.4200
+309,125,sa tona,CNY,Alipay ????????? (QR+APP),2024-07-10 16:08,7,Invoice Payment,13457,pi_3PavYcB0NNhXczIK0t9U55AY,14.4,0,0,7.27196,14.4,$1.9802
+310,200,liam lee,CNY,Alipay ????????? (QR+APP),2024-07-10 16:15,7,Invoice Payment,13469,pi_3PavftB0NNhXczIK0njTzJsY,14.4,0,0,7.27196,14.4,$1.9802
+311,201,TIAN QIU,USD,Alipay ????????? (QR+APP),2024-07-10 16:22,7,Invoice Payment,13481,pi_3PavmEB0NNhXczIK0X3MXNQE,1.98,0,0,1,1.98,$1.9800
+312,202,Solaipandian Vijayaram,USD,Bank Card,2024-07-10 16:33,7,Invoice Payment,13493,txn_3PavxqB0NNhXczIK0fVHvkdi,1.98,0.39,0,1,1.59,$1.5900
+313,125,sa tona,CNY,Alipay ????????? (QR+APP),2024-07-10 16:35,7,Invoice Payment,13505,pi_3PavzKB0NNhXczIK17M33YnZ,101.81,0,0,7.27196,101.81,$14.0004
+314,202,Solaipandian Vijayaram,USD,Bank Card,2024-07-10 16:37,7,Invoice Payment,13517,txn_3Paw1cB0NNhXczIK0LAbLyYe,24,1.36,0,1,22.64,$22.6400
+315,205,Alivia Hermann,USD,Bank Card,2024-07-10 17:04,7,Invoice Payment,13541,txn_3PawS5B0NNhXczIK072kLBXI,7.99,0.65,0,1,7.34,$7.3400
+316,204,lyh axx,USD,Bank Card,2024-07-10 17:10,7,Invoice Payment,13553,txn_3PawXeB0NNhXczIK1Odku50P,4.99,0.52,0,1,4.47,$4.4700
+317,204,lyh axx,USD,Bank Card,2024-07-10 17:18,7,Invoice Payment,13565,txn_3PawewB0NNhXczIK0pLKgjDk,7.99,0.65,0,1,7.34,$7.3400
+318,207,rongdong ding,USD,Alipay ????????? (QR+APP),2024-07-10 17:22,7,Invoice Payment,13577,pi_3PawiuB0NNhXczIK0hBcpDt9,1.98,0,0,1,1.98,$1.9800
+319,204,lyh axx,USD,Bank Card,2024-07-10 17:43,7,Invoice Payment,13589,txn_3Pax3vB0NNhXczIK07VQbvOQ,3.99,0.48,0,1,3.51,$3.5100
+320,204,lyh axx,USD,Bank Card,2024-07-10 17:47,7,Invoice Payment,13601,txn_3Pax7LB0NNhXczIK0XOlEZZl,8.97,0.69,0,1,8.28,$8.2800
+321,208,xi jin,USD,Alipay ????????? (QR+APP),2024-07-10 18:46,7,Invoice Payment,13613,pi_3Pay2IB0NNhXczIK1qa971m8,1.98,0,0,1,1.98,$1.9800
+322,204,lyh axx,USD,Bank Card,2024-07-10 19:17,7,Invoice Payment,13625,txn_3PayWtB0NNhXczIK1omj0AiP,6.09,0.57,0,1,5.52,$5.5200
+323,209,ZHIBAO ZHOU,USD,Alipay ????????? (QR+APP),2024-07-11 00:27,7,Invoice Payment,13637,pi_3Pb3LRB0NNhXczIK1dndsoGj,1.98,0,0,1,1.98,$1.9800
+324,204,lyh axx,USD,Bank Card,2024-07-11 03:06,7,Invoice Payment,13649,txn_3Pb5qNB0NNhXczIK0Gz9MTq7,2.99,0.43,0,1,2.56,$2.5600
+325,210,xia jiao,USD,Alipay ????????? (QR+APP),2024-07-11 06:01,7,Invoice Payment,13661,pi_3Pb8W2B0NNhXczIK0ZZP2O1z,2.99,0,0,1,2.99,$2.9900
+326,28,omen xu,CNY,Alipay ????????? (QR+APP),2024-07-11 12:30,7,Invoice Payment,13697,pi_3PbEduB0NNhXczIK1uqVDnMk,200.02,0,0,7.27603,200.02,$27.4903
+327,211,Faure Katie,USD,Alipay ????????? (QR+APP),2024-07-11 14:12,7,Invoice Payment,13721,pi_3PbGDBB0NNhXczIK1qdfNuCz,1.98,0,0,1,1.98,$1.9800
+328,212,zinc hitomi,USD,Alipay ????????? (QR+APP),2024-07-11 14:14,7,Invoice Payment,13733,pi_3PbGGGB0NNhXczIK1au3tRCG,1.98,0,0,1,1.98,$1.9800
+329,213,zhu xu,USD,Alipay ????????? (QR+APP),2024-07-11 14:27,7,Invoice Payment,13745,pi_3PbGSXB0NNhXczIK0joZNtbx,1.98,0,0,1,1.98,$1.9800
+330,214,a cc,USD,Alipay ????????? (QR+APP),2024-07-11 14:31,7,Invoice Payment,13757,pi_3PbGXCB0NNhXczIK1sRXlM89,1.98,0,0,1,1.98,$1.9800
+331,215,Von Demir,USD,Alipay ????????? (QR+APP),2024-07-11 15:36,7,Invoice Payment,13769,pi_3PbHXwB0NNhXczIK1bm6HqKR,1.98,0,0,1,1.98,$1.9800
+332,201,TIAN QIU,USD,Alipay ????????? (QR+APP),2024-07-11 17:46,7,Invoice Payment,13781,pi_3PbJZtB0NNhXczIK19VZte4r,13.97,0,0,1,13.97,$13.9700
+333,216,jo jo,USD,Alipay ????????? (QR+APP),2024-07-11 19:16,7,Invoice Payment,13793,pi_3PbKygB0NNhXczIK1JSiY9SR,1.98,0,0,1,1.98,$1.9800
+334,218,Alexander Williams,USD,Alipay ????????? (QR+APP),2024-07-11 20:13,7,Invoice Payment,13841,pi_3PbLqqB0NNhXczIK1zcBHwJH,1.98,0,0,1,1.98,$1.9800
+335,217,ni ko,USD,Crypto ????????????,2024-07-11 21:56,7,Invoice Payment,13901,,1.98,0,0,1,1.98,$1.9800
+336,174,Jim Mike,USD,PayPal,2024-07-11 23:46,7,Invoice Payment,13902,3SG715870S936041K,13.89,0.97,0,1,12.92,$12.9200
+337,219,?????? ???,CNY,Alipay ????????? (QR+APP),2024-07-12 01:07,7,Invoice Payment,13914,pi_3PbQRoB0NNhXczIK1ap4TasO,14.41,0,0,7.27603,14.41,$1.9805
+338,220,junwu jiang,USD,Alipay ????????? (QR+APP),2024-07-12 10:28,7,Invoice Payment,13926,pi_3PbZCLB0NNhXczIK1Em6qgRX,1.98,0,0,1,1.98,$1.9800
+339,224,puca griffin,USD,Alipay ????????? (QR+APP),2024-07-12 19:16,7,Invoice Payment,13962,pi_3PbhRuB0NNhXczIK0aWhPrKJ,1.98,0,0,1,1.98,$1.9800
+340,226,Yuan Hua,CNY,Alipay ????????? (QR+APP),2024-07-12 22:31,7,Invoice Payment,13986,pi_3PbkUpB0NNhXczIK1buPelTt,14.38,0,0,7.26504,14.38,$1.9793
+341,227,wenfen lv,USD,Alipay ????????? (QR+APP),2024-07-12 23:45,7,Invoice Payment,13998,pi_3PbleeB0NNhXczIK1OkZtCw7,1.98,0,0,1,1.98,$1.9800
+343,233,?????? ???,USD,Alipay ????????? (QR+APP),2024-07-16 06:56,7,Invoice Payment,14094,pi_3PcxoCB0NNhXczIK0Cy7EefX,2.99,0,0,1,2.99,$2.9900
+344,164,,USD,Alipay ????????? (QR+APP),2024-07-16 16:22,7,Invoice Payment,14106,pi_3Pd6e4B0NNhXczIK1K7Va8ln,36.31,0,0,7.26194,36.31,$36.3100
+345,234,stille ioiox,USD,Alipay ????????? (QR+APP),2024-07-19 12:18,7,Invoice Payment,14130,,7.99,0,0,1,7.99,$7.9900
+346,55,Tom Smith,USD,Mail In Payment,2024-07-24 00:00,7,Invoice Payment,14214,,0,0,0,1,0,$0.0000
+347,143,john fang,USD,PayPal,2024-07-24 15:00,7,Reversed Transaction ID: 92W8810757200153C,13253,9G727544T89579502,0,-1.19,13.93,1,-12.74,-$12.7400
+348,238,tory khoh,USD,PayPal,2024-07-25 13:47,7,Invoice Payment,14226,31B024213P309712F,2.99,0.64,0,1,2.35,$2.3500
+349,56,SERV EN,USD,Crypto ????????????,2024-07-25 17:48,7,Invoice Payment,14070,,42.99,0,0,1,42.99,$42.9900
+350,38,blade dao,USD,Alipay ????????? (QR+APP),2024-07-25 22:37,7,Invoice Payment,13685,pi_3PgSmCRxxun8okeS18La7ZmP,3.99,0,0,1,3.99,$3.9900
+351,252,h h,USD,Alipay ????????? (QR+APP),2024-08-03 18:50,8,Invoice Payment,14370,pi_3PjfXaRxxun8okeS1bJ3rmlN,4.99,0,0,1,4.99,$4.9900
+352,36,leton Car,USD,Mail In Payment,2024-08-09 16:24,8,Invoice Payment,14262,,250,0,0,1,250,$250.0000
+353,36,leton Car,USD,Crypto ????????????,2024-08-09 16:24,8,Invoice Payment,14274,,250,0,0,1,250,$250.0000
+356,36,leton Car,USD,Crypto ????????????,2024-08-11 00:00,8,Invoice Payment,14466,,0,0,0,1,0,$0.0000
+354,256,??? ???,CNY,Alipay ????????? (QR+APP),2024-08-11 03:23,8,Invoice Payment,14442,pi_3PmKssRxxun8okeS0LVvSUOM,21.65,0,0,7.17047,21.65,$3.0193
+355,256,??? ???,CNY,Alipay ????????? (QR+APP),2024-08-11 08:28,8,Invoice Payment,14442,,0.03,0,0,7.17047,0.03,$0.0042
+357,164,,USD,Alipay ????????? (QR+APP),2024-08-14 11:12,8,Invoice Payment,14490,pi_3PnXboRxxun8okeS1HsDp0nm,35.74,0,0,7.16321,35.74,$35.7400
+358,56,SERV EN,USD,Alipay ????????? (QR+APP),2024-08-14 17:14,8,Invoice Payment,14502,pi_3PndGqRxxun8okeS0TpBlD4E,2.99,0,0,1,2.99,$2.9900
+359,33,hello hey,USD,Alipay ????????? (QR+APP),2024-08-14 17:19,8,Invoice Payment,14514,pi_3PndM7Rxxun8okeS0QLoHlQT,2.99,0,0,1,2.99,$2.9900
+360,164,,USD,Alipay ????????? (QR+APP),2024-08-15 21:03,8,Refund of Transaction ID pi_3Pd6e4B0NNhXczIK1K7Va8ln,14106,,0,0,36.31,7.26194,-36.31,-$36.3100
+361,261,noboru takahashi,CNY,Alipay ????????? (QR+APP),2024-08-17 22:07,8,Invoice Payment,14538,pi_3PonGPRxxun8okeS1QCi9XzA,71.57,0,0,7.16373,71.57,$9.9906
+362,263,erbiao huo,USD,PayPal,2024-08-17 22:41,8,Invoice Payment,14550,4V966760172259421,4.99,0.74,0,1,4.25,$4.2500
+363,265,Wenyu Long,USD,Alipay ????????? (QR+APP),2024-08-18 00:44,8,Invoice Payment,14562,pi_3PopjdRxxun8okeS1vNjBn9c,1.49,0,0,1,1.49,$1.4900
+364,266,Fire SonZ,USD,Alipay ????????? (QR+APP),2024-08-18 02:23,8,Invoice Payment,14586,pi_3PorGnRxxun8okeS0jGpbkDZ,4.99,0,0,1,4.99,$4.9900
+365,135,jack wang,USD,PayPal,2024-08-18 03:08,8,Invoice Payment,14574,2S540797GN5972229,9.99,0.99,0,1,9,$9.0000
+366,267,kuang chu,CNY,Alipay ????????? (QR+APP),2024-08-18 16:32,8,Invoice Payment,14598,pi_3Pp4VwRxxun8okeS0E9eKvdm,71.57,0,0,7.16373,71.57,$9.9906
+367,238,tory khoh,USD,PayPal,2024-08-18 16:41,8,Invoice Payment,14610,0B84322254060342E,9.99,0.99,0,1,9,$9.0000
+368,268,??? ???,CNY,Alipay ????????? (QR+APP),2024-08-19 04:24,8,Invoice Payment,14634,pi_3PpFdzRxxun8okeS1Nq4taLE,121.71,0,0,7.16373,121.71,$16.9898
+369,270,Li Hu,USD,Alipay ????????? (QR+APP),2024-08-19 06:44,8,Invoice Payment,14670,pi_3PpHpsRxxun8okeS1k7Jvn4m,1.49,0,0,1,1.49,$1.4900
+370,272,tao tao,USD,Alipay ????????? (QR+APP),2024-08-19 10:32,8,Invoice Payment,14682,pi_3PpLMdRxxun8okeS0TBkVlH4,1.49,0,0,1,1.49,$1.4900
+371,276,reid lam,USD,PayPal,2024-08-20 23:31,8,Invoice Payment,14706,20689685GC475644C,9.99,0.84,0,1,9.15,$9.1500
+372,275,sam john,USD,Alipay ????????? (QR+APP),2024-08-21 09:41,8,Invoice Payment,14718,pi_3Pq3XwRxxun8okeS1Em5ttYn,9.99,0,0,1,9.99,$9.9900
+373,275,sam john,USD,Alipay ????????? (QR+APP),2024-08-21 10:33,8,Invoice Payment,14730,pi_3Pq4LVRxxun8okeS0jElEKU1,4.99,0,0,1,4.99,$4.9900
+374,279,okx a,USD,Crypto ????????????,2024-08-23 13:15,8,Invoice Payment,14766,,7.99,0,0,1,7.99,$7.9900
+375,282,zhuzhuer886 zhuzhu,USD,Crypto ????????????,2024-08-25 21:21,8,Invoice Payment,14802,,16.99,0,0,1,16.99,$16.9900
+376,284,?????? ???,USD,Alipay ????????? (QR+APP),2024-08-27 23:16,8,Invoice Payment,14826,pi_3PsR7IRxxun8okeS11FIke3r,4.99,0,0,1,4.99,$4.9900
+377,286,att wy,CNY,Alipay ????????? (QR+APP),2024-08-28 00:00,8,Invoice Payment,14874,,0,0,0,7.12659,0,$0.0000
+378,151,yizhuo li,USD,Alipay ????????? (QR+APP),2024-08-28 00:00,8,Invoice Payment,14886,,0,0,0,1,0,$0.0000
+380,289,Hao Zhang,CNY,Alipay ????????? (QR+APP),2024-08-29 00:00,8,Invoice Payment,14946,,0,0,0,7.12899,0,$0.0000
+382,294,Goli Shani,USD,Alipay ????????? (QR+APP),2024-08-29 00:00,8,Invoice Payment,14982,,0,0,0,1,0,$0.0000
+383,295,rad qq,CNY,Alipay ????????? (QR+APP),2024-08-29 00:00,8,Invoice Payment,14994,,0,0,0,7.12899,0,$0.0000
+379,289,Hao Zhang,CNY,Alipay ????????? (QR+APP),2024-08-29 01:20,8,Invoice Payment,14910,pi_3PspXJRxxun8okeS0AwpwiLV,35.56,0,0,7.12659,35.56,$4.9898
+381,293,hengchen liu,CNY,Alipay ????????? (QR+APP),2024-08-29 17:09,8,Invoice Payment,14970,pi_3Pt4LrRxxun8okeS0dyeWWwi,21.32,0,0,7.12899,21.32,$2.9906
+385,296,Macoos Li,USD,Alipay ????????? (QR+APP),2024-08-30 00:00,8,Invoice Payment,15018,,0,0,0,1,0,$0.0000
+384,82,shanghai xuhui,USD,PayPal,2024-08-30 06:37,8,Invoice Payment,15006,6VD29465UV793973Y,1,0.54,0,1,0.46,$0.4600
+386,298,zui xuanhong,USD,Alipay ????????? (QR+APP),2024-08-30 17:58,8,Invoice Payment,15042,pi_3PtRajRxxun8okeS0euMuRDK,4.99,0,0,1,4.99,$4.9900
+390,33,hello hey,USD,Alipay ????????? (QR+APP),2024-09-01 00:00,9,Invoice Payment,15126,,0,0,0,1,0,$0.0000
+389,301,hei yu,USD,Alipay ????????? (QR+APP),2024-09-01 00:43,9,Invoice Payment,15114,pi_3PtuNXRxxun8okeS1IuMUk7V,9.99,0,0,1,9.99,$9.9900
+391,303,Yukai Zeng,USD,Alipay ????????? (QR+APP),2024-09-01 13:13,9,Invoice Payment,15150,pi_3Pu66LRxxun8okeS0AKfL4CX,1.99,0,0,1,1.99,$1.9900
+392,263,erbiao huo,USD,PayPal,2024-09-01 14:04,9,Invoice Payment,15162,5GH13922UD586221S,1.99,0.59,0,1,1.4,$1.4000
+393,305,Zhi Qiu,USD,Alipay ????????? (QR+APP),2024-09-01 17:52,9,Invoice Payment,15198,pi_3PuAQpRxxun8okeS1Ebfkd47,1.09,0,0,1,1.09,$1.0900
+394,306,Damin Leonard,USD,Alipay ????????? (QR+APP),2024-09-01 21:23,9,Invoice Payment,15210,pi_3PuDkWRxxun8okeS1UEP5xBv,1.99,0,0,1,1.99,$1.9900
+395,308,Sam John,USD,PayPal,2024-09-01 22:53,9,Invoice Payment,15222,65M736465N9088725,1.99,0.56,0,1,1.43,$1.4300
+396,311,robin chen,USD,Alipay ????????? (QR+APP),2024-09-02 17:20,9,Invoice Payment,15258,pi_3PuWQ5Rxxun8okeS1Q8ioCak,1.99,0,0,1,1.99,$1.9900
+397,312,Nichole Hutsell,USD,Alipay ????????? (QR+APP),2024-09-02 20:57,9,Invoice Payment,15270,pi_3PuZopRxxun8okeS0eN3AqC4,1.09,0,0,1,1.09,$1.0900
+402,317,luo luo,CNY,Alipay ????????? (QR+APP),2024-09-03 00:00,9,Invoice Payment,15318,,0,0,0,7.11301,0,$0.0000
+405,93,?????? ???,USD,Alipay ????????? (QR+APP),2024-09-03 00:00,9,Invoice Payment,15354,,0,0,0,1,0,$0.0000
+408,323,FF FF,USD,Alipay ????????? (QR+APP),2024-09-03 00:00,9,Invoice Payment,15414,,0,0,0,1,0,$0.0000
+398,313,jin zhu,USD,Alipay ????????? (QR+APP),2024-09-03 00:55,9,Invoice Payment,15282,pi_3PudWWRxxun8okeS0KKJ7Q5M,1.99,0,0,1,1.99,$1.9900
+399,314,Li Ruisa,USD,Alipay ????????? (QR+APP),2024-09-03 07:52,9,Invoice Payment,15294,pi_3Puk27Rxxun8okeS16br6Apx,1.09,0,0,1,1.09,$1.0900
+400,315,sunkoda sz,CNY,Alipay ????????? (QR+APP),2024-09-03 11:51,9,Invoice Payment,15306,pi_3PunleRxxun8okeS1zPPiHT9,35.35,0,0,7.11301,35.35,$4.9698
+401,315,sunkoda sz,CNY,Alipay ????????? (QR+APP),2024-09-03 12:07,9,Invoice Payment,15306,,0.03,0,0,7.11301,0.03,$0.0042
+403,318,leticis ???,USD,Alipay ????????? (QR+APP),2024-09-03 17:31,9,Invoice Payment,15330,pi_3Put3pRxxun8okeS0X2LTOGc,1.09,0,0,1,1.09,$1.0900
+404,319,wangzi wang,USD,Alipay ????????? (QR+APP),2024-09-03 20:26,9,Invoice Payment,15342,pi_3Puvo9Rxxun8okeS0vBedYFL,11.99,0,0,1,11.99,$11.9900
+406,320,Xru ruan,USD,Alipay ????????? (QR+APP),2024-09-03 21:56,9,Invoice Payment,15366,pi_3PuxClRxxun8okeS0y9vROCA,1.09,0,0,1,1.09,$1.0900
+407,322,t l,CNY,Alipay ????????? (QR+APP),2024-09-03 22:30,9,Invoice Payment,15402,pi_3PuxjbRxxun8okeS1NSfqHvs,14.08,0,0,7.11301,14.08,$1.9795
+412,327,?????? ???,CNY,Alipay ????????? (QR+APP),2024-09-04 00:00,9,Invoice Payment,15474,,0,0,0,7.12406,0,$0.0000
+416,332,Xm xm,USD,Alipay ????????? (QR+APP),2024-09-04 00:00,9,Invoice Payment,15522,,0,0,0,1,0,$0.0000
+418,330,Janyce Boehm,USD,Alipay ????????? (QR+APP),2024-09-04 00:00,9,Invoice Payment,15546,,0,0,0,1,0,$0.0000
+409,324,jerry kali,USD,Alipay ????????? (QR+APP),2024-09-04 00:50,9,Invoice Payment,15426,pi_3PuzvWRxxun8okeS1KprgVjl,11.99,0,0,1,11.99,$11.9900
+410,326,fan xi,USD,Alipay ????????? (QR+APP),2024-09-04 10:50,9,Invoice Payment,15438,pi_3Pv9IHRxxun8okeS0616wqmG,1.99,0,0,1,1.99,$1.9900
+411,322,t l,CNY,Alipay ????????? (QR+APP),2024-09-04 13:10,9,Invoice Payment,15402,,0.03,0,0,7.12406,0.03,$0.0042
+413,329,Furina QwQ,USD,Alipay ????????? (QR+APP),2024-09-04 18:38,9,Invoice Payment,15486,pi_3PvGb0Rxxun8okeS1tBr1Ocs,1.99,0,0,1,1.99,$1.9900
+414,328,bigjj399 tan,CNY,Alipay ????????? (QR+APP),2024-09-04 18:43,9,Invoice Payment,15498,pi_3PvGfPRxxun8okeS1teTpweE,28.28,0,0,7.12406,28.28,$3.9696
+415,328,bigjj399 tan,CNY,Alipay ????????? (QR+APP),2024-09-04 20:00,9,Invoice Payment,15498,,0.01,0,0,7.12406,0.01,$0.0014
+417,333,Hu Li,CNY,Alipay ????????? (QR+APP),2024-09-04 20:57,9,Invoice Payment,15534,pi_3PvIlzRxxun8okeS0BddH3iV,7.77,0,0,7.12406,7.77,$1.0907
+419,334,jack W,USD,Alipay ????????? (QR+APP),2024-09-04 21:21,9,Invoice Payment,15558,pi_3PvJ9ERxxun8okeS1qZd9M5D,1.09,0,0,1,1.09,$1.0900
+420,335,??? ???,USD,Alipay ????????? (QR+APP),2024-09-04 21:42,9,Invoice Payment,15570,pi_3PvJS8Rxxun8okeS1MWoMJbU,1.09,0,0,1,1.09,$1.0900
+421,336,q1 liang,CNY,Alipay ????????? (QR+APP),2024-09-05 00:00,9,Invoice Payment,15606,,0,0,0,7.11747,0,$0.0000
+425,340,xxx haotian,USD,Alipay ????????? (QR+APP),2024-09-05 00:00,9,Invoice Payment,15654,,0,0,0,1,0,$0.0000
+422,338,??? ??????,USD,Alipay ????????? (QR+APP),2024-09-05 16:43,9,Invoice Payment,15618,pi_3PvbH0Rxxun8okeS0JaCdAJ5,1.09,0,0,1,1.09,$1.0900
+423,339,??? ???,USD,Crypto ????????????,2024-09-05 21:35,9,Invoice Payment,15630,,87.89,0,0,1,87.89,$87.8900
+424,341,??? ???,CNY,Alipay ????????? (QR+APP),2024-09-05 21:45,9,Invoice Payment,15642,pi_3PvfynRxxun8okeS102Z7w8K,120.43,0,0,7.11747,120.43,$16.9203
+426,342,006lp us,USD,Alipay ????????? (QR+APP),2024-09-06 00:00,9,Invoice Payment,15666,,0,0,0,1,0,$0.0000
+433,350,san zhang,USD,Alipay ????????? (QR+APP),2024-09-06 00:00,9,Invoice Payment,15762,,0,0,0,1,0,$0.0000
+427,343,Ni Ming,USD,Alipay ????????? (QR+APP),2024-09-06 01:35,9,Invoice Payment,15690,pi_3PvjZgRxxun8okeS17jZa3nt,3.99,0,0,1,3.99,$3.9900
+428,344,sizuku saki,USD,PayPal,2024-09-06 08:55,9,Invoice Payment,15702,84W70913RG565894W,1.09,0.54,0,1,0.55,$0.5500
+429,345,Dawayne w,CNY,Alipay ????????? (QR+APP),2024-09-06 11:15,9,Invoice Payment,15714,pi_3PvscXRxxun8okeS0zHnnZtN,14.12,0,0,7.09552,14.12,$1.9900
+430,347,Steve Sun,CNY,Alipay ????????? (QR+APP),2024-09-06 18:29,9,Invoice Payment,15726,pi_3PvzPBRxxun8okeS13nQX6bc,7.73,0,0,7.09552,7.73,$1.0894
+431,348,mao da,USD,Alipay ????????? (QR+APP),2024-09-06 19:37,9,Invoice Payment,15738,pi_3Pw0TqRxxun8okeS02er91HS,1.09,0,0,1,1.09,$1.0900
+432,349,abc abc,CNY,Alipay ????????? (QR+APP),2024-09-06 20:16,9,Invoice Payment,15750,pi_3Pw11nRxxun8okeS0RkGTJm3,21.22,0,0,7.09552,21.22,$2.9906
+434,351,xukun cai,USD,PayPal,2024-09-06 23:39,9,Invoice Payment,15774,1DV02479AB5079732,1.09,0.54,0,1,0.55,$0.5500
+436,353,K K,USD,Alipay ????????? (QR+APP),2024-09-07 00:00,9,Invoice Payment,15798,,0,0,0,1,0,$0.0000
+435,352,?????? ???,CNY,Alipay ????????? (QR+APP),2024-09-07 08:35,9,Invoice Payment,15786,pi_3PwCc8Rxxun8okeS1iX7mAFo,7.73,0,0,7.09552,7.73,$1.0894
+437,354,?????? ???,CNY,Alipay ????????? (QR+APP),2024-09-07 11:25,9,Invoice Payment,15810,pi_3PwFGRRxxun8okeS0OLTIKKj,7.72,0,0,7.08367,7.72,$1.0898
+438,354,?????? ???,CNY,Alipay ????????? (QR+APP),2024-09-07 11:32,9,Invoice Payment,15810,,0.01,0,0,7.08367,0.01,$0.0014
+439,314,Li Ruisa,USD,Alipay ????????? (QR+APP),2024-09-07 17:58,9,Invoice Payment,15822,pi_3PwLOvRxxun8okeS07RfMiMJ,1.09,0,0,1,1.09,$1.0900
+440,356,hsuan dean,USD,Alipay ????????? (QR+APP),2024-09-07 21:36,9,Invoice Payment,15834,pi_3PwOnZRxxun8okeS0VMUQEml,1.99,0,0,1,1.99,$1.9900
+442,354,?????? ???,CNY,Alipay ????????? (QR+APP),2024-09-08 00:00,9,Invoice Payment,15966,,0,0,0,7.08367,0,$0.0000
+443,336,q1 liang,CNY,Alipay ????????? (QR+APP),2024-09-08 00:00,9,Invoice Payment,15942,,0,0,0,7.08367,0,$0.0000
+444,359,ysyy yy,CNY,Alipay ????????? (QR+APP),2024-09-08 00:00,9,Invoice Payment,15930,,0,0,0,7.08367,0,$0.0000
+446,361,pax sun,USD,Alipay ????????? (QR+APP),2024-09-08 00:00,9,Invoice Payment,16014,,0,0,0,1,0,$0.0000
+441,357,Tom Zhou,USD,Alipay ????????? (QR+APP),2024-09-08 14:11,9,Invoice Payment,15846,pi_3PweKyRxxun8okeS0miLPoq8,1.99,0,0,1,1.99,$1.9900
+450,365,CCC CCC,USD,Alipay ????????? (QR+APP),2024-09-09 00:00,9,Invoice Payment,16062,,0,0,0,1,0,$0.0000
+455,351,xukun cai,USD,PayPal,2024-09-09 00:00,9,Invoice Payment,16146,,0,0,0,1,0,$0.0000
+456,367,?????? ???,USD,Alipay ????????? (QR+APP),2024-09-09 00:00,9,Invoice Payment,16170,,0,0,0,1,0,$0.0000
+447,362,Tryanks Tryanks,USD,Alipay ????????? (QR+APP),2024-09-09 01:07,9,Invoice Payment,16026,pi_3Pwoa2Rxxun8okeS1IVIPySp,2.99,0,0,1,2.99,$2.9900
+448,363,jeff helel,CNY,Alipay ????????? (QR+APP),2024-09-09 09:08,9,Invoice Payment,16050,pi_3Pww5nRxxun8okeS1V42TL9Z,14.1,0,0,7.08367,14.1,$1.9905
+449,363,jeff helel,CNY,Alipay ????????? (QR+APP),2024-09-09 10:01,9,Invoice Payment,16050,,0.01,0,0,7.08367,0.01,$0.0014
+451,366,gdfg gdfg,USD,Alipay ????????? (QR+APP),2024-09-09 13:02,9,Invoice Payment,16086,pi_3PwzhKRxxun8okeS1GEUDWkO,1.09,0,0,1,1.09,$1.0900
+452,334,jack W,USD,Alipay ????????? (QR+APP),2024-09-09 14:54,9,Invoice Payment,16098,pi_3Px1UcRxxun8okeS1AdLpwSj,1.99,0,0,1,1.99,$1.9900
+453,36,leton Car,USD,Crypto ????????????,2024-09-09 18:07,9,Invoice Payment,16134,,250,0,0,1,250,$250.0000
+454,36,leton Car,USD,Crypto ????????????,2024-09-09 18:07,9,Invoice Payment,14838,,250,0,0,1,250,$250.0000
+457,369,Node Seek,USD,Alipay ????????? (QR+APP),2024-09-09 22:37,9,Invoice Payment,16182,pi_3Px8i4Rxxun8okeS0oeTmJES,1.09,0,0,1,1.09,$1.0900
+461,373,666 999,CNY,Alipay ????????? (QR+APP),2024-09-10 00:00,9,Invoice Payment,16278,,0,0,0,7.11663,0,$0.0000
+462,326,fan xi,USD,Alipay ????????? (QR+APP),2024-09-10 00:00,9,Invoice Payment,16302,,0,0,0,1,0,$0.0000
+468,377,myvm wang,USD,Alipay ????????? (QR+APP),2024-09-10 00:00,9,Invoice Payment,16434,,0,0,0,1,0,$0.0000
+458,370,pool Venom,USD,Alipay ????????? (QR+APP),2024-09-10 00:42,9,Invoice Payment,16206,pi_3PxAenRxxun8okeS0pWzbRCk,1.09,0,0,1,1.09,$1.0900
+459,371,t w,CNY,Alipay ????????? (QR+APP),2024-09-10 02:19,9,Invoice Payment,16218,pi_3PxCAjRxxun8okeS0ao7uFso,85,0,0,7.08367,85,$11.9994
+460,372,KENT KING,USD,Alipay ????????? (QR+APP),2024-09-10 06:12,9,Invoice Payment,16266,pi_3PxFeIRxxun8okeS0S0xDS3c,11.99,0,0,1,11.99,$11.9900
+463,374,??? ???,CNY,Alipay ????????? (QR+APP),2024-09-10 13:19,9,Invoice Payment,16350,pi_3PxMTYRxxun8okeS0Tle6xQh,7.76,0,0,7.11663,7.76,$1.0904
+464,318,leticis ???,USD,Alipay ????????? (QR+APP),2024-09-10 13:36,9,Invoice Payment,16362,pi_3PxMkJRxxun8okeS0KInAZik,1.99,0,0,1,1.99,$1.9900
+465,368,Qing Lee,USD,Alipay ????????? (QR+APP),2024-09-10 15:04,9,Invoice Payment,16386,pi_3PxO7ERxxun8okeS1hEG3n42,3.99,0,0,1,3.99,$3.9900
+466,279,okx a,USD,Crypto ????????????,2024-09-10 18:48,9,Invoice Payment,16410,,7.99,0,0,1,7.99,$7.9900
+467,376,xing miao,USD,Alipay ????????? (QR+APP),2024-09-10 21:10,9,Invoice Payment,16422,pi_3PxTpCRxxun8okeS1ZqLu1zJ,2.99,0,0,1,2.99,$2.9900
+469,379,LI Chen,CNY,Alipay ????????? (QR+APP),2024-09-11 00:00,9,Invoice Payment,16458,,0,0,0,7.11903,0,$0.0000
+470,380,yin ma,USD,Alipay ????????? (QR+APP),2024-09-11 14:30,9,Invoice Payment,16470,pi_3Pxk3rRxxun8okeS1lA4Z8wJ,1.99,0,0,1,1.99,$1.9900
+471,381,luo xingzhe,CNY,Alipay ????????? (QR+APP),2024-09-11 18:08,9,Invoice Payment,16482,pi_3PxnTHRxxun8okeS0Mn1lw32,35.38,0,0,7.11903,35.38,$4.9698
+472,383,SSH Sc,USD,PayPal,2024-09-11 21:26,9,Invoice Payment,16494,7F9674973K915954L,2.99,0.59,0,1,2.4,$2.4000
+473,384,NI NI,USD,Alipay ????????? (QR+APP),2024-09-11 21:40,9,Invoice Payment,16506,pi_3PxqmCRxxun8okeS04sAMx7O,1.09,0,0,1,1.09,$1.0900
+474,362,Tryanks Tryanks,USD,Alipay ????????? (QR+APP),2024-09-12 00:18,9,Refund of Transaction ID pi_3Pwoa2Rxxun8okeS1IVIPySp,16026,pi_3Pwoa2Rxxun8okeS1IVIPySp,0,0,2.29,1,-2.29,-$2.2900
+475,386,chen xiao,USD,Alipay ????????? (QR+APP),2024-09-12 01:12,9,Invoice Payment,16542,pi_3Pxu5qRxxun8okeS1jC6i3o6,2.99,0,0,1,2.99,$2.9900
+476,387,bys ss,USD,PayPal,2024-09-12 03:14,9,Invoice Payment,16566,3JF46818ET561134M,1.99,0.56,0,1,1.43,$1.4300
+477,387,bys ss,USD,PayPal,2024-09-12 03:37,9,Invoice Payment,16578,5VT16629A7267613B,1.09,0.53,0,1,0.56,$0.5600
+478,390,Doby LIU,USD,Alipay ????????? (QR+APP),2024-09-12 14:51,9,Invoice Payment,16602,pi_3Py6rzRxxun8okeS1oeEJmC6,1.99,0,0,1,1.99,$1.9900
+479,391,xu dongodng,USD,Alipay ????????? (QR+APP),2024-09-12 15:04,9,Invoice Payment,16614,pi_3Py73TRxxun8okeS0nET4lvg,1.99,0,0,1,1.99,$1.9900
+480,392,maike li,CNY,Alipay ????????? (QR+APP),2024-09-12 15:19,9,Invoice Payment,16626,pi_3Py7ItRxxun8okeS0jQijGRi,7.75,0,0,7.11165,7.75,$1.0898
+481,333,Hu Li,CNY,Alipay ????????? (QR+APP),2024-09-12 20:42,9,Invoice Payment,16638,pi_3PyCLBRxxun8okeS0V1cH27C,14.08,0,0,7.11165,14.08,$1.9798
+482,333,Hu Li,CNY,Alipay ????????? (QR+APP),2024-09-12 21:00,9,Invoice Payment,16638,,0.03,0,0,7.11165,0.03,$0.0042
+483,393,xuanyuan zimo,USD,Alipay ????????? (QR+APP),2024-09-12 21:52,9,Invoice Payment,16650,pi_3PyDQTRxxun8okeS1drVZrpJ,1.09,0,0,1,1.09,$1.0900
+484,394,Pao Da,USD,Alipay ????????? (QR+APP),2024-09-12 22:13,9,Invoice Payment,16662,pi_3PyDlBRxxun8okeS0ChVZ68V,1.09,0,0,1,1.09,$1.0900
+485,395,Edward Bian,USD,PayPal,2024-09-12 23:33,9,Invoice Payment,16674,30320851KF6315818,1.99,0.59,0,1,1.4,$1.4000
+486,395,Edward Bian,USD,PayPal,2024-09-12 23:36,9,Invoice Payment,16686,04N90702J8050600Y,1.09,0.54,0,1,0.55,$0.5500
+487,396,All me,USD,Alipay ????????? (QR+APP),2024-09-13 00:00,9,Invoice Payment,16698,,0,0,0,1,0,$0.0000
+493,33,hello hey,USD,Crypto ????????????,2024-09-13 00:00,9,Invoice Payment,16794,,0,0,0,1,0,$0.0000
+494,321,O E,USD,Alipay ????????? (QR+APP),2024-09-13 00:00,9,Invoice Payment,16806,,0,0,0,1,0,$0.0000
+488,397,Theresa Chavez,USD,Alipay ????????? (QR+APP),2024-09-13 00:31,9,Invoice Payment,16710,pi_3PyFuJRxxun8okeS1kRhh3Ai,1.99,0,0,1,1.99,$1.9900
+489,398,Nanyun YI,USD,Alipay ????????? (QR+APP),2024-09-13 05:41,9,Invoice Payment,16722,pi_3PyKj2Rxxun8okeS1Ux8Te9L,1.09,0,0,1,1.09,$1.0900
+490,399,aofa liu,USD,Alipay ????????? (QR+APP),2024-09-13 11:22,9,Invoice Payment,16734,pi_3PyQ3xRxxun8okeS1HqNe8TD,11.99,0,0,1,11.99,$11.9900
+491,400,Vanye Bruce,CNY,Alipay ????????? (QR+APP),2024-09-13 14:40,9,Invoice Payment,16746,pi_3PyTBBRxxun8okeS00tdknNr,7.76,0,0,7.12064,7.76,$1.0898
+492,401,??? ???,USD,Alipay ????????? (QR+APP),2024-09-13 21:42,9,Invoice Payment,16770,pi_3PyZlORxxun8okeS0NP8A1Da,2.99,0,0,1,2.99,$2.9900
+495,403,new soul,USD,Alipay ????????? (QR+APP),2024-09-13 23:26,9,Invoice Payment,16818,pi_3PybO5Rxxun8okeS03LtKHwr,1.09,0,0,1,1.09,$1.0900
+496,33,hello hey,USD,Crypto ????????????,2024-09-14 00:00,9,Invoice Payment,16830,,0,0,0,1,0,$0.0000
+499,127,dandy api,USD,Alipay ????????? (QR+APP),2024-09-14 00:00,9,Invoice Payment,16866,,0,0,0,1,0,$0.0000
+497,405,fqrec fqre,CNY,Alipay ????????? (QR+APP),2024-09-14 01:35,9,Invoice Payment,16842,pi_3PydO7Rxxun8okeS1BqXEQa1,7.76,0,0,7.12064,7.76,$1.0898
+498,114,feng li,USD,Alipay ????????? (QR+APP),2024-09-14 07:15,9,Invoice Payment,16854,pi_3PyihXRxxun8okeS14C5qeMW,1.09,0,0,1,1.09,$1.0900
+500,406,chase king,USD,Alipay ????????? (QR+APP),2024-09-14 15:10,9,Invoice Payment,16878,pi_3Pyq7MRxxun8okeS0ulT8GYf,1.09,0,0,1,1.09,$1.0900
+503,360,xiao guang,USD,Alipay ????????? (QR+APP),2024-09-15 00:00,9,Invoice Payment,16938,,0,0,0,1,0,$0.0000
+504,411,Irma Reddy,USD,Alipay ????????? (QR+APP),2024-09-15 00:00,9,Invoice Payment,16950,,0,0,0,1,0,$0.0000
+501,408,Zhuoyang Li,USD,Alipay ????????? (QR+APP),2024-09-15 14:33,9,Invoice Payment,16914,pi_3PzC0lRxxun8okeS1QAodnH9,1.09,0,0,1,1.09,$1.0900
+502,409,guiyang hao,USD,Alipay ????????? (QR+APP),2024-09-15 19:01,9,Invoice Payment,16926,pi_3PzGBqRxxun8okeS11JFcCWG,1.09,0,0,1,1.09,$1.0900
+506,33,hello hey,USD,Alipay ????????? (QR+APP),2024-09-16 00:00,9,Invoice Payment,16974,,0,0,0,1,0,$0.0000
+507,33,hello hey,USD,Alipay ????????? (QR+APP),2024-09-16 00:00,9,Invoice Payment,16986,,0,0,0,1,0,$0.0000
+505,413,csad cre,USD,Alipay ????????? (QR+APP),2024-09-16 03:07,9,Invoice Payment,16962,pi_3PzNmeRxxun8okeS107LkyiI,11.99,0,0,1,11.99,$11.9900
+508,97,harry wang,CNY,Alipay ????????? (QR+APP),2024-09-16 22:58,9,Invoice Payment,12135,pi_3PzgMZRxxun8okeS1APXV90m,14.55,0,0,7.09629,14.55,$2.0504
+512,417,July 0663,CNY,Alipay ????????? (QR+APP),2024-09-17 00:00,9,Invoice Payment,17071,,0,0,0,7.09626,0,$0.0000
+511,416,Kusanagi KW,CNY,Alipay ????????? (QR+APP),2024-09-17 00:00,9,Invoice Payment,17035,,0,0,0,7.09629,0,$0.0000
+518,254,xiao zhang,CNY,Alipay ????????? (QR+APP),2024-09-18 18:04,9,Invoice Payment,17167,pi_3Q0KhVRxxun8okeS1sqApl0S,7.74,0,0,7.09633,7.74,$1.0907
+519,420,??? ???,USD,Alipay ????????? (QR+APP),2024-09-18 20:25,9,Invoice Payment,17179,pi_3Q0MwJRxxun8okeS1OczQkGk,1.09,0,0,1,1.09,$1.0900
+520,422,Zhang Liu,USD,Alipay ????????? (QR+APP),2024-09-18 22:02,9,Invoice Payment,17215,pi_3Q0OS4Rxxun8okeS0xkTZakU,1.09,0,0,1,1.09,$1.0900
+521,178,Pamela M Seals Pamela,USD,PayPal,2024-09-18 22:14,9,Invoice Payment,17239,3G492530LW657035E,2.99,0.64,0,1,2.35,$2.3500
+522,178,Pamela M Seals Pamela,USD,PayPal,2024-09-18 23:22,9,Reversed Transaction ID: 3G492530LW657035E,17239,21G13064CM4692729,0,-0.64,2.99,1,-2.35,-$2.3500
+523,424,fei mo,CNY,Alipay ????????? (QR+APP),2024-09-18 23:24,9,Invoice Payment,17251,pi_3Q0PjDRxxun8okeS0Z7aWWsf,7.74,0,0,7.09633,7.74,$1.0907
+524,390,Doby LIU,USD,Alipay ????????? (QR+APP),2024-09-18 23:51,9,Invoice Payment,17263,pi_3Q0Q9MRxxun8okeS0BTp4KQD,4.79,0,0,1,4.79,$4.7900
+530,504,big tree,USD,Alipay ????????? (QR+APP),2024-09-19 00:00,9,Invoice Payment,17443,,0,0,0,1,0,$0.0000
+532,154,?????? ??????,CNY,Alipay ????????? (QR+APP),2024-09-19 00:00,9,Invoice Payment?????????????????????????????????????????????????????????????????????????????????2??????,13061,pi_3Q0l56Rxxun8okeS0thBSdIO,14.38,0,0,7.08351,14.38,$2.0301
+533,75,Donghua Gu,USD,Alipay ????????? (QR+APP),2024-09-19 00:00,9,Invoice Payment,17479,,0,0,0,1,0,$0.0000
+534,154,?????? ??????,CNY,Alipay ????????? (QR+APP),2024-09-19 00:00,9,Invoice Payment,17467,,0,0,0,7.08351,0,$0.0000
+537,32,qi mr,USD,Alipay ????????? (QR+APP),2024-09-19 00:00,9,Invoice Payment,17515,,0,0,0,1,0,$0.0000
+525,396,All me,USD,Alipay ????????? (QR+APP),2024-09-19 00:02,9,Invoice Payment,17287,pi_3Q0QKHRxxun8okeS1uDBRNv8,1.09,0,0,1,1.09,$1.0900
+526,428,mc gee,USD,Alipay ????????? (QR+APP),2024-09-19 00:36,9,Invoice Payment,17311,pi_3Q0QrbRxxun8okeS168y99hr,1.09,0,0,1,1.09,$1.0900
+527,479,Buddy Finley,USD,Alipay ????????? (QR+APP),2024-09-19 14:16,9,Invoice Payment,17371,pi_3Q0deURxxun8okeS0TkQLRBA,1.09,0,0,1,1.09,$1.0900
+528,479,Buddy Finley,USD,Alipay ????????? (QR+APP),2024-09-19 15:03,9,Invoice Payment,17383,pi_3Q0eO0Rxxun8okeS1UyNoz3J,11.99,0,0,1,11.99,$11.9900
+529,500,li chen,USD,PayPal,2024-09-19 20:50,9,Invoice Payment,17419,3VF12464KY494004S,1.09,0.53,0,1,0.56,$0.5600
+531,79,seg etwq,USD,Alipay ????????? (QR+APP),2024-09-19 21:37,9,Invoice Payment,17455,pi_3Q0kXtRxxun8okeS0OvZ4Urb,1.09,0,0,1,1.09,$1.0900
+535,423,Seiko G,CNY,Alipay ????????? (QR+APP),2024-09-19 23:25,9,Invoice Payment,17491,pi_3Q0mE7Rxxun8okeS1ygZWO0V,7.72,0,0,7.08351,7.72,$1.0899
+536,510,rayon C,USD,Alipay ????????? (QR+APP),2024-09-19 23:31,9,Invoice Payment,17503,pi_3Q0mKCRxxun8okeS0VSrVZRv,1.09,0,0,1,1.09,$1.0900
+538,154,?????? ??????,CNY,Alipay ????????? (QR+APP),2024-09-20 00:18,9,Invoice Payment,17527,pi_3Q0n3DRxxun8okeS0fM7U3Wc,7.72,0,0,7.08351,7.72,$1.0899
+539,576,?????? ???,CNY,Alipay ????????? (QR+APP),2024-09-20 10:35,9,Invoice Payment,17611,pi_3Q0wg4Rxxun8okeS1wrXr7W6,7.7,0,0,7.06588,7.7,$1.0897
+540,334,jack W,USD,Alipay ????????? (QR+APP),2024-09-20 11:25,9,Invoice Payment,17599,pi_3Q0xSqRxxun8okeS0GCwHAa0,1.09,0,0,1,1.09,$1.0900
+541,576,?????? ???,CNY,Alipay ????????? (QR+APP),2024-09-20 13:25,9,Invoice Payment,17611,,0.02,0,0,7.06588,0.02,$0.0028
+542,595,xiao xiao,USD,Alipay ????????? (QR+APP),2024-09-20 15:15,9,Invoice Payment,17647,pi_3Q113GRxxun8okeS10Wk24j0,1.09,0,0,1,1.09,$1.0900
+543,597,Yulin Zhang,USD,Alipay ????????? (QR+APP),2024-09-20 20:45,9,Invoice Payment,17671,pi_3Q16BZRxxun8okeS08mZK84H,1.09,0,0,1,1.09,$1.0900
+547,125,sa tona,CNY,Alipay ????????? (QR+APP),2024-09-21 00:00,9,Invoice Payment,17755,,0,0,0,7.05499,0,$0.0000
+557,354,?????? ???,CNY,Alipay ????????? (QR+APP),2024-09-21 00:00,9,Invoice Payment,18247,,0,0,0,7.05499,0,$0.0000
+544,654,mushroom uncle,CNY,PayPal,2024-09-21 02:35,9,Invoice Payment,17683,3WP35380DY702302P,7.72,3.82,0,7.06588,3.9,$0.5519
+545,428,mc gee,USD,Alipay ????????? (QR+APP),2024-09-21 09:06,9,Invoice Payment,17731,pi_3Q1HlnRxxun8okeS0CqkgVeh,1.09,0,0,1,1.09,$1.0900
+546,703,XINHANG MAI,USD,PayPal,2024-09-21 09:40,9,Invoice Payment,17743,82F84038WK506410G,32.94,2.13,0,1,30.81,$30.8100
+548,286,att wy,CNY,Alipay ????????? (QR+APP),2024-09-21 14:50,9,Invoice Payment,17767,pi_3Q1N99Rxxun8okeS0impZAYZ,7.69,0,0,7.05499,7.69,$1.0900
+549,286,att wy,CNY,Alipay ????????? (QR+APP),2024-09-21 14:56,9,Invoice Payment,17767,,0.03,0,0,7.05499,0.03,$0.0043
+551,733,Zahi Zhao,CNY,Alipay ????????? (QR+APP),2024-09-21 19:29,9,Invoice Payment,17851,pi_3Q1RToRxxun8okeS0ituHQ6m,7.69,0,0,7.05499,7.69,$1.0900
+552,343,Ni Ming,USD,Alipay ????????? (QR+APP),2024-09-21 19:30,9,Invoice Payment,17923,pi_3Q1RWCRxxun8okeS1mEu3ila,1.09,0,0,1,1.09,$1.0900
+553,739,Rodion Sadoviy,USD,Alipay ????????? (QR+APP),2024-09-21 19:40,9,Invoice Payment,17827,pi_3Q1Rf6Rxxun8okeS0TcAscAe,1.09,0,0,1,1.09,$1.0900
+554,747,Lei Xiong Jun,USD,Alipay ????????? (QR+APP),2024-09-21 19:59,9,Invoice Payment,18043,pi_3Q1RyBRxxun8okeS0MMWCzHP,1.09,0,0,1,1.09,$1.0900
+555,750,j alone,CNY,Alipay ????????? (QR+APP),2024-09-21 20:01,9,Invoice Payment,18079,pi_3Q1S03Rxxun8okeS0N3aTgbI,7.69,0,0,7.05499,7.69,$1.0900
+556,752,Qing Lee,CNY,Alipay ????????? (QR+APP),2024-09-21 20:05,9,Invoice Payment,18151,pi_3Q1S3RRxxun8okeS0NhfC1r5,7.69,0,0,7.05499,7.69,$1.0900
+558,428,mc gee,USD,Alipay ????????? (QR+APP),2024-09-21 22:28,9,Invoice Payment,18295,pi_3Q1UICRxxun8okeS0Mq1cJpR,11.99,0,0,1,11.99,$11.9900
+564,852,Erba Maher,USD,PayPal,2024-09-22 00:00,9,Invoice Payment,18607,,0,0,0,1,0,$0.0000
+559,731,?????? ???,CNY,PayPal,2024-09-22 00:49,9,Invoice Payment,17899,3GK229700C273873S,7.69,3.81,0,7.05499,3.88,$0.5500
+560,832,WH T,USD,PayPal,2024-09-22 14:48,9,Invoice Payment,18511,7LU45916N2476093X,32.94,2.13,0,1,30.81,$30.8100
+561,841,loser man,USD,PayPal,2024-09-22 21:28,9,Invoice Payment,18547,57383945YS631623K,2.99,0.64,0,1,2.35,$2.3500
+562,343,Ni Ming,USD,Alipay ????????? (QR+APP),2024-09-22 21:35,9,Invoice Payment,18583,pi_3Q1pw7Rxxun8okeS0X2mIber,32.94,0,0,1,32.94,$32.9400
+563,843,Nick So,CNY,Alipay ????????? (QR+APP),2024-09-22 21:39,9,Invoice Payment,18595,pi_3Q1q0SRxxun8okeS1rONx7QW,21.09,0,0,7.05499,21.09,$2.9894
+568,924,John Summit,CNY,Alipay ????????? (QR+APP),2024-09-23 00:00,9,Invoice Payment,18691,,0,0,0,7.05499,0,$0.0000
+565,351,xukun cai,USD,PayPal,2024-09-23 00:12,9,Invoice Payment,18475,7GA75580RC017904X,1.09,0.54,0,1,0.55,$0.5500
+566,851,xiao li,USD,Alipay ????????? (QR+APP),2024-09-23 00:15,9,Invoice Payment,18619,pi_3Q1sRDRxxun8okeS06Pd2dyy,1.09,0,0,1,1.09,$1.0900
+567,357,Tom Zhou,USD,Alipay ????????? (QR+APP),2024-09-23 00:48,9,Invoice Payment,16890,pi_3Q1swyRxxun8okeS1HR0GTbr,1.99,0,0,1,1.99,$1.9900
+571,975,nis ios,USD,Alipay ????????? (QR+APP),2024-09-24 00:00,9,Invoice Payment,18835,,0,0,0,1,0,$0.0000
+569,972,h jie,USD,Alipay ????????? (QR+APP),2024-09-24 13:10,9,Invoice Payment,18799,pi_3Q2R0aRxxun8okeS03Kch5SA,2.99,0,0,1,2.99,$2.9900
+570,595,xiao xiao,USD,Alipay ????????? (QR+APP),2024-09-24 19:01,9,Invoice Payment,18823,pi_3Q2WTZRxxun8okeS01c1lsog,2.99,0,0,1,2.99,$2.9900
+572,369,Node Seek,USD,Alipay ????????? (QR+APP),2024-09-24 22:35,9,Invoice Payment,18847,pi_3Q2Zp2Rxxun8okeS1BKt7Qke,2.99,0,0,1,2.99,$2.9900
+575,984,Jack Rune,USD,Alipay ????????? (QR+APP),2024-09-25 00:00,9,Invoice Payment,18955,,0,0,0,1,0,$0.0000
+573,978,Ya W,USD,Alipay ????????? (QR+APP),2024-09-25 10:56,9,Invoice Payment,18931,pi_3Q2lO9Rxxun8okeS1PjgVmfb,4.79,0,0,1,4.79,$4.7900
+574,980,O SIN,CNY,Alipay ????????? (QR+APP),2024-09-25 14:57,9,Invoice Payment,18943,pi_3Q2pA6Rxxun8okeS12vNrbv7,35.09,0,0,7.03225,35.09,$4.9899
+577,305,Zhi Qiu,USD,PayPal,2024-09-26 00:00,9,Invoice Payment,19051,,0,0,0,1,0,$0.0000
+576,367,?????? ???,USD,Alipay ????????? (QR+APP),2024-09-26 00:20,9,Invoice Payment,18967,pi_3Q2xusRxxun8okeS1vlM3RTT,12.59,0,0,1,12.59,$12.5900
+578,987,vayne hunter,USD,PayPal,2024-09-27 02:11,9,Invoice Payment,19087,69K39947A2965142F,5.99,0.7,0,1,5.29,$5.2900
+579,987,vayne hunter,USD,Alipay ????????? (QR+APP),2024-09-27 17:47,9,Invoice Payment,19135,pi_3Q3al6Rxxun8okeS0ExdJcVi,2,0,0,1,2,$2.0000
+580,988,jg w,CNY,Alipay ????????? (QR+APP),2024-09-27 20:20,9,Invoice Payment,19147,pi_3Q3d99Rxxun8okeS0OhEY6ou,56.02,0,0,7.01147,56.02,$7.9898
+584,1000,FeiYang Zhang,USD,Alipay ????????? (QR+APP),2024-09-28 00:00,9,Invoice Payment,19255,,0,0,0,1,0,$0.0000
+581,980,O SIN,CNY,Crypto ????????????,2024-09-28 14:35,9,Invoice Payment,19219,6d7d0429a1def05ae7bd116afbe8319594d02d062bebc1a9a8d9b161d41a5d8c,34.99,0,0,7.01111,34.99,$4.9907
+582,996,qyyyds ???,CNY,Alipay ????????? (QR+APP),2024-09-28 15:48,9,Invoice Payment,19231,pi_3Q3vNqRxxun8okeS1l9OFVlE,17.46,0,0,7.01111,17.46,$2.4903
+583,996,qyyyds ???,CNY,Alipay ????????? (QR+APP),2024-09-28 15:53,9,Invoice Payment,19231,,0.03,0,0,7.01111,0.03,$0.0043
+585,318,leticis ???,USD,Alipay ????????? (QR+APP),2024-09-28 20:13,9,Invoice Payment,16374,pi_3Q3zVlRxxun8okeS1JMrEfd3,1.09,0,0,1,1.09,$1.0900
+586,1002,MI Niming,USD,Alipay ????????? (QR+APP),2024-09-28 20:43,9,Invoice Payment,19267,pi_3Q3zxCRxxun8okeS0dz7A3GN,5.99,0,0,1,5.99,$5.9900
+587,1005,Stiff Doe,USD,Alipay ????????? (QR+APP),2024-09-28 22:25,9,Invoice Payment,19291,pi_3Q41ZjRxxun8okeS0AWXYVMV,2.99,0,0,1,2.99,$2.9900
+588,1003,opc 662,CNY,Alipay ????????? (QR+APP),2024-09-28 22:30,9,Invoice Payment,19303,pi_3Q41e0Rxxun8okeS0uwN5VI8,21.03,0,0,7.01111,21.03,$2.9995
+589,333,Hu Li,CNY,Alipay ????????? (QR+APP),2024-09-29 15:27,9,Invoice Payment,17587,pi_3Q4HWXRxxun8okeS0bUEfUkC,7.71,0,0,7.01111,7.71,$1.0997
+590,1007,json green,USD,Alipay ????????? (QR+APP),2024-09-29 21:22,9,Invoice Payment,19399,pi_3Q4N4XRxxun8okeS0p0YHJsz,2.99,0,0,1,2.99,$2.9900
+591,1008,1 1,CNY,Alipay ????????? (QR+APP),2024-09-30 12:57,9,Invoice Payment,19459,pi_3Q4bfLRxxun8okeS0vPyQcFQ,230.95,0,0,7.01111,230.95,$32.9406
+592,1008,1 1,CNY,Alipay ????????? (QR+APP),2024-09-30 14:03,9,Invoice Payment,19459,,0.03,0,0,7.01111,0.03,$0.0043
+593,1009,Taylor Johnston,USD,Crypto ????????????,2024-09-30 14:45,9,Invoice Payment,19471,822494ecc253b467edaa88702ff2ab9d6c16cb7ff57857eb3106d6754c39bcf0,7.99,0,0,1,7.99,$7.9900
+594,333,Hu Li,CNY,Alipay ????????? (QR+APP),2024-09-30 14:45,9,Invoice Payment,17587,,0.02,0,0,7.01111,0.02,$0.0029
+595,1011,Hdb Sgsg,USD,Alipay ????????? (QR+APP),2024-09-30 15:44,9,Invoice Payment,19483,pi_3Q4eDbRxxun8okeS0ifKt55h,2.99,0,0,1,2.99,$2.9900
+596,127,dandy api,USD,Alipay ????????? (QR+APP),2024-10-01 22:32,10,Invoice Payment,19543,pi_3Q577ZRxxun8okeS1APvNzvO,7.99,0,0,1,7.99,$7.9900
+597,1018,le hung,USD,PayPal,2024-10-01 23:21,10,Invoice Payment,19579,6RF36608A16241456,2.99,0.64,0,1,2.35,$2.3500
+600,151,yizhuo li,USD,Alipay ????????? (QR+APP),2024-10-02 00:00,10,Invoice Payment,19627,,0,0,0,1,0,$0.0000
+598,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-10-02 05:09,10,Invoice Payment,19591,pi_3Q5DJ4Rxxun8okeS1Wkbz0P9,252.38,0,0,7.01242,252.38,$35.9904
+599,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-10-02 09:22,10,Invoice Payment,19591,,0.01,0,0,7.01849,0.01,$0.0014
+601,1026,Clarissa Halvorson,CNY,Alipay ????????? (QR+APP),2024-10-02 15:30,10,Invoice Payment,19639,pi_3Q5N0DRxxun8okeS1CFS09s0,20.99,0,0,7.01849,20.99,$2.9907
+602,1026,Clarissa Halvorson,CNY,Alipay ????????? (QR+APP),2024-10-02 15:55,10,Invoice Payment,19639,,0.03,0,0,7.01849,0.03,$0.0043
+603,127,dandy api,USD,Alipay ????????? (QR+APP),2024-10-02 18:13,10,Refund of Transaction ID pi_3Q577ZRxxun8okeS1APvNzvO,19543,,0,0,7.99,1,-7.99,-$7.9900
+605,1023,St Raden,USD,Alipay ????????? (QR+APP),2024-10-03 00:00,10,Invoice Payment,19663,,0,0,0,1,0,$0.0000
+604,1029,wangshi wwe,USD,Alipay ????????? (QR+APP),2024-10-03 06:03,10,Invoice Payment,19651,pi_3Q5acnRxxun8okeS1VRYB6nQ,16.99,0,0,1,16.99,$16.9900
+606,1026,Clarissa Halvorson,CNY,PayPal,2024-10-03 20:12,10,Invoice Payment,19711,3FJ36487SH236084G,258.92,16.35,0,7.01852,242.57,$34.5614
+609,1035,jet jet,USD,Alipay ????????? (QR+APP),2024-10-04 00:00,10,Invoice Payment,19831,,0,0,0,1,0,$0.0000
+610,1036,cnmdnews c,USD,Alipay ????????? (QR+APP),2024-10-04 00:00,10,Invoice Payment,19843,,0,0,0,1,0,$0.0000
+607,200,liam lee,CNY,Alipay ????????? (QR+APP),2024-10-04 01:19,10,Invoice Payment,19723,pi_3Q5sfaRxxun8okeS1T04ELZd,56.08,0,0,7.01852,56.08,$7.9903
+608,1033,hhh aaa,USD,Alipay ????????? (QR+APP),2024-10-04 17:23,10,Invoice Payment,19819,pi_3Q67dGRxxun8okeS1WzvzO4S,7.99,0,0,1,7.99,$7.9900
+611,54,??? ???,CNY,Alipay ????????? (QR+APP),2024-10-04 22:40,10,Invoice Payment,19855,pi_3Q6Cg7Rxxun8okeS1ldjOb5H,168.23,0,0,7.01848,168.23,$23.9696
+612,1037,yuxin lei,CNY,Alipay ????????? (QR+APP),2024-10-04 23:24,10,Invoice Payment,19867,pi_3Q6DM0Rxxun8okeS0seKyJDT,20.99,0,0,7.01848,20.99,$2.9907
+613,1038,kr a,USD,Crypto ????????????,2024-10-05 01:43,10,Invoice Payment,19879,c1d73d04cb991407c818fcd39ec4111a54f1b17a40b029b6508b89ffcd9f072c,7.99,0,0,1,7.99,$7.9900
+614,1026,Clarissa Halvorson,CNY,PayPal,2024-10-05 22:34,10,Refund of Transaction ID 3FJ36487SH236084G,19711,,0,-16.35,241,7.01852,-224.65,-$32.0082
+615,479,Buddy Finley,USD,Alipay ????????? (QR+APP),2024-10-06 10:58,10,Invoice Payment,19903,pi_3Q6kdmRxxun8okeS08rkAtp3,1.09,0,0,1,1.09,$1.0900
+616,1041,yee bin,USD,Alipay ????????? (QR+APP),2024-10-06 12:28,10,Invoice Payment,20023,pi_3Q6m4WRxxun8okeS00FwiELn,2.99,0,0,1,2.99,$2.9900
+617,1042,HUANG PINGPING,USD,Alipay ????????? (QR+APP),2024-10-06 13:04,10,Invoice Payment,20035,pi_3Q6majRxxun8okeS0LKV7wxh,49.49,0,0,1,49.49,$49.4900
+618,1043,yee mr,USD,PayPal,2024-10-06 13:43,10,Invoice Payment,20047,7C3925993C1520333,32.94,2.13,0,1,30.81,$30.8100
+619,1044,a b,USD,PayPal,2024-10-06 17:30,10,Invoice Payment,20071,9WY45645EW354741S,7.99,0.89,0,1,7.1,$7.1000
+620,1046,mjj mjj,USD,Alipay ????????? (QR+APP),2024-10-06 23:53,10,Invoice Payment,20083,pi_3Q6wkxRxxun8okeS0PUp8Iul,1.99,0,0,1,1.99,$1.9900
+621,393,xuanyuan zimo,USD,Alipay ????????? (QR+APP),2024-10-07 00:56,10,Invoice Payment,19171,pi_3Q6xkPRxxun8okeS0RUnk0dJ,1.09,0,0,1,1.09,$1.0900
+622,1048,ze chen,USD,Alipay ????????? (QR+APP),2024-10-07 12:52,10,Invoice Payment,20323,pi_3Q78v4Rxxun8okeS1G59n6yc,5.99,0,0,1,5.99,$5.9900
+623,1049,jack ma,CNY,Alipay ????????? (QR+APP),2024-10-07 14:35,10,Invoice Payment,20347,pi_3Q7AWwRxxun8okeS0mutv7CA,42.04,0,0,7.0185,42.04,$5.9899
+626,330,Janyce Boehm,USD,Alipay ????????? (QR+APP),2024-10-08 00:00,10,Invoice Payment,20407,,0,0,0,1,0,$0.0000
+624,254,xiao zhang,CNY,Alipay ????????? (QR+APP),2024-10-08 08:59,10,Invoice Payment,19783,pi_3Q7RiaRxxun8okeS1GlGLHau,7.72,0,0,7.0185,7.72,$1.1000
+625,1052,zx ddadadff,USD,Alipay ????????? (QR+APP),2024-10-08 20:49,10,Invoice Payment,20395,pi_3Q7cqTRxxun8okeS19bv1zRO,1.09,0,0,1,1.09,$1.0900
+627,1053,zhao peng,CNY,Alipay ????????? (QR+APP),2024-10-09 02:04,10,Invoice Payment,20419,pi_3Q7hkDRxxun8okeS1kWs4d5l,35.02,0,0,7.01848,35.02,$4.9897
+628,1054,kayo li,CNY,Alipay ????????? (QR+APP),2024-10-09 14:44,10,Invoice Payment,20467,pi_3Q7tc1Rxxun8okeS0EqtoGnH,21.09,0,0,7.05236,21.09,$2.9905
+629,370,pool Venom,USD,Alipay ????????? (QR+APP),2024-10-10 10:21,10,Invoice Payment,19003,pi_3Q8BzsRxxun8okeS0ujEzDCA,1.09,0,0,1,1.09,$1.0900
+630,36,leton Car,USD,Crypto ????????????,2024-10-10 15:30,10,Invoice Payment,19099,,500,0,0,1,500,$500.0000
+631,1054,kayo li,CNY,Alipay ????????? (QR+APP),2024-10-10 22:57,10,Refund of Transaction ID pi_3Q7tc1Rxxun8okeS0EqtoGnH,20467,,0,0,21.09,7.05236,-21.09,-$2.9905
+632,1060,chen zuxi,CNY,Alipay ????????? (QR+APP),2024-10-11 10:51,10,Invoice Payment,20611,pi_3Q8YwoRxxun8okeS0uFSO1hH,21.16,0,0,7.07794,21.16,$2.9896
+633,314,Li Ruisa,USD,Alipay ????????? (QR+APP),2024-10-11 20:33,10,Invoice Payment,20635,pi_3Q8i1VRxxun8okeS00B8s5Uh,1.09,0,0,1,1.09,$1.0900
+634,282,zhuzhuer886 zhuzhu,USD,Crypto ????????????,2024-10-11 20:39,10,Invoice Payment,16446,b1caf18a0cfae4e5fc9da74063480f57f7a067d426aca1496682dfefec61a886,16.99,0,0,1,16.99,$16.9900
+639,1070,buyi wang,USD,PayPal,2024-10-12 00:00,10,Invoice Payment,20659,,0,0,0,1,0,$0.0000
+641,1071,Theresa Chavez,USD,Alipay ????????? (QR+APP),2024-10-12 00:00,10,Invoice Payment,20683,,0,0,0,1,0,$0.0000
+635,127,dandy api,USD,Alipay ????????? (QR+APP),2024-10-12 09:13,10,Invoice Payment,19423,pi_3Q8tsURxxun8okeS0xHd6zqI,1.09,0,0,1,1.09,$1.0900
+636,1068,zwer ZHIWEI,USD,Alipay ????????? (QR+APP),2024-10-12 13:43,10,Invoice Payment,20647,pi_3Q8y6DRxxun8okeS0MTXkedR,4.99,0,0,1,4.99,$4.9900
+637,127,dandy api,USD,Alipay ????????? (QR+APP),2024-10-12 14:07,10,Invoice Payment,19915,pi_3Q8yTCRxxun8okeS1uD22eR0,1.09,0,0,1,1.09,$1.0900
+638,392,maike li,CNY,PayPal,2024-10-12 15:35,10,Invoice Payment,19195,2J069439FM973380H,7.75,3.82,0,7.06546,3.93,$0.5562
+640,1070,buyi wang,USD,PayPal,2024-10-12 21:53,10,Invoice Payment,20671,6NA225145A008853R,32.94,2.13,0,1,30.81,$30.8100
+642,1078,yongle yin,CNY,Alipay ????????? (QR+APP),2024-10-13 00:00,10,Invoice Payment,20707,,0,0,0,7.06546,0,$0.0000
+644,777,XIN ZHANG,USD,Alipay ????????? (QR+APP),2024-10-13 00:00,10,Invoice Payment,20731,,0,0,0,1,0,$0.0000
+645,1042,HUANG PINGPING,USD,Alipay ????????? (QR+APP),2024-10-13 00:00,10,Invoice Payment,20743,,0,0,0,1,0,$0.0000
+646,1079,d h,USD,PayPal,2024-10-13 00:00,10,Invoice Payment,20755,,0,0,0,1,0,$0.0000
+643,1077,ge long,USD,Alipay ????????? (QR+APP),2024-10-13 20:41,10,Invoice Payment,20719,pi_3Q9R6MRxxun8okeS1uedUW7F,5.99,0,0,1,5.99,$5.9900
+648,1087,Leon Chini,USD,Alipay ????????? (QR+APP),2024-10-14 00:00,10,Invoice Payment,20839,,0,0,0,1,0,$0.0000
+647,1063,yuan wang,USD,Alipay ????????? (QR+APP),2024-10-14 10:23,10,Invoice Payment,20827,pi_3Q9duzRxxun8okeS1h5Y6WBt,4.99,0,0,1,4.99,$4.9900
+651,1089,Lisa Flores,USD,Alipay ????????? (QR+APP),2024-10-15 00:00,10,Invoice Payment,20887,,0,0,0,1,0,$0.0000
+652,327,?????? ???,CNY,Alipay ????????? (QR+APP),2024-10-15 00:00,10,Invoice Payment,20899,,0,0,0,7.08493,0,$0.0000
+653,1094,z z,USD,Alipay ????????? (QR+APP),2024-10-15 00:00,10,Invoice Payment,20911,,0,0,0,1,0,$0.0000
+649,510,rayon C,USD,Alipay ????????? (QR+APP),2024-10-15 00:44,10,Invoice Payment,19891,pi_3Q9qWvRxxun8okeS0cqHS0RB,1.09,0,0,1,1.09,$1.0900
+650,654,mushroom uncle,CNY,PayPal,2024-10-15 02:44,10,Invoice Payment,20203,5NL077728L640622W,7.72,3.82,0,7.06546,3.9,$0.5520
+654,1099,Ray Anderson,USD,Crypto ????????????,2024-10-16 12:47,10,Invoice Payment,20959,3b5bd464bc67c977d7eeffb837044d6e53591fb55a83ec07c78e069b40fa6195,32.94,0,0,1,32.94,$32.9400
+655,1102,iron www,CNY,Alipay ????????? (QR+APP),2024-10-16 17:51,10,Invoice Payment,20971,pi_3QATt9Rxxun8okeS16awVOQz,21.27,0,0,7.11492,21.27,$2.9895
+656,423,Seiko G,CNY,Alipay ????????? (QR+APP),2024-10-17 09:04,10,Invoice Payment,19975,pi_3QAi83Rxxun8okeS1VmA6ipZ,7.75,0,0,7.11306,7.75,$1.0895
+657,1109,Jason Yao,USD,Alipay ????????? (QR+APP),2024-10-17 16:26,10,Invoice Payment,20983,pi_3QAp0yRxxun8okeS1XCvQPvZ,7.99,0,0,1,7.99,$7.9900
+658,286,att wy,CNY,Alipay ????????? (QR+APP),2024-10-19 18:15,10,Invoice Payment,20251,pi_3QBZgyRxxun8okeS0ZBHpvsA,7.74,0,0,7.10473,7.74,$1.0894
+661,1221,Hello Hey,USD,Alipay ????????? (QR+APP),2024-10-20 00:00,10,Invoice Payment,22447,,0,0,0,1,0,$0.0000
+659,1209,san zhang,CNY,Alipay ????????? (QR+APP),2024-10-20 19:33,10,Invoice Payment,22387,pi_3QBxNrRxxun8okeS0cxfmYwI,21.24,0,0,7.10473,21.24,$2.9896
+660,654,mushroom uncle,CNY,PayPal,2024-10-20 19:35,10,Invoice Payment,20203,47133231D24290023,7.72,3.84,0,7.10473,3.88,$0.5461
+662,747,Lei Xiong Jun,USD,Alipay ????????? (QR+APP),2024-10-21 08:36,10,Invoice Payment,20299,pi_3QC9aURxxun8okeS0AyKpslC,1.09,0,0,1,1.09,$1.0900
+663,334,jack W,USD,Alipay ????????? (QR+APP),2024-10-21 10:53,10,Invoice Payment,22531,pi_3QCBjaRxxun8okeS1xxMtnuy,1.09,0,0,1,1.09,$1.0900
+664,1232,??? ??????,CNY,Alipay ????????? (QR+APP),2024-10-21 10:56,10,Invoice Payment,22555,pi_3QCBnCRxxun8okeS0y8HvZDc,21.24,0,0,7.10473,21.24,$2.9896
+665,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-10-21 17:12,10,Invoice Payment,22603,pi_3QCHe5Rxxun8okeS1pYvE9Pn,21.24,0,0,7.10473,21.24,$2.9896
+666,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-10-21 19:55,10,Invoice Payment,22615,,21.24,0,0,7.10473,21.24,$2.9896
+667,1248,wang Chenhui,CNY,Alipay ????????? (QR+APP),2024-10-21 20:47,10,Invoice Payment,22627,pi_3QCL0IRxxun8okeS1ET9hsxL,21.24,0,0,7.10473,21.24,$2.9896
+668,1070,buyi wang,USD,PayPal,2024-10-21 22:37,10,Reversed Transaction ID: 6NA225145A008853R,20671,7RS255719F590274T,0,-2.13,32.94,1,-30.81,-$30.8100
+669,1007,json green,USD,Alipay ????????? (QR+APP),2024-10-22 09:09,10,Invoice Payment,20875,pi_3QCWaMRxxun8okeS0bmXDgD4,2.99,0,0,1,2.99,$2.9900
+670,351,xukun cai,USD,PayPal,2024-10-22 19:13,10,Invoice Payment,18475,4FY73657783567730,1.09,0.54,0,1,0.55,$0.5500
+671,417,July 0663,CNY,Alipay ????????? (QR+APP),2024-10-23 13:54,10,Invoice Payment,19687,pi_3QCxW9Rxxun8okeS0kcY3Rp5,7.76,0,0,7.1206,7.76,$1.0898
+672,1375,MiFJun SXSY,USD,Crypto ????????????,2024-10-23 18:41,10,Invoice Payment,22711,,200,0,0,1,200,$200.0000
+673,1387,wwq qwe,USD,Alipay ????????? (QR+APP),2024-10-23 23:49,10,Invoice Payment,22795,pi_3QD6o7Rxxun8okeS0THnz0v9,2.99,0,0,1,2.99,$2.9900
+674,1391,Zhai Bolis,USD,Alipay ????????? (QR+APP),2024-10-24 00:52,10,Invoice Payment,22807,pi_3QD7n8Rxxun8okeS0rkc8eFW,7.99,0,0,1,7.99,$7.9900
+675,1425,David Nicholas,USD,PayPal,2024-10-24 10:34,10,Invoice Payment,22831,1DK04605TA2740513,2.99,0.64,0,1,2.35,$2.3500
+676,752,Qing Lee,CNY,Alipay ????????? (QR+APP),2024-10-24 11:45,10,Invoice Payment,20131,pi_3QDHzIRxxun8okeS0Nj5ysaJ,7.7,0,0,7.1291,7.7,$1.0801
+677,1431,keke deng,USD,Alipay ????????? (QR+APP),2024-10-24 12:30,10,Invoice Payment,22843,pi_3QDIfzRxxun8okeS1xfrSiwB,5.99,0,0,1,5.99,$5.9900
+678,1448,xiaobing liu,USD,Alipay ????????? (QR+APP),2024-10-24 20:11,10,Invoice Payment,22867,pi_3QDPsiRxxun8okeS1B7uAfJ7,5.99,0,0,1,5.99,$5.9900
+679,1449,xiao cai,USD,Alipay ????????? (QR+APP),2024-10-24 20:27,10,Invoice Payment,22879,pi_3QDQ7qRxxun8okeS1NfN3Fat,2.99,0,0,1,2.99,$2.9900
+680,1449,xiao cai,USD,Alipay ????????? (QR+APP),2024-10-24 23:25,10,Refund of Transaction ID pi_3QDQ7qRxxun8okeS1NfN3Fat,22879,,0,0,2.99,1,-2.99,-$2.9900
+681,1519,mofei te,USD,Alipay ????????? (QR+APP),2024-10-25 22:56,10,Invoice Payment,22951,pi_3QDonyRxxun8okeS1nnpt9WB,2.99,0,0,1,2.99,$2.9900
+682,396,All me,USD,Alipay ????????? (QR+APP),2024-10-26 03:30,10,Invoice Payment,19939,pi_3QDtCqRxxun8okeS07tKg2hc,1.09,0,0,1,1.09,$1.0900
+683,1008,1 1,CNY,Alipay ????????? (QR+APP),2024-10-26 04:45,10,Invoice Payment,22963,pi_3QDuNVRxxun8okeS1jsGnhpk,1366.13,0,0,7.1149,1366.13,$192.0097
+684,1437,?????? ???,CNY,PayPal,2024-10-26 08:20,10,Invoice Payment,22975,02B36635MS7021254,128.7,9.89,0,7.1149,118.81,$16.6988
+685,1042,HUANG PINGPING,USD,PayPal,2024-10-26 11:01,10,Invoice Payment,23023,7FV372175U5389614,192.01,10.07,0,1,181.94,$181.9400
+686,752,Qing Lee,CNY,Alipay ????????? (QR+APP),2024-10-26 12:44,10,Invoice Payment,23011,pi_3QE1rIRxxun8okeS1D8KZLg6,23.44,0,0,7.12453,23.44,$3.2900
+687,752,Qing Lee,CNY,Alipay ????????? (QR+APP),2024-10-26 12:56,10,Invoice Payment,23011,,0.02,0,0,7.12453,0.02,$0.0028
+688,1008,1 1,CNY,Alipay ????????? (QR+APP),2024-10-26 14:08,10,Invoice Payment,22963,,0.01,0,0,7.12453,0.01,$0.0014
+689,1391,Zhai Bolis,USD,Alipay ????????? (QR+APP),2024-10-26 14:55,10,Invoice Payment,23071,pi_3QE3tNRxxun8okeS1hRJgPhr,30.19,0,0,1,30.19,$30.1900
+690,1550,lin xixu,CNY,Alipay ????????? (QR+APP),2024-10-26 17:06,10,Invoice Payment,23095,pi_3QE5vNRxxun8okeS0BDMsGTB,34.13,0,0,7.12453,34.13,$4.7905
+691,1550,lin xixu,CNY,Alipay ????????? (QR+APP),2024-10-26 17:12,10,Invoice Payment,23095,,0.01,0,0,7.12453,0.01,$0.0014
+692,1551,hunter zuo,USD,Alipay ????????? (QR+APP),2024-10-26 17:37,10,Invoice Payment,23119,pi_3QE6QXRxxun8okeS1Ue5qLDR,4.39,0,0,1,4.39,$4.3900
+693,1552,wdw dw,CNY,Alipay ????????? (QR+APP),2024-10-26 20:02,10,Invoice Payment,23143,pi_3QE8g5Rxxun8okeS0QQWRMu8,21.3,0,0,7.12453,21.3,$2.9897
+694,403,new soul,USD,Alipay ????????? (QR+APP),2024-10-27 11:18,10,Invoice Payment,19363,pi_3QEMzsRxxun8okeS0HpBuXoB,1.09,0,0,1,1.09,$1.0900
+695,1553,li li,USD,PayPal,2024-10-27 13:55,10,Invoice Payment,23191,67D29953NJ180041W,4.39,0.71,0,1,3.68,$3.6800
+696,1554,jkun online,USD,Crypto ????????????,2024-10-27 14:31,10,Invoice Payment,23203,7dd173316ee7ae56542cb0ad448763fc0265c47fcc6407f8fdf7525b23f29ef2,197.25,0,0,1,197.25,$197.2500
+697,1555,luo luo,USD,Alipay ????????? (QR+APP),2024-10-27 17:38,10,Invoice Payment,23215,pi_3QESuERxxun8okeS0BtKHqFm,3.29,0,0,1,3.29,$3.2900
+698,1557,?€? ??????,CNY,Alipay ????????? (QR+APP),2024-10-27 21:06,10,Invoice Payment,23227,pi_3QEWAeRxxun8okeS0qu25h2D,31.28,0,0,7.12453,31.28,$4.3905
+699,1557,?€? ??????,CNY,Alipay ????????? (QR+APP),2024-10-27 21:21,10,Invoice Payment,23227,,0.02,0,0,7.12453,0.02,$0.0028
+700,1556,jianjian ren,USD,PayPal,2024-10-27 21:27,10,Invoice Payment,23239,8TP83290KG5806326,28.75,1.92,0,1,26.83,$26.8300
+701,1558,yin lin,CNY,PayPal,2024-10-28 02:46,10,Invoice Payment,23251,5UN95401S0383830K,258.19,16.39,0,7.12453,241.8,$33.9391
+702,1559,Joseh Dan,USD,Crypto ????????????,2024-10-28 12:55,10,Invoice Payment,23299,,40,0,0,1,40,$40.0000
+703,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-10-28 14:18,10,Invoice Payment,23323,pi_3QEmHDRxxun8okeS1h5baNPE,2.99,0,0,1,2.99,$2.9900
+704,1558,yin lin,CNY,PayPal,2024-10-28 16:03,10,Refund of Transaction ID 5UN95401S0383830K,23251,,0,-16.39,258.19,7.12453,-241.8,-$33.9391
+705,319,wangzi wang,USD,Alipay ????????? (QR+APP),2024-10-28 16:03,10,Invoice Payment,23335,pi_3QEnuuRxxun8okeS0g3oQW6i,18.09,0,0,1,18.09,$18.0900
+706,1009,Taylor Johnston,USD,Crypto ????????????,2024-10-28 16:15,10,Invoice Payment,20935,,7.99,0,0,1,7.99,$7.9900
+707,1561,Antoniaa Lu,USD,Alipay ????????? (QR+APP),2024-10-28 17:28,10,Invoice Payment,23347,pi_3QEpEVRxxun8okeS1STdrcG4,24.14,0,0,1,24.14,$24.1400
+708,153,laohu ma,USD,Alipay ????????? (QR+APP),2024-10-28 20:06,10,Invoice Payment,23371,pi_3QErhWRxxun8okeS0mwCxvHX,4.39,0,0,1,4.39,$4.3900
+709,99,Lili Zhu,USD,Alipay ????????? (QR+APP),2024-10-29 00:18,10,Invoice Payment,23395,pi_3QEvdsRxxun8okeS0Jcw0RvR,10.16,0,0,1,10.16,$10.1600
+710,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-10-29 11:14,10,Invoice Payment,23467,pi_3QF5sBRxxun8okeS0pnjj5bS,2.99,0,0,1,2.99,$2.9900
+711,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-10-29 13:40,10,Invoice Payment,23479,pi_3QF89yRxxun8okeS1NYAmQ86,5.98,0,0,1,5.98,$5.9800
+712,1564,1 1,USD,Alipay ????????? (QR+APP),2024-10-29 17:24,10,Invoice Payment,23515,pi_3QFBesRxxun8okeS0zVrA5ZI,3.29,0,0,1,3.29,$3.2900
+713,393,xuanyuan zimo,USD,Alipay ????????? (QR+APP),2024-10-29 21:43,10,Invoice Payment,23443,pi_3QFFfeRxxun8okeS19ptKDmT,1.09,0,0,1,1.09,$1.0900
+714,1567,ivan Hao,USD,PayPal,2024-10-29 22:28,10,Invoice Payment,23527,3VJ25020AX245774X,4.39,0.71,0,1,3.68,$3.6800
+722,1578,loop doop,USD,Alipay ????????? (QR+APP),2024-10-30 00:00,10,Invoice Payment,23743,,0,0,0,1,0,$0.0000
+723,367,?????? ???,USD,Alipay ????????? (QR+APP),2024-10-30 00:00,10,Invoice Payment,23755,,0,0,0,1,0,$0.0000
+715,1567,ivan Hao,USD,PayPal,2024-10-30 09:14,10,Invoice Payment,23623,4MG377887H088312J,13.7,1.17,0,1,12.53,$12.5300
+716,1570,jacky fei,USD,Alipay ????????? (QR+APP),2024-10-30 12:02,10,Invoice Payment,23635,pi_3QFT6URxxun8okeS1AKLPaZp,18.09,0,0,1,18.09,$18.0900
+717,1571,Yu ZHANG,USD,Alipay ????????? (QR+APP),2024-10-30 13:01,10,Invoice Payment,23647,pi_3QFU1wRxxun8okeS0M83P6Ij,7.99,0,0,1,7.99,$7.9900
+718,1571,Yu ZHANG,USD,Alipay ????????? (QR+APP),2024-10-30 13:05,10,Invoice Payment,23659,pi_3QFU5cRxxun8okeS1cJzyN4f,4.39,0,0,1,4.39,$4.3900
+719,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-10-30 14:30,10,Invoice Payment,23671,pi_3QFVOaRxxun8okeS1hAYNbxc,3.99,0,0,1,3.99,$3.9900
+720,1572,muzi li,CNY,Alipay ????????? (QR+APP),2024-10-30 14:45,10,Invoice Payment,23683,pi_3QFVdxRxxun8okeS0HY6zAA2,85.93,0,0,7.13709,85.93,$12.0399
+721,1574,??? ???,USD,Alipay ????????? (QR+APP),2024-10-30 19:48,10,Invoice Payment,23695,pi_3QFaMlRxxun8okeS0Czujamp,4.39,0,0,1,4.39,$4.3900
+724,1580,davie tom,USD,PayPal,2024-10-30 23:45,10,Invoice Payment,23767,42B265848T3319047,3.29,0.65,0,1,2.64,$2.6400
+728,1575,daniel liao,USD,PayPal,2024-10-31 00:00,10,Invoice Payment,23863,,0,0,0,1,0,$0.0000
+733,1178,Frank Christopher,USD,Alipay ????????? (QR+APP),2024-10-31 00:00,10,Invoice Payment,23971,,0,0,0,1,0,$0.0000
+725,1581,??? ???,USD,Alipay ????????? (QR+APP),2024-10-31 09:21,10,Invoice Payment,23815,pi_3QFn4WRxxun8okeS0OzWUZSo,1.99,0,0,1,1.99,$1.9900
+726,1583,Baby Zhu,CNY,Alipay ????????? (QR+APP),2024-10-31 10:38,10,Invoice Payment,23827,pi_3QFoH3Rxxun8okeS1d4pI94E,344.41,0,0,7.12473,344.41,$48.3401
+727,1060,chen zuxi,CNY,Alipay ????????? (QR+APP),2024-10-31 11:02,10,Invoice Payment,23839,pi_3QFoecRxxun8okeS1T81h1Um,14.18,0,0,7.12473,14.18,$1.9903
+729,1585,?????? ???,USD,Alipay ????????? (QR+APP),2024-10-31 13:45,10,Invoice Payment,23935,pi_3QFrCARxxun8okeS1DO6Mwh1,1.99,0,0,1,1.99,$1.9900
+730,333,Hu Li,CNY,Alipay ????????? (QR+APP),2024-10-31 15:41,10,Invoice Payment,22519,pi_3QFszgRxxun8okeS0BgDGdVM,7.69,0,0,7.12473,7.69,$1.0793
+731,333,Hu Li,CNY,Alipay ????????? (QR+APP),2024-10-31 15:52,10,Invoice Payment,22519,,0.04,0,0,7.12473,0.04,$0.0056
+732,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-10-31 16:17,10,Invoice Payment,23947,pi_3QFtYsRxxun8okeS1L3WISB2,3.99,0,0,1,3.99,$3.9900
+734,1589,jorh hooy,USD,Crypto ????????????,2024-10-31 19:36,10,Invoice Payment,23983,32ea126636e72e811ae656df6861c9fe059fbbf5a3466fa0440b807ba53faca9,3.29,0,0,1,3.29,$3.2900
+735,1606,ren 1,USD,Alipay ????????? (QR+APP),2024-10-31 21:00,10,Invoice Payment,24163,pi_3QFxyqRxxun8okeS0ZaHXgdb,2.99,0,0,1,2.99,$2.9900
+736,372,Joye Lau,USD,PayPal,2024-10-31 21:47,10,Invoice Payment,24187,77K20240TF554522F,12.04,1.09,0,1,10.95,$10.9500
+737,1617,Sunny Utzc,USD,Alipay ????????? (QR+APP),2024-10-31 22:15,10,Invoice Payment,24295,,5.99,0,0,1,5.99,$5.9900
+738,1172,Hshv Hsh,USD,Alipay ????????? (QR+APP),2024-10-31 22:16,10,Invoice Payment,24307,,5.99,0,0,1,5.99,$5.9900
+739,1620,HEE SOO,USD,Alipay ????????? (QR+APP),2024-10-31 22:16,10,Invoice Payment,24319,,5.99,0,0,1,5.99,$5.9900
+740,1621,?????? ???,USD,Alipay ????????? (QR+APP),2024-10-31 22:16,10,Invoice Payment,24331,,5.99,0,0,1,5.99,$5.9900
+741,1622,F ???,CNY,Alipay ????????? (QR+APP),2024-10-31 22:49,10,Invoice Payment,24343,pi_3QFzYaRxxun8okeS1mmlWSh3,35.55,0,0,7.12473,35.55,$4.9897
+742,1018,le hung,USD,PayPal,2024-10-31 23:02,10,Invoice Payment,20995,07L458511U6325614,2.99,0.64,0,1,2.35,$2.3500
+752,1623,aier miao,CNY,Alipay ????????? (QR+APP),2024-11-01 00:00,11,Invoice Payment,24739,,0,0,0,7.11597,0,$0.0000
+753,410,vc vc,CNY,Alipay ????????? (QR+APP),2024-11-01 00:00,11,Invoice Payment,24715,,0,0,0,7.11597,0,$0.0000
+754,834,zam zhang,USD,Alipay ????????? (QR+APP),2024-11-01 00:00,11,Invoice Payment,24883,,0,0,0,1,0,$0.0000
+755,731,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-01 00:00,11,Invoice Payment,24751,,0,0,0,7.11597,0,$0.0000
+743,1624,kkz kjzjz,USD,Alipay ????????? (QR+APP),2024-11-01 00:00,11,Invoice Payment,24355,pi_3QG0mlRxxun8okeS0DIePLAG,3.29,0,0,1,3.29,$3.2900
+744,1625,zhang sihan,CNY,Alipay ????????? (QR+APP),2024-11-01 00:04,11,Invoice Payment,24367,pi_3QG0qfRxxun8okeS1hZYbMxS,56.93,0,0,7.12473,56.93,$7.9905
+745,1626,degjgg iggj,USD,PayPal,2024-11-01 00:07,11,Invoice Payment,24379,3D783339BH986260N,4.39,0.71,0,1,3.68,$3.6800
+746,1627,john smith,USD,Alipay ????????? (QR+APP),2024-11-01 08:26,11,Invoice Payment,24403,pi_3QG8gkRxxun8okeS04TpcsbG,12.04,0,0,1,12.04,$12.0400
+747,1627,john smith,USD,Alipay ????????? (QR+APP),2024-11-01 08:34,11,Invoice Payment,24427,pi_3QG8oeRxxun8okeS0FX6vqWY,4.39,0,0,1,4.39,$4.3900
+748,1631,Wake Y,USD,Crypto ????????????,2024-11-01 11:41,11,Invoice Payment,24475,51bb4e24d71aed645487260d840c06ed25259ff0d708a84060f71fe85646a526,2.99,0,0,1,2.99,$2.9900
+749,1635,jiawen qian,USD,Alipay ????????? (QR+APP),2024-11-01 15:28,11,Invoice Payment,24499,pi_3QGFHLRxxun8okeS0uahautq,2.99,0,0,1,2.99,$2.9900
+750,1603,John Ruiz,CNY,Alipay ????????? (QR+APP),2024-11-01 17:38,11,Invoice Payment,24523,pi_3QGHITRxxun8okeS10hy62X4,85.68,0,0,7.11597,85.68,$12.0405
+751,1640,zz rr,USD,Alipay ????????? (QR+APP),2024-11-01 18:30,11,Invoice Payment,24535,pi_3QGI6aRxxun8okeS0fvSozdp,3.29,0,0,1,3.29,$3.2900
+756,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-01 22:50,11,Invoice Payment,24919,pi_3QGMAyRxxun8okeS08ONWFky,5.98,0,0,1,5.98,$5.9800
+768,1071,Theresa Chavez,USD,PayPal,2024-11-02 00:00,11,Invoice Payment,25363,,0,0,0,1,0,$0.0000
+767,327,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-02 00:00,11,Invoice Payment,24439,,0,0,0,7.11098,0,$0.0000
+757,1682,ted free,USD,Alipay ????????? (QR+APP),2024-11-02 00:22,11,Invoice Payment,24931,pi_3QGNbkRxxun8okeS1hQmAFk5,7.99,0,0,1,7.99,$7.9900
+758,1683,yuess omks,CNY,Alipay ????????? (QR+APP),2024-11-02 00:35,11,Invoice Payment,24943,pi_3QGNo1Rxxun8okeS07GYvctx,128.73,0,0,7.11597,128.73,$18.0903
+759,1682,ted free,USD,Alipay ????????? (QR+APP),2024-11-02 00:37,11,Invoice Payment,24955,pi_3QGNq4Rxxun8okeS1qIncpMV,18.09,0,0,1,18.09,$18.0900
+760,1686,cheng zi,CNY,Alipay ????????? (QR+APP),2024-11-02 00:46,11,Invoice Payment,24967,pi_3QGNyPRxxun8okeS1gAFR4Mr,31.24,0,0,7.11597,31.24,$4.3901
+761,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-02 09:34,11,Invoice Payment,25027,pi_3QGWDbRxxun8okeS0rz6kKG3,252.01,0,0,7.11098,252.01,$35.4396
+762,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-02 09:36,11,Invoice Payment,25027,,0.02,0,0,7.11098,0.02,$0.0028
+763,1686,cheng zi,CNY,Alipay ????????? (QR+APP),2024-11-02 12:08,11,Invoice Payment,24967,,0.03,0,0,7.11098,0.03,$0.0042
+764,1622,F ???,CNY,Alipay ????????? (QR+APP),2024-11-02 14:58,11,Refund of Transaction ID pi_3QFzYaRxxun8okeS1mmlWSh3,24343,,0,0,32.55,7.12473,-32.55,-$4.5686
+765,1052,zx ddadadff,USD,Alipay ????????? (QR+APP),2024-11-02 15:27,11,Invoice Payment,22903,pi_3QGbjjRxxun8okeS1ihy0Qvp,1.09,0,0,1,1.09,$1.0900
+766,1060,chen zuxi,CNY,Alipay ????????? (QR+APP),2024-11-02 17:22,11,Invoice Payment,25063,pi_3QGdXERxxun8okeS1YIu7SbS,14.15,0,0,7.11098,14.15,$1.9899
+786,1793,Jesse Pinkman,USD,Alipay ????????? (QR+APP),2024-11-03 00:00,11,Invoice Payment,25723,,0,0,0,1,0,$0.0000
+769,1756,ask zhou,CNY,Alipay ????????? (QR+APP),2024-11-03 00:04,11,Invoice Payment,25387,pi_3QGjnpRxxun8okeS0SVxScYl,14.15,0,0,7.11098,14.15,$1.9899
+770,1757,vission lu,USD,Alipay ????????? (QR+APP),2024-11-03 01:06,11,Invoice Payment,25399,pi_3QGkfGRxxun8okeS1KGtepWb,12.04,0,0,1,12.04,$12.0400
+771,318,leticis ???,USD,Alipay ????????? (QR+APP),2024-11-03 12:40,11,Invoice Payment,21115,pi_3QGva7Rxxun8okeS1RUBdZoA,1.09,0,0,1,1.09,$1.0900
+772,1770,Terry Zhong,USD,Alipay ????????? (QR+APP),2024-11-03 12:59,11,Invoice Payment,25459,pi_3QGvsrRxxun8okeS0uBYMs8d,28.75,0,0,1,28.75,$28.7500
+773,1770,Terry Zhong,USD,Alipay ????????? (QR+APP),2024-11-03 13:17,11,Invoice Payment,25471,pi_3QGw6nRxxun8okeS08j3mLuJ,18.09,0,0,1,18.09,$18.0900
+774,1772,Penang sunshine,USD,Alipay ????????? (QR+APP),2024-11-03 14:12,11,Invoice Payment,25495,pi_3QGx0VRxxun8okeS0tRJAiPL,65.89,0,0,1,65.89,$65.8900
+775,370,pool Venom,USD,Alipay ????????? (QR+APP),2024-11-03 14:21,11,Invoice Payment,25507,pi_3QGxBSRxxun8okeS0xz9IP0L,1.99,0,0,1,1.99,$1.9900
+776,370,pool Venom,USD,Alipay ????????? (QR+APP),2024-11-03 14:22,11,Invoice Payment,23179,pi_3QGxCdRxxun8okeS1SiE3Qtw,1.09,0,0,1,1.09,$1.0900
+777,1771,leo chang,USD,Alipay ????????? (QR+APP),2024-11-03 15:40,11,Invoice Payment,25483,pi_3QGyPrRxxun8okeS1frzCCqP,12.04,0,0,1,12.04,$12.0400
+778,1759,tick a,USD,Alipay ????????? (QR+APP),2024-11-03 16:22,11,Invoice Payment,25423,pi_3QGz3fRxxun8okeS1ypiRmFs,18.09,0,0,1,18.09,$18.0900
+779,1026,,USD,PayPal,2024-11-03 18:04,11,Invoice Payment,19711,3JY132336B753425J,258.92,16.57,0,7.11098,242.35,$242.3500
+780,1026,,USD,PayPal,2024-11-03 19:37,11,Refund of Transaction ID 3JY132336B753425J,19711,,0,-16.57,258.92,7.11098,-242.35,-$242.3500
+782,1777,ye hu,USD,Alipay ????????? (QR+APP),2024-11-03 19:53,11,Invoice Payment,25567,pi_3QH2LwRxxun8okeS131mctcR,36.24,0,0,1,36.24,$36.2400
+783,1781,Jack Ma,USD,Alipay ????????? (QR+APP),2024-11-03 20:36,11,Invoice Payment,25663,pi_3QH30bRxxun8okeS1xPyfAzw,18.09,0,0,1,18.09,$18.0900
+784,1783,Wesley Chen,CNY,Alipay ????????? (QR+APP),2024-11-03 20:55,11,Invoice Payment,25675,pi_3QH3J0Rxxun8okeS1rCsqIYo,128.64,0,0,7.11098,128.64,$18.0903
+785,1785,Theresa Chavez,CNY,Alipay ????????? (QR+APP),2024-11-03 21:19,11,Invoice Payment,25699,pi_3QH3hcRxxun8okeS1BjQBAnP,63.93,0,0,7.11098,63.93,$8.9903
+787,1804,Francis Liu,USD,Alipay ????????? (QR+APP),2024-11-04 00:00,11,Invoice Payment,25831,,0,0,0,1,0,$0.0000
+795,93,?????? ???,USD,Alipay ????????? (QR+APP),2024-11-04 00:00,11,Invoice Payment,26095,,0,0,0,1,0,$0.0000
+788,1833,??? ??????,CNY,PayPal,2024-11-04 11:36,11,Invoice Payment,25903,36L61136KM172923J,85.61,7.75,0,7.11098,77.86,$10.9493
+789,752,Qing Lee,CNY,Alipay ????????? (QR+APP),2024-11-04 12:32,11,Invoice Payment,25915,pi_3QHHxIRxxun8okeS10IW9kK6,31.22,0,0,7.11098,31.22,$4.3904
+790,752,Qing Lee,CNY,Alipay ????????? (QR+APP),2024-11-04 12:36,11,Invoice Payment,25915,,0.03,0,0,7.11098,0.03,$0.0042
+791,1834,Aira Halo,USD,Alipay ????????? (QR+APP),2024-11-04 13:24,11,Invoice Payment,25927,pi_3QHIm8Rxxun8okeS1rLmhK09,5.99,0,0,1,5.99,$5.9900
+792,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-04 14:01,11,Invoice Payment,25939,pi_3QHJLkRxxun8okeS0pgXPjRK,85.26,0,0,7.11098,85.26,$11.9899
+793,1037,yuxin lei,CNY,Alipay ????????? (QR+APP),2024-11-04 14:11,11,Invoice Payment,22507,pi_3QHJUqRxxun8okeS12nF6cRF,20.98,0,0,7.11098,20.98,$2.9504
+794,1037,yuxin lei,CNY,Alipay ????????? (QR+APP),2024-11-04 14:13,11,Invoice Payment,22507,,0.01,0,0,7.11098,0.01,$0.0014
+796,1865,leo leo,USD,Alipay ????????? (QR+APP),2024-11-04 22:42,11,Invoice Payment,26263,pi_3QHRTNRxxun8okeS1jFGtiv7,12.04,0,0,1,12.04,$12.0400
+797,127,dandy api,USD,Alipay ????????? (QR+APP),2024-11-04 23:32,11,Invoice Payment,23803,pi_3QHSFoRxxun8okeS1qVPNYvF,1.09,0,0,1,1.09,$1.0900
+798,1876,liu ming,USD,Alipay ????????? (QR+APP),2024-11-04 23:49,11,Invoice Payment,26287,pi_3QHSW6Rxxun8okeS1qLBNpdC,1.99,0,0,1,1.99,$1.9900
+799,62,e kin,USD,Alipay ????????? (QR+APP),2024-11-05 06:17,11,Invoice Payment,26311,pi_3QHYZVRxxun8okeS1itlqhmF,1.99,0,0,1,1.99,$1.9900
+800,1979,wang yitong,CNY,Alipay ????????? (QR+APP),2024-11-05 14:44,11,Invoice Payment,26431,pi_3QHgUnRxxun8okeS1c45Md6R,56.69,0,0,7.09492,56.69,$7.9902
+801,1980,Kum Ruecker,USD,Alipay ????????? (QR+APP),2024-11-05 15:02,11,Invoice Payment,26443,pi_3QHgl6Rxxun8okeS0zHBzq8F,293.21,0,0,1,293.21,$293.2100
+802,1777,ye hu,USD,Alipay ????????? (QR+APP),2024-11-05 16:30,11,Invoice Payment,26455,pi_3QHi9ZRxxun8okeS1Ysee5cj,6.96,0,0,1,6.96,$6.9600
+803,1990,,USD,Alipay ????????? (QR+APP),2024-11-05 19:59,11,Invoice Payment,26467,pi_3QHlP7Rxxun8okeS0QLXRyML,2.99,0,0,1,2.99,$2.9900
+804,510,rayon C,USD,Alipay ????????? (QR+APP),2024-11-05 22:10,11,Invoice Payment,26359,pi_3QHnSCRxxun8okeS1FEXJy2E,1.09,0,0,1,1.09,$1.0900
+807,2147,Classmate Shen,USD,Alipay ????????? (QR+APP),2024-11-06 00:00,11,Invoice Payment,27799,,0,0,0,1,0,$0.0000
+805,2115,Ryan Kim,USD,PayPal,2024-11-06 12:12,11,Invoice Payment,27715,9NF917151A290793G,4.99,0.66,0,1,4.33,$4.3300
+806,2130,Yuen loong,USD,PayPal,2024-11-06 17:16,11,Invoice Payment,27727,8RG90648UA7382414,3.29,0.65,0,1,2.64,$2.6400
+808,2161,zhou mao,USD,Alipay ????????? (QR+APP),2024-11-06 22:10,11,Invoice Payment,27931,pi_3QI9wKRxxun8okeS0zKdUDWZ,3.29,0,0,1,3.29,$3.2900
+810,2229,fei li,CNY,Alipay ????????? (QR+APP),2024-11-07 00:00,11,Invoice Payment,28099,,0,0,0,7.17896,0,$0.0000
+813,1856,zhu mei,USD,Alipay ????????? (QR+APP),2024-11-07 00:00,11,Invoice Payment,26107,,0,0,0,1,0,$0.0000
+809,2230,testee humano,USD,PayPal,2024-11-07 11:20,11,Invoice Payment,28111,9G580334X5180005X,2.99,0.64,0,1,2.35,$2.3500
+811,2233,lan haiyi,USD,Alipay ????????? (QR+APP),2024-11-07 15:02,11,Invoice Payment,28123,pi_3QIPiaRxxun8okeS0Zx2loKV,4.39,0,0,1,4.39,$4.3900
+812,1630,?€???? ???,USD,Alipay ????????? (QR+APP),2024-11-07 20:02,11,Invoice Payment,28147,pi_3QIUPfRxxun8okeS0gDw5zTs,3.29,0,0,1,3.29,$3.2900
+814,2281,Theresa Chavez,USD,PayPal,2024-11-08 00:00,11,Invoice Payment,28219,,0,0,0,1,0,$0.0000
+815,2300,Gerald Lavallee,USD,Alipay ????????? (QR+APP),2024-11-08 02:13,11,Invoice Payment,28231,pi_3QIaCMRxxun8okeS0ppJuZrs,18.09,0,0,1,18.09,$18.0900
+816,334,jack W,USD,Alipay ????????? (QR+APP),2024-11-08 05:48,11,Invoice Payment,28243,pi_3QIdXgRxxun8okeS0AvRJQJU,4.39,0,0,1,4.39,$4.3900
+817,2351,ddd ddddd,USD,Alipay ????????? (QR+APP),2024-11-08 15:46,11,Invoice Payment,28279,pi_3QImrpRxxun8okeS0rQdqB1z,18.09,0,0,1,18.09,$18.0900
+818,2265,a a,USD,Alipay ????????? (QR+APP),2024-11-08 18:38,11,Invoice Payment,28291,pi_3QIpZhRxxun8okeS1Zt88cLj,3.29,0,0,1,3.29,$3.2900
+819,2372,mao mao,USD,Alipay ????????? (QR+APP),2024-11-08 22:01,11,Invoice Payment,28327,pi_3QIskmRxxun8okeS1TcoW5ea,3.29,0,0,1,3.29,$3.2900
+824,2398,Alex LiAo,CNY,Alipay ????????? (QR+APP),2024-11-09 00:00,11,Invoice Payment,28387,,0,0,0,7.16979,0,$0.0000
+820,396,All me,USD,Alipay ????????? (QR+APP),2024-11-09 01:37,11,Invoice Payment,26395,pi_3QIw6TRxxun8okeS1FDPqilv,1.09,0,0,1,1.09,$1.0900
+821,2409,cao wo,USD,Alipay ????????? (QR+APP),2024-11-09 04:13,11,Invoice Payment,28339,pi_3QIyXeRxxun8okeS1WdY8xPl,3.29,0,0,1,3.29,$3.2900
+822,2421,SIYA XU,CNY,Alipay ????????? (QR+APP),2024-11-09 11:27,11,Invoice Payment,28375,pi_3QJ5KGRxxun8okeS0j7NGvh8,393.55,0,0,7.16979,393.55,$54.8900
+823,2366,yao pei,USD,PayPal,2024-11-09 14:29,11,Invoice Payment,28399,2XE71822A42334319,1.99,0.59,0,1,1.4,$1.4000
+825,2424,tioman chen,USD,Alipay ????????? (QR+APP),2024-11-09 17:28,11,Invoice Payment,28411,pi_3QJAxSRxxun8okeS1NptUzEA,1.99,0,0,1,1.99,$1.9900
+826,1630,?€???? ???,USD,Alipay ????????? (QR+APP),2024-11-09 21:04,11,Invoice Payment,28591,pi_3QJEKURxxun8okeS1jpIAbsB,4.39,0,0,1,4.39,$4.3900
+827,2440,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-09 22:32,11,Invoice Payment,28603,pi_3QJFi9Rxxun8okeS1x4CKcvA,14.27,0,0,7.16979,14.27,$1.9903
+830,2462,Tata Lake,USD,Crypto ????????????,2024-11-10 00:00,11,Invoice Payment,28663,,0,0,0,1,0,$0.0000
+828,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-10 12:46,11,Invoice Payment,28639,pi_3QJT2PRxxun8okeS0MXQ7er3,85.97,0,0,7.16979,85.97,$11.9906
+829,392,maike li,CNY,PayPal,2024-11-10 14:38,11,Invoice Payment,23455,84C18079R7404105K,7.75,3.87,0,7.16979,3.88,$0.5412
+831,36,leton Car,USD,Crypto ????????????,2024-11-11 00:00,11,Invoice Payment,23263,f408d27f986443c432b485540a5dfe4ea612542907ed060a0be904c15e1d7867,600,0,0,1,600,$600.0000
+832,1060,chen zuxi,CNY,Alipay ????????? (QR+APP),2024-11-11 13:51,11,Invoice Payment,23275,pi_3QJqWwRxxun8okeS0NLuAtMw,21.15,0,0,7.16979,21.15,$2.9499
+833,1060,chen zuxi,CNY,Alipay ????????? (QR+APP),2024-11-11 22:27,11,Invoice Payment,23275,,0.01,0,0,7.16979,0.01,$0.0014
+834,2518,Jesse Mccree,USD,Alipay ????????? (QR+APP),2024-11-12 00:04,11,Invoice Payment,28711,pi_3QK05ZRxxun8okeS0Wpmoa6S,12.04,0,0,1,12.04,$12.0400
+835,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-12 11:35,11,Invoice Payment,28759,pi_3QKArsRxxun8okeS004VUe8e,8.97,0,0,1,8.97,$8.9700
+836,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-12 22:32,11,Invoice Payment,28783,pi_3QKL8PRxxun8okeS0TmDs0sY,2074.25,0,0,7.20299,2074.25,$287.9707
+837,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-12 22:37,11,Invoice Payment,28783,,0.03,0,0,7.20299,0.03,$0.0042
+838,2547,SHEN HE,USD,Alipay ????????? (QR+APP),2024-11-12 23:53,11,Invoice Payment,28807,pi_3QKMOTRxxun8okeS092FLEtb,2.99,0,0,1,2.99,$2.9900
+839,479,Buddy Finley,USD,Alipay ????????? (QR+APP),2024-11-13 10:48,11,Invoice Payment,26371,pi_3QKWctRxxun8okeS0gwjJNwF,1.09,0,0,1,1.09,$1.0900
+840,254,xiao zhang,CNY,Alipay ????????? (QR+APP),2024-11-13 16:40,11,Invoice Payment,25891,pi_3QKc4YRxxun8okeS1kky3Saf,7.74,0,0,7.23189,7.74,$1.0703
+841,2626,Lunchun Tan,USD,Alipay ????????? (QR+APP),2024-11-14 00:02,11,Invoice Payment,28831,pi_3QKj07Rxxun8okeS1DWARfxx,2.99,0,0,1,2.99,$2.9900
+842,1580,davie tom,USD,PayPal,2024-11-14 10:29,11,Invoice Payment,28939,0PW96725HB379620C,2.99,0.64,0,1,2.35,$2.3500
+843,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-14 10:53,11,Invoice Payment,28951,pi_3QKt9LRxxun8okeS0tov4jpU,5.98,0,0,1,5.98,$5.9800
+844,2666,Jia Xin tang,USD,PayPal,2024-11-14 13:53,11,Invoice Payment,28963,40T6598269606603R,2.99,0.64,0,1,2.35,$2.3500
+845,1175,lisa li,USD,Alipay ????????? (QR+APP),2024-11-14 14:15,11,Invoice Payment,28975,pi_3QKwJaRxxun8okeS0CdaD4pv,3.99,0,0,1,3.99,$3.9900
+846,1175,lisa li,USD,Alipay ????????? (QR+APP),2024-11-14 14:16,11,Invoice Payment,28975,pi_3QKwJaRxxun8okeS0CdaD4pv,3.99,0,0,1,3.99,$3.9900
+847,2676,?????? ???,USD,Alipay ????????? (QR+APP),2024-11-14 18:38,11,Invoice Payment,28999,pi_3QL0QKRxxun8okeS08thEjuk,7.19,0,0,1,7.19,$7.1900
+848,2686,zhang lin,USD,Alipay ????????? (QR+APP),2024-11-14 22:19,11,Invoice Payment,29011,pi_3QL3sPRxxun8okeS1xh8IbrK,3.99,0,0,1,3.99,$3.9900
+849,2696,dada wu,USD,Alipay ????????? (QR+APP),2024-11-15 00:02,11,Invoice Payment,29023,pi_3QL5U4Rxxun8okeS0U9kDmlZ,3.99,0,0,1,3.99,$3.9900
+850,2667,a a,USD,Alipay ????????? (QR+APP),2024-11-15 02:38,11,Invoice Payment,28987,pi_3QL7uxRxxun8okeS1jxf9QbA,3.99,0,0,1,3.99,$3.9900
+851,2742,?????? ???,USD,PayPal,2024-11-15 16:43,11,Invoice Payment,29071,2MV027849B281412D,17.99,1.39,0,1,16.6,$16.6000
+852,417,July 0663,CNY,Alipay ????????? (QR+APP),2024-11-15 17:06,11,Invoice Payment,25447,pi_3QLLJ3Rxxun8okeS1MyRsRPj,7.68,0,0,7.24077,7.68,$1.0607
+853,417,July 0663,CNY,Alipay ????????? (QR+APP),2024-11-15 17:14,11,Invoice Payment,25447,,0.02,0,0,7.24077,0.02,$0.0028
+854,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-16 14:15,11,Invoice Payment,28795,pi_3QLfHxRxxun8okeS09mAyZeI,86.44,0,0,7.22782,86.44,$11.9593
+855,2048,sergio rodriguez,USD,PayPal,2024-11-16 18:42,11,Invoice Payment,29179,66A15645AF698502V,3.99,0.69,0,1,3.3,$3.3000
+856,351,xukun cai,USD,PayPal,2024-11-17 11:18,11,Invoice Payment,29743,6MA77067JG087515V,1.09,0.54,0,1,0.55,$0.5500
+857,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-17 14:46,11,Invoice Payment,27991,pi_3QM2EvRxxun8okeS0cg3unAf,21.25,0,0,7.22782,21.25,$2.9400
+858,423,Seiko G,CNY,Alipay ????????? (QR+APP),2024-11-17 15:44,11,Invoice Payment,26419,pi_3QM390Rxxun8okeS1RFg0TgL,7.66,0,0,7.22782,7.66,$1.0598
+859,423,Seiko G,CNY,Alipay ????????? (QR+APP),2024-11-17 15:59,11,Invoice Payment,26419,,0.03,0,0,7.22782,0.03,$0.0042
+860,127,dandy api,USD,Alipay ????????? (QR+APP),2024-11-18 09:40,11,Invoice Payment,26383,pi_3QMJwrRxxun8okeS0kOoqMRh,1.09,0,0,1,1.09,$1.0900
+861,2847,Lee Yates,USD,Alipay ????????? (QR+APP),2024-11-18 12:35,11,Invoice Payment,29911,pi_3QMMgBRxxun8okeS0X9F1y8w,5.99,0,0,1,5.99,$5.9900
+862,2867,LU YANG,USD,Alipay ????????? (QR+APP),2024-11-18 18:33,11,Invoice Payment,29947,pi_3QMSG2Rxxun8okeS0QsYtE8h,4.79,0,0,1,4.79,$4.7900
+863,2864,York Kor,USD,Alipay ????????? (QR+APP),2024-11-18 18:51,11,Invoice Payment,29935,pi_3QMSWARxxun8okeS0QAwXcdd,2.99,0,0,1,2.99,$2.9900
+864,2667,a a,USD,Alipay ????????? (QR+APP),2024-11-19 14:43,11,Invoice Payment,30223,pi_3QMl8pRxxun8okeS0YeX1sXp,1,0,0,1,1,$1.0000
+865,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-20 09:22,11,Invoice Payment,30511,pi_3QN2bhRxxun8okeS0ZnvTdoI,2.99,0,0,1,2.99,$2.9900
+866,3179,maturity P,USD,PayPal,2024-11-20 16:53,11,Invoice Payment,30571,1U068762EH842430C,29.99,1.99,0,1,28,$28.0000
+867,3216,fe le,USD,Alipay ????????? (QR+APP),2024-11-20 22:46,11,Invoice Payment,30607,pi_3QNFAARxxun8okeS1K1cTR5m,23.99,0,0,1,23.99,$23.9900
+868,3219,Co Co,USD,Alipay ????????? (QR+APP),2024-11-20 23:11,11,Invoice Payment,30631,pi_3QNFXqRxxun8okeS1TBoWAxj,14.39,0,0,1,14.39,$14.3900
+869,3224,tmin t,USD,Alipay ????????? (QR+APP),2024-11-20 23:14,11,Invoice Payment,30643,pi_3QNFb9Rxxun8okeS0cn5lBxh,1.09,0,0,1,1.09,$1.0900
+870,3229,Waer san,USD,Alipay ????????? (QR+APP),2024-11-20 23:55,11,Invoice Payment,30655,pi_3QNGEoRxxun8okeS0FRrHyyR,1.99,0,0,1,1.99,$1.9900
+871,3239,Darny Don,USD,Alipay ????????? (QR+APP),2024-11-21 02:58,11,Invoice Payment,30679,pi_3QNJ60Rxxun8okeS1fRe4scu,12.59,0,0,1,12.59,$12.5900
+872,3252,,USD,Alipay ????????? (QR+APP),2024-11-21 14:15,11,Invoice Payment,30859,pi_3QNTf3Rxxun8okeS1PqihrJQ,57.89,0,0,7.2456,57.89,$57.8900
+873,3229,Waer san,USD,Alipay ????????? (QR+APP),2024-11-21 15:55,11,Invoice Payment,30883,pi_3QNVDZRxxun8okeS0CBwHcIv,4.79,0,0,1,4.79,$4.7900
+874,3256,J J,USD,Alipay ????????? (QR+APP),2024-11-21 16:18,11,Invoice Payment,30895,pi_3QNVaGRxxun8okeS0985iBdO,2.99,0,0,1,2.99,$2.9900
+875,3259,Josh Longuet,USD,Alipay ????????? (QR+APP),2024-11-21 17:07,11,Invoice Payment,30919,pi_3QNWLiRxxun8okeS0CdQ8GyE,2.99,0,0,1,2.99,$2.9900
+876,2864,York Kor,USD,Alipay ????????? (QR+APP),2024-11-21 17:10,11,Invoice Payment,30931,pi_3QNWNeRxxun8okeS1ZtgTSD7,1.99,0,0,1,1.99,$1.9900
+877,3254,xx x,CNY,Alipay ????????? (QR+APP),2024-11-21 20:33,11,Invoice Payment,30979,pi_3QNZZLRxxun8okeS0HXQTsE6,173.89,0,0,7.2456,173.89,$23.9994
+878,3257,LIANG BIN,CNY,Alipay ????????? (QR+APP),2024-11-21 21:58,11,Invoice Payment,31015,pi_3QNatBRxxun8okeS0HlWgAbR,91.29,0,0,7.2456,91.29,$12.5994
+879,3258,jakin lee,CNY,Alipay ????????? (QR+APP),2024-11-21 22:06,11,Invoice Payment,31051,pi_3QNb0rRxxun8okeS0jHlEEw2,91.29,0,0,7.2456,91.29,$12.5994
+880,3265,chong yang,USD,PayPal,2024-11-21 22:07,11,Invoice Payment,31039,4L2537082Y048834P,1.09,0.53,0,1,0.56,$0.5600
+881,3271,Atlee Zhong,USD,Alipay ????????? (QR+APP),2024-11-21 22:13,11,Invoice Payment,31111,pi_3QNb7cRxxun8okeS0859fBwZ,12.59,0,0,1,12.59,$12.5900
+882,3270,Mingfang Wei,USD,PayPal,2024-11-21 22:16,11,Invoice Payment,31099,43D86063WW9816927,12.59,1.12,0,1,11.47,$11.4700
+883,3269,John Quiroz,USD,Alipay ????????? (QR+APP),2024-11-21 22:23,11,Invoice Payment,31087,pi_3QNbH9Rxxun8okeS0oibxFhu,12.59,0,0,1,12.59,$12.5900
+884,3272,cloud soar,USD,Alipay ????????? (QR+APP),2024-11-21 22:27,11,Invoice Payment,31135,pi_3QNbJVRxxun8okeS0Egqvt9M,12.59,0,0,1,12.59,$12.5900
+885,1747,karel Go,CNY,Alipay ????????? (QR+APP),2024-11-21 22:33,11,Invoice Payment,31027,pi_3QNbQjRxxun8okeS0Uq1lytT,91.29,0,0,7.2456,91.29,$12.5994
+886,127,dandy api,USD,Alipay ????????? (QR+APP),2024-11-21 23:07,11,Invoice Payment,31171,pi_3QNbxSRxxun8okeS1b56Vyrq,12.59,0,0,1,12.59,$12.5900
+887,3256,J J,USD,Alipay ????????? (QR+APP),2024-11-21 23:12,11,Invoice Payment,30943,pi_3QNc3BRxxun8okeS0g8j6Ace,17.99,0,0,1,17.99,$17.9900
+893,3290,yolo lee,USD,Alipay ????????? (QR+APP),2024-11-22 00:00,11,Invoice Payment,31399,,0,0,0,1,0,$0.0000
+888,3274,Duncan Zat,USD,Crypto ????????????,2024-11-22 00:10,11,Invoice Payment,31183,5d702c22c935e1c18a69829bde9b8c4c9feac5cddf879148a852545be331e787,16.19,0,0,1,16.19,$16.1900
+889,3276,Lucifer MorningStar,USD,Alipay ????????? (QR+APP),2024-11-22 02:41,11,Invoice Payment,31195,pi_3QNfJTRxxun8okeS14sWEOUm,2.99,0,0,1,2.99,$2.9900
+890,3275,callipus brigton,USD,Crypto ????????????,2024-11-22 02:49,11,Invoice Payment,31207,f191353093fdebb351ce42e4c8013e76f0119a3a434ec6a61f6b47efa17c550d,16.19,0,0,1,16.19,$16.1900
+891,3283,Fei T,USD,Alipay ????????? (QR+APP),2024-11-22 09:33,11,Invoice Payment,31363,pi_3QNlkURxxun8okeS1ivD9hf3,16.19,0,0,1,16.19,$16.1900
+892,3287,Hosea Ho,USD,PayPal,2024-11-22 10:07,11,Invoice Payment,31387,28R44500X2636081X,16.19,1.3,0,1,14.89,$14.8900
+894,3293,liu liu,USD,PayPal,2024-11-22 16:26,11,Invoice Payment,31411,47V665252G593511C,2.99,0.64,0,1,2.35,$2.3500
+895,3288,kow gow,CNY,Alipay ????????? (QR+APP),2024-11-22 16:28,11,Invoice Payment,31423,pi_3QNsDJRxxun8okeS0YNGVGaT,117.21,0,0,7.2396,117.21,$16.1901
+896,1630,?€???? ???,USD,Alipay ????????? (QR+APP),2024-11-22 17:13,11,Invoice Payment,31435,pi_3QNsvVRxxun8okeS1TNYH95b,8.99,0,0,1,8.99,$8.9900
+897,396,All me,USD,PayPal,2024-11-22 17:14,11,Invoice Payment,19339,2HK50783M9322724L,1.09,0.54,0,1,0.55,$0.5500
+898,3288,kow gow,CNY,Alipay ????????? (QR+APP),2024-11-22 17:59,11,Invoice Payment,31423,,0.03,0,0,7.2396,0.03,$0.0041
+899,3284,si li,CNY,Alipay ????????? (QR+APP),2024-11-22 19:33,11,Invoice Payment,31375,pi_3QNv4NRxxun8okeS1UX3usQS,57.84,0,0,7.2396,57.84,$7.9894
+900,3216,fe le,USD,Alipay ????????? (QR+APP),2024-11-22 20:27,11,Refund of Transaction ID pi_3QNFAARxxun8okeS1K1cTR5m,30607,,0,0,6.8,1,-6.8,-$6.8000
+901,3297,lin feng,USD,Alipay ????????? (QR+APP),2024-11-22 20:59,11,Invoice Payment,31459,pi_3QNwQLRxxun8okeS0e3CMEZF,71.99,0,0,1,71.99,$71.9900
+902,3299,?????? ???,USD,Alipay ????????? (QR+APP),2024-11-22 21:07,11,Invoice Payment,31471,pi_3QNwZwRxxun8okeS0SDjkpk5,16.99,0,0,1,16.99,$16.9900
+903,3302,Katana Yolo,USD,Alipay ????????? (QR+APP),2024-11-22 21:22,11,Invoice Payment,31495,pi_3QNwoLRxxun8okeS13fdOxee,35.99,0,0,1,35.99,$35.9900
+904,3305,flixe les,CNY,Alipay ????????? (QR+APP),2024-11-22 22:08,11,Invoice Payment,31531,pi_3QNxVBRxxun8okeS011BmfXi,91.22,0,0,7.2396,91.22,$12.6001
+905,3303,zhang bo,USD,Alipay ????????? (QR+APP),2024-11-22 22:09,11,Invoice Payment,31567,pi_3QNxWiRxxun8okeS0HTN2Yfq,12.59,0,0,1,12.59,$12.5900
+906,3306,xxx xxxx,USD,PayPal,2024-11-22 22:09,11,Invoice Payment,31555,9KY73206DF7092806,12.59,1.12,0,1,11.47,$11.4700
+907,305,Zhi Qiu,USD,Alipay ????????? (QR+APP),2024-11-22 22:10,11,Invoice Payment,31591,pi_3QNxXGRxxun8okeS0hd3wd4A,12.59,0,0,1,12.59,$12.5900
+908,3307,Mh Z,USD,Alipay ????????? (QR+APP),2024-11-22 22:19,11,Invoice Payment,31627,pi_3QNxgVRxxun8okeS1erXpdzy,12.59,0,0,1,12.59,$12.5900
+909,1788,tracer Tracer,USD,Alipay ????????? (QR+APP),2024-11-22 22:35,11,Invoice Payment,31651,pi_3QNxwwRxxun8okeS0ZmusvUc,12.59,0,0,1,12.59,$12.5900
+910,3224,tmin t,USD,Alipay ????????? (QR+APP),2024-11-22 22:36,11,Invoice Payment,31663,pi_3QNxxERxxun8okeS1CXU2BQE,12.59,0,0,1,12.59,$12.5900
+911,3291,Edward cvv,USD,PayPal,2024-11-22 22:40,11,Invoice Payment,31579,2KW09693C2973370R,12.59,1.12,0,1,11.47,$11.4700
+912,3309,Tang Joe,USD,Alipay ????????? (QR+APP),2024-11-22 23:07,11,Invoice Payment,31675,pi_3QNyRkRxxun8okeS0AayJGef,1.99,0,0,1,1.99,$1.9900
+913,3298,Gavin Leon,USD,PayPal,2024-11-22 23:12,11,Invoice Payment,31615,7RJ75806AF927160T,12.59,1.12,0,1,11.47,$11.4700
+914,3311,kalala kal,USD,Alipay ????????? (QR+APP),2024-11-22 23:57,11,Invoice Payment,31699,pi_3QNzDURxxun8okeS0GR3FXmb,14.39,0,0,1,14.39,$14.3900
+915,3317,Zheng Wu,USD,PayPal,2024-11-23 06:16,11,Invoice Payment,31747,1DP34398VE1496927,14.39,1.21,0,1,13.18,$13.1800
+916,3321,jack zhao,USD,Alipay ????????? (QR+APP),2024-11-23 10:25,11,Invoice Payment,31831,pi_3QO8ziRxxun8okeS0zTt4k53,14.39,0,0,1,14.39,$14.3900
+917,3324,Orange King,USD,Alipay ????????? (QR+APP),2024-11-23 11:56,11,Invoice Payment,31843,pi_3QOASERxxun8okeS1N2VQOcw,2.99,0,0,1,2.99,$2.9900
+918,3325,Xiang Liu,USD,Alipay ????????? (QR+APP),2024-11-23 12:44,11,Invoice Payment,31855,pi_3QOBByRxxun8okeS0kzvjriH,14.39,0,0,1,14.39,$14.3900
+919,3327,??? ???,USD,Alipay ????????? (QR+APP),2024-11-23 12:57,11,Invoice Payment,31867,pi_3QOBOsRxxun8okeS0AdmDUMG,1.09,0,0,1,1.09,$1.0900
+920,3329,,USD,Alipay ????????? (QR+APP),2024-11-23 14:59,11,Invoice Payment,31879,pi_3QODIXRxxun8okeS1njeQJW0,1.09,0,0,1,1.09,$1.0900
+921,3330,ghjkl tyuio,USD,Alipay ????????? (QR+APP),2024-11-23 15:31,11,Invoice Payment,31891,pi_3QODnzRxxun8okeS0k1cUlLH,12.59,0,0,1,12.59,$12.5900
+922,2676,?????? ???,USD,Alipay ????????? (QR+APP),2024-11-23 18:18,11,Invoice Payment,31903,pi_3QOGPDRxxun8okeS02FvzyJR,7.19,0,0,1,7.19,$7.1900
+923,3336,li li,CNY,Alipay ????????? (QR+APP),2024-11-23 20:49,11,Invoice Payment,31927,pi_3QOIm2Rxxun8okeS0HsnNEIV,91.31,0,0,7.24721,91.31,$12.5993
+924,3338,fa fi,USD,Alipay ????????? (QR+APP),2024-11-23 20:56,11,Invoice Payment,31939,pi_3QOIscRxxun8okeS1mfZULJu,12.59,0,0,1,12.59,$12.5900
+925,3340,Jack bauer,USD,Alipay ????????? (QR+APP),2024-11-23 21:07,11,Invoice Payment,31963,pi_3QOJ2VRxxun8okeS0htCZU3O,12.59,0,0,1,12.59,$12.5900
+926,3339,Peter Zhang,USD,PayPal,2024-11-23 21:07,11,Invoice Payment,31951,32A04754V2390013D,12.59,1.12,0,1,11.47,$11.4700
+927,3341,Philip House,USD,Alipay ????????? (QR+APP),2024-11-23 21:16,11,Invoice Payment,31975,pi_3QOJAKRxxun8okeS07i0ZmHU,12.59,0,0,1,12.59,$12.5900
+928,3342,MK Way,USD,Alipay ????????? (QR+APP),2024-11-23 22:04,11,Invoice Payment,31999,pi_3QOJweRxxun8okeS1YKtDTFU,12.59,0,0,1,12.59,$12.5900
+929,3344,jack ma,USD,Alipay ????????? (QR+APP),2024-11-23 22:05,11,Invoice Payment,32011,pi_3QOJwkRxxun8okeS07veZP0Y,12.59,0,0,1,12.59,$12.5900
+930,3347,Paula Brown,USD,Crypto ????????????,2024-11-23 22:34,11,Invoice Payment,32059,6ec3876f67628dfe0aa81f9142d3df7d96d8078beabbbe13f08685ea033be64d,12.59,0,0,1,12.59,$12.5900
+931,209,ZHIBAO ZHOU,USD,PayPal,2024-11-24 00:38,11,Invoice Payment,32119,8TW08548SG303782H,12.59,1.12,0,1,11.47,$11.4700
+932,2867,LU YANG,USD,Alipay ????????? (QR+APP),2024-11-24 01:16,11,Invoice Payment,32131,pi_3QOMvmRxxun8okeS1yDr8VQj,2.99,0,0,1,2.99,$2.9900
+933,3357,weiwei li,USD,Alipay ????????? (QR+APP),2024-11-24 04:27,11,Invoice Payment,32167,pi_3QOPsgRxxun8okeS0vsNtYsO,12.59,0,0,1,12.59,$12.5900
+934,3361,yuan yuan,CNY,Alipay ????????? (QR+APP),2024-11-24 07:57,11,Invoice Payment,32179,pi_3QOTC6Rxxun8okeS0ur9yLGI,7.9,0,0,7.24721,7.9,$1.0901
+935,1570,jacky fei,USD,Alipay ????????? (QR+APP),2024-11-24 08:12,11,Invoice Payment,32191,pi_3QOTQWRxxun8okeS1bT5QVOg,25.19,0,0,1,25.19,$25.1900
+936,3363,Joe Lee,USD,PayPal,2024-11-24 09:11,11,Invoice Payment,32227,1FR62181J7333620U,12.59,0.93,0,1,11.66,$11.6600
+937,3364,kkk lucky,USD,Alipay ????????? (QR+APP),2024-11-24 10:18,11,Invoice Payment,32239,pi_3QOVOgRxxun8okeS1rPcOeja,1.09,0,0,1,1.09,$1.0900
+938,3365,Van T,USD,Alipay ????????? (QR+APP),2024-11-24 10:23,11,Invoice Payment,32251,pi_3QOVTHRxxun8okeS05dM6DWI,12.59,0,0,1,12.59,$12.5900
+939,3367,Nan July,USD,Alipay ????????? (QR+APP),2024-11-24 10:45,11,Invoice Payment,32275,pi_3QOVmcRxxun8okeS08151SyK,2.99,0,0,1,2.99,$2.9900
+940,3368,Alex du,CNY,Alipay ????????? (QR+APP),2024-11-24 11:39,11,Invoice Payment,32311,pi_3QOWeoRxxun8okeS1VZ46DaV,91.31,0,0,7.24721,91.31,$12.5993
+941,3371,chen chen,USD,Alipay ????????? (QR+APP),2024-11-24 14:04,11,Invoice Payment,32323,pi_3QOYvlRxxun8okeS0VNma5Io,1.09,0,0,1,1.09,$1.0900
+942,3350,shawn li,USD,Alipay ????????? (QR+APP),2024-11-24 16:44,11,Invoice Payment,32095,pi_3QObPqRxxun8okeS0erRs8A4,12.59,0,0,1,12.59,$12.5900
+943,3375,1 1,USD,Alipay ????????? (QR+APP),2024-11-24 18:26,11,Invoice Payment,32335,pi_3QOd1CRxxun8okeS157WTrvM,35.99,0,0,1,35.99,$35.9900
+944,3369,xinglong na,USD,PayPal,2024-11-24 21:09,11,Invoice Payment,32299,5KF319607J6247443,12.59,0.93,0,1,11.66,$11.6600
+945,3379,REN SOLE,USD,Alipay ????????? (QR+APP),2024-11-24 22:37,11,Invoice Payment,32395,pi_3QOgvORxxun8okeS0J3C0Cx6,503.99,0,0,1,503.99,$503.9900
+946,3379,REN SOLE,USD,Alipay ????????? (QR+APP),2024-11-24 22:49,11,Invoice Payment,32407,pi_3QOh79Rxxun8okeS0AY8ORmn,12.59,0,0,1,12.59,$12.5900
+947,3382,l yy,USD,Alipay ????????? (QR+APP),2024-11-24 23:39,11,Invoice Payment,32443,pi_3QOhtxRxxun8okeS1ZlsaCoW,12.59,0,0,1,12.59,$12.5900
+948,1606,ren 1,USD,Alipay ????????? (QR+APP),2024-11-25 02:11,11,Invoice Payment,29407,pi_3QOkGYRxxun8okeS0btsv9ff,2.99,0,0,1,2.99,$2.9900
+949,3405,XIAOHUI YIN,USD,Alipay ????????? (QR+APP),2024-11-25 10:58,11,Invoice Payment,32623,pi_3QOsUCRxxun8okeS0yGzfcaN,12.59,0,0,1,12.59,$12.5900
+950,3406,Wisdom Devil,USD,PayPal,2024-11-25 12:06,11,Invoice Payment,32647,3NG20585A7904724F,12.59,1.12,0,1,11.47,$11.4700
+951,1011,Hdb Sgsg,USD,Alipay ????????? (QR+APP),2024-11-25 18:05,11,Invoice Payment,32659,pi_3QOz58Rxxun8okeS0sUPMEe7,2.99,0,0,1,2.99,$2.9900
+952,3445,Huiying Ling,USD,Alipay ????????? (QR+APP),2024-11-26 00:18,11,Invoice Payment,32719,pi_3QP4yrRxxun8okeS0fRuN5H9,12.59,0,0,1,12.59,$12.5900
+953,3448,HAO LIANG,USD,Alipay ????????? (QR+APP),2024-11-26 00:29,11,Invoice Payment,32731,pi_3QP59uRxxun8okeS1AnvABOx,16.99,0,0,1,16.99,$16.9900
+954,3477,Ah win,USD,Alipay ????????? (QR+APP),2024-11-26 09:14,11,Invoice Payment,32779,pi_3QPDLYRxxun8okeS1aP3HgoH,1.09,0,0,1,1.09,$1.0900
+955,3478,zong wu,USD,Alipay ????????? (QR+APP),2024-11-26 09:23,11,Invoice Payment,32791,pi_3QPDUgRxxun8okeS0DEutfEm,12.59,0,0,1,12.59,$12.5900
+956,3477,Ah win,USD,Alipay ????????? (QR+APP),2024-11-26 09:30,11,Invoice Payment,32803,pi_3QPDb4Rxxun8okeS0jq33MQU,12.59,0,0,1,12.59,$12.5900
+957,3479,Ediany Ediany,CNY,PayPal,2024-11-26 09:56,11,Invoice Payment,32815,0WK55044TC508313H,91.23,6.74,0,7.24326,84.49,$11.6646
+958,3480,luo chao,USD,Alipay ????????? (QR+APP),2024-11-26 10:08,11,Invoice Payment,32827,pi_3QPEBkRxxun8okeS0foqfpR4,11.99,0,0,1,11.99,$11.9900
+959,3483,raven x,USD,PayPal,2024-11-26 10:38,11,Invoice Payment,32851,6PU62633VN0241929,12.59,0.93,0,1,11.66,$11.6600
+960,3480,luo chao,USD,Alipay ????????? (QR+APP),2024-11-26 11:20,11,Invoice Payment,32839,pi_3QPFK1Rxxun8okeS0I9ZbSt8,0.6,0,0,1,0.6,$0.6000
+961,370,pool Venom,USD,Alipay ????????? (QR+APP),2024-11-26 13:09,11,Invoice Payment,30139,pi_3QPH0tRxxun8okeS04Te3E6r,1.99,0,0,1,1.99,$1.9900
+962,370,pool Venom,USD,Alipay ????????? (QR+APP),2024-11-26 13:10,11,Invoice Payment,32767,pi_3QPH1nRxxun8okeS1UohAMml,1.09,0,0,1,1.09,$1.0900
+963,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-26 14:06,11,Invoice Payment,29215,pi_3QPHu9Rxxun8okeS15ODzGaM,252.36,0,0,7.24326,252.36,$34.8407
+964,3497,fox hu,USD,Alipay ????????? (QR+APP),2024-11-26 16:09,11,Invoice Payment,32875,pi_3QPJp3Rxxun8okeS080caXaU,1.09,0,0,1,1.09,$1.0900
+965,3499,WingTim Yip,USD,Alipay ????????? (QR+APP),2024-11-26 16:21,11,Invoice Payment,32887,pi_3QPK00Rxxun8okeS1Wxn54Vv,1.09,0,0,1,1.09,$1.0900
+966,3506,wayne elikez,USD,Alipay ????????? (QR+APP),2024-11-26 19:12,11,Invoice Payment,32899,pi_3QPMfxRxxun8okeS0OuNL9Yu,2.99,0,0,1,2.99,$2.9900
+967,3511,CC CC,USD,PayPal,2024-11-26 20:09,11,Invoice Payment,32911,2AW28813W1811260N,2.99,0.64,0,1,2.35,$2.3500
+968,3513,LIU XINGGUO,USD,PayPal,2024-11-26 20:36,11,Invoice Payment,32923,0ES76821GS863350W,12.59,1.12,0,1,11.47,$11.4700
+969,311,robin chen,USD,Alipay ????????? (QR+APP),2024-11-26 20:58,11,Invoice Payment,32959,pi_3QPOKnRxxun8okeS1csdRZTb,12.59,0,0,1,12.59,$12.5900
+970,3520,CAI LI,CNY,Alipay ????????? (QR+APP),2024-11-26 21:23,11,Invoice Payment,32983,pi_3QPOauRxxun8okeS02Qj2PLn,91.27,0,0,7.24326,91.27,$12.6007
+971,1571,Yu ZHANG,USD,Alipay ????????? (QR+APP),2024-11-26 22:12,11,Invoice Payment,33043,pi_3QPPUMRxxun8okeS17IPW4vl,8.99,0,0,1,8.99,$8.9900
+972,3522,L L,CNY,PayPal,2024-11-26 22:15,11,Invoice Payment,33055,4J716186R73251150,91.23,6.74,0,7.24326,84.49,$11.6646
+973,3533,,USD,Alipay ????????? (QR+APP),2024-11-26 23:09,11,Invoice Payment,33067,pi_3QPQN4Rxxun8okeS12JSLyYn,5.99,0,0,1,5.99,$5.9900
+974,3521,Alpha Tango,USD,Alipay ????????? (QR+APP),2024-11-26 23:30,11,Invoice Payment,33007,pi_3QPQhRRxxun8okeS0gFDkczR,12.59,0,0,1,12.59,$12.5900
+982,1221,Hello Hey,USD,Alipay ????????? (QR+APP),2024-11-27 00:00,11,Invoice Payment,33271,,0,0,0,1,0,$0.0000
+983,1221,Hello Hey,USD,Alipay ????????? (QR+APP),2024-11-27 00:00,11,Invoice Payment,33283,,0,0,0,1,0,$0.0000
+975,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-11-27 11:11,11,Invoice Payment,29215,,0.03,0,0,7.24815,0.03,$0.0041
+976,1009,Taylor Johnston,USD,Crypto ????????????,2024-11-27 11:15,11,Invoice Payment,29107,bff08cf665944809d444e4de8cb30761610c7cdfff3c8e4b53003051c07eb54d,7.99,0,0,1,7.99,$7.9900
+977,3575,Orchi Liao,USD,PayPal,2024-11-27 12:33,11,Invoice Payment,33175,8ER12184R63057746,12.59,1.12,0,1,11.47,$11.4700
+978,3578,?????? ???,USD,Alipay ????????? (QR+APP),2024-11-27 13:09,11,Invoice Payment,33199,pi_3QPdUtRxxun8okeS1mRANv51,12.59,0,0,1,12.59,$12.5900
+979,3582,villa ye,USD,Alipay ????????? (QR+APP),2024-11-27 14:16,11,Invoice Payment,33223,pi_3QPeY3Rxxun8okeS0PVtdFsE,12.59,0,0,1,12.59,$12.5900
+980,3287,Hosea Ho,USD,PayPal,2024-11-27 14:55,11,Invoice Payment,33211,25C854092Y721314Y,12.59,1.12,0,1,11.47,$11.4700
+981,3585,me luo,USD,Alipay ????????? (QR+APP),2024-11-27 15:04,11,Invoice Payment,33235,pi_3QPfHnRxxun8okeS02Ovt43A,2.99,0,0,1,2.99,$2.9900
+984,3229,Waer san,USD,Alipay ????????? (QR+APP),2024-11-27 20:05,11,Invoice Payment,33295,pi_3QPjzoRxxun8okeS0T6HhyWz,2.99,0,0,1,2.99,$2.9900
+985,3607,qinghuan huan,USD,Alipay ????????? (QR+APP),2024-11-27 20:07,11,Invoice Payment,33307,pi_3QPk1QRxxun8okeS1P1piLbL,1.09,0,0,1,1.09,$1.0900
+986,3610,a a,USD,PayPal,2024-11-27 20:34,11,Invoice Payment,33331,3NC13082915705620,12.59,1.12,0,1,11.47,$11.4700
+987,3611,kevin zeng,USD,Alipay ????????? (QR+APP),2024-11-27 20:37,11,Invoice Payment,33343,pi_3QPkUbRxxun8okeS19tYNuQG,1.09,0,0,1,1.09,$1.0900
+988,3578,?????? ???,USD,Alipay ????????? (QR+APP),2024-11-27 21:31,11,Invoice Payment,33403,pi_3QPlK8Rxxun8okeS04WAeLLF,12.59,0,0,1,12.59,$12.5900
+989,3616,Corinne Baker,USD,Alipay ????????? (QR+APP),2024-11-27 21:34,11,Invoice Payment,33391,pi_3QPlMxRxxun8okeS0H4AK9fs,12.59,0,0,1,12.59,$12.5900
+990,3618,Syaine Shen,USD,PayPal,2024-11-27 22:13,11,Invoice Payment,33427,7LJ57134U9445103H,12.59,1.12,0,1,11.47,$11.4700
+991,3623,dan ni,USD,PayPal,2024-11-27 23:13,11,Invoice Payment,33439,0EB24091J7420210K,12.59,1.12,0,1,11.47,$11.4700
+992,99,rex xie,USD,Alipay ????????? (QR+APP),2024-11-27 23:50,11,Invoice Payment,33463,pi_3QPnUwRxxun8okeS1zBPFuiv,1.55,0,0,1,1.55,$1.5500
+993,1550,lin xixu,CNY,Alipay ????????? (QR+APP),2024-11-28 00:00,11,Invoice Payment,28747,pi_3QPo3aRxxun8okeS1vXnMyZa,34.14,0,0,7.24815,34.14,$4.7102
+994,3629,Surge Surge,USD,PayPal,2024-11-28 00:45,11,Invoice Payment,33475,7HV24672PL714001P,12.59,0.93,0,1,11.66,$11.6600
+995,3634,????€? ???,CNY,Alipay ????????? (QR+APP),2024-11-28 01:15,11,Invoice Payment,33487,pi_3QPopgRxxun8okeS1r1CfqxO,28.92,0,0,7.24815,28.92,$3.9900
+996,1550,lin xixu,CNY,Alipay ????????? (QR+APP),2024-11-28 01:26,11,Invoice Payment,28747,pi_3QPo3aRxxun8okeS1vXnMyZa,34.14,0,0,7.24815,34.14,$4.7102
+997,3537,Gray Fox,USD,Alipay ????????? (QR+APP),2024-11-28 04:05,11,Invoice Payment,33499,pi_3QPrTlRxxun8okeS06I2vvQc,1.09,0,0,1,1.09,$1.0900
+998,3673,Bug O,CNY,Alipay ????????? (QR+APP),2024-11-28 08:41,11,Invoice Payment,33523,pi_3QPvmhRxxun8okeS1plhQCTM,91.33,0,0,7.24815,91.33,$12.6005
+999,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-28 11:06,11,Invoice Payment,28927,pi_3QPy3DRxxun8okeS1jXIZGty,2.99,0,0,1,2.99,$2.9900
+1000,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-28 11:24,11,Invoice Payment,29059,pi_3QPyKPRxxun8okeS1cWaOeyD,8.97,0,0,1,8.97,$8.9700
+1001,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-28 11:30,11,Invoice Payment,33559,,8.97,0,0,1,8.97,$8.9700
+1002,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-28 11:33,11,Invoice Payment,29119,pi_3QPySXRxxun8okeS1MscZJ54,3.99,0,0,1,3.99,$3.9900
+1003,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-28 11:34,11,Invoice Payment,29491,pi_3QPyUQRxxun8okeS19hCpJ5L,9.97,0,0,1,9.97,$9.9700
+1004,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-28 11:45,11,Invoice Payment,33619,pi_3QPyfJRxxun8okeS1AEUhHNA,5.98,0,0,1,5.98,$5.9800
+1005,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-11-28 11:46,11,Invoice Payment,33619,pi_3QPyfJRxxun8okeS1AEUhHNA,5.98,0,0,1,5.98,$5.9800
+1006,3679,zhuan tu,USD,Alipay ????????? (QR+APP),2024-11-28 12:17,11,Invoice Payment,33631,pi_3QPz9uRxxun8okeS1DPs8m5P,5.99,0,0,1,5.99,$5.9900
+1007,48,Alexandra Adams,USD,Alipay ????????? (QR+APP),2024-11-28 14:45,11,Invoice Payment,33667,pi_3QQ1SiRxxun8okeS0Or6w3d1,1.09,0,0,1,1.09,$1.0900
+1008,3682,adolfogolauoi65 Hoshneyvesan,CNY,Alipay ????????? (QR+APP),2024-11-28 14:46,11,Invoice Payment,33679,pi_3QQ1U6Rxxun8okeS0rwTJzfR,91.35,0,0,7.24974,91.35,$12.6005
+1009,3683,Chris Forde,CNY,Alipay ????????? (QR+APP),2024-11-28 15:32,11,Invoice Payment,33691,pi_3QQ2CnRxxun8okeS0U6EpuqB,91.35,0,0,7.24974,91.35,$12.6005
+1010,3634,????€? ???,CNY,Alipay ????????? (QR+APP),2024-11-28 15:42,11,Invoice Payment,33703,pi_3QQ2LkRxxun8okeS1PHsHMHO,62.42,0,0,7.24974,62.42,$8.6100
+1011,3684,weisheng nii,USD,Crypto ????????????,2024-11-28 16:40,11,Invoice Payment,33715,11127ddb1c55634de5fb8be8464ad87cf3775bf4f94dd69a3268a0ca62bd57fd,12.59,0,0,1,12.59,$12.5900
+1012,200,liam lee,CNY,Alipay ????????? (QR+APP),2024-11-28 17:53,11,Invoice Payment,33739,pi_3QQ4NCRxxun8okeS08a9p0y4,91.27,0,0,7.24974,91.27,$12.5894
+1013,200,liam lee,CNY,Alipay ????????? (QR+APP),2024-11-28 18:08,11,Invoice Payment,33739,,0.04,0,0,7.24974,0.04,$0.0055
+1014,1630,?€???? ???,USD,Alipay ????????? (QR+APP),2024-11-28 20:51,11,Invoice Payment,33775,pi_3QQ7BHRxxun8okeS1CTSU6S6,8.99,0,0,1,8.99,$8.9900
+1015,3699,lipstick hew,USD,Alipay ????????? (QR+APP),2024-11-28 22:44,11,Invoice Payment,33799,pi_3QQ8wVRxxun8okeS155vjKwr,12.59,0,0,1,12.59,$12.5900
+1016,3705,3 3,CNY,Alipay ????????? (QR+APP),2024-11-28 22:52,11,Invoice Payment,33811,pi_3QQ92cRxxun8okeS184b7jFL,91.35,0,0,7.24974,91.35,$12.6005
+1017,3287,Hosea Ho,USD,PayPal,2024-11-29 09:01,11,Invoice Payment,33835,0AS29648VJ433013F,5.99,0.79,0,1,5.2,$5.2000
+1018,3672,w sx,USD,Alipay ????????? (QR+APP),2024-11-29 10:18,11,Invoice Payment,33511,pi_3QQJmMRxxun8okeS16hug3PH,12.59,0,0,1,12.59,$12.5900
+1019,3747,Panda Z,CNY,Crypto ????????????,2024-11-29 12:35,11,Invoice Payment,33871,811f81dcdbe27e3a698ca5585f97117ac76751642931d3e69a2e3cbb965a3ae7,52.12,0,0,7.24749,52.12,$7.1915
+1020,3751,ren jun,USD,Alipay ????????? (QR+APP),2024-11-29 13:45,11,Invoice Payment,33907,pi_3QQMzRRxxun8okeS0CWowUC2,12.59,0,0,1,12.59,$12.5900
+1021,3752,bql pfy,USD,Alipay ????????? (QR+APP),2024-11-29 15:11,11,Invoice Payment,33931,pi_3QQOLbRxxun8okeS1IWXCQ3I,12.59,0,0,1,12.59,$12.5900
+1022,3754,??? ???,USD,Alipay ????????? (QR+APP),2024-11-29 15:31,11,Invoice Payment,33955,pi_3QQOfgRxxun8okeS0Os9EV0n,12.59,0,0,1,12.59,$12.5900
+1023,1599,??? ???,CNY,Alipay ????????? (QR+APP),2024-11-29 19:28,11,Invoice Payment,33967,pi_3QQSMGRxxun8okeS139Mn9HW,182.64,0,0,7.24749,182.64,$25.2004
+1024,3763,Christa Frederick,USD,PayPal,2024-11-29 20:59,11,Invoice Payment,33979,5KD437999S6804242,12.59,1.12,0,1,11.47,$11.4700
+1025,3299,?????? ???,USD,Alipay ????????? (QR+APP),2024-11-29 21:39,11,Invoice Payment,34003,pi_3QQUPcRxxun8okeS0BHOMTI0,42.99,0,0,1,42.99,$42.9900
+1026,3765,Diana yae,USD,Alipay ????????? (QR+APP),2024-11-29 21:40,11,Invoice Payment,33991,pi_3QQUB5Rxxun8okeS1tZ6UMB1,12.59,0,0,1,12.59,$12.5900
+1027,3775,DD DD,USD,Alipay ????????? (QR+APP),2024-11-29 23:40,11,Invoice Payment,34015,pi_3QQWIaRxxun8okeS1vJugR5y,25.19,0,0,1,25.19,$25.1900
+1028,3809,wu di,USD,Alipay ????????? (QR+APP),2024-11-30 11:21,11,Invoice Payment,34123,pi_3QQhF7Rxxun8okeS0XaWgndR,2.99,0,0,1,2.99,$2.9900
+1029,3812,Jackson Chou,USD,PayPal,2024-11-30 15:17,11,Invoice Payment,34135,46R32006R4482940G,12.59,0.93,0,1,11.66,$11.6600
+1030,3816,snarls defunct,USD,PayPal,2024-11-30 19:03,11,Invoice Payment,34159,6GL478211M5732639,59.99,3.48,0,1,56.51,$56.5100
+1031,3819,Jeandenis Fardella,USD,PayPal,2024-11-30 20:15,11,Invoice Payment,34195,8WA90646DW396254L,77.99,3.21,0,1,74.78,$74.7800
+1032,3822,??? ???,USD,PayPal,2024-11-30 20:32,11,Invoice Payment,34207,00E11523W8692024N,12.59,0.93,0,1,11.66,$11.6600
+1033,3824,Jacky law,USD,Alipay ????????? (QR+APP),2024-11-30 20:55,11,Invoice Payment,34219,pi_3QQqCRRxxun8okeS1YAmg4HB,12.59,0,0,1,12.59,$12.5900
+1034,3826,Jack Ma,USD,PayPal,2024-11-30 22:17,11,Invoice Payment,34243,7H472244YB047921M,1.09,0.54,0,1,0.55,$0.5500
+1035,3242,HT HT,USD,Alipay ????????? (QR+APP),2024-12-01 02:08,12,Invoice Payment,30691,pi_3QQv5ARxxun8okeS1z4ABUlZ,12.59,0,0,1,12.59,$12.5900
+1036,3847,Bob Smith,USD,Alipay ????????? (QR+APP),2024-12-01 08:57,12,Invoice Payment,34279,pi_3QR1SfRxxun8okeS02EiFuGj,29.99,0,0,1,29.99,$29.9900
+1037,3851,zhijie chen,CNY,Alipay ????????? (QR+APP),2024-12-01 11:04,12,Invoice Payment,34315,pi_3QR3SNRxxun8okeS1DZCLXNu,36.13,0,0,7.24143,36.13,$4.9893
+1038,3854,wj z,USD,Alipay ????????? (QR+APP),2024-12-01 14:18,12,Invoice Payment,34339,pi_3QR6T9Rxxun8okeS1VA2JiY2,2.99,0,0,1,2.99,$2.9900
+1039,3379,REN SOLE,USD,Alipay ????????? (QR+APP),2024-12-01 23:38,12,Invoice Payment,34351,pi_3QRFEFRxxun8okeS1VuFyytl,12,0,0,1,12,$12.0000
+1045,219,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-02 00:00,12,Invoice Payment,34447,,0,0,0,7.24143,0,$0.0000
+1047,163,??? kn,USD,Alipay ????????? (QR+APP),2024-12-02 00:00,12,Invoice Payment,34495,,0,0,0,1,0,$0.0000
+1040,3867,?????? ???,USD,Alipay ????????? (QR+APP),2024-12-02 00:10,12,Invoice Payment,34375,pi_3QRFi7Rxxun8okeS1Co3sJyS,11.99,0,0,1,11.99,$11.9900
+1041,3870,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-02 02:35,12,Invoice Payment,34387,pi_3QRHz6Rxxun8okeS1zZA9NHZ,57.86,0,0,7.24143,57.86,$7.9901
+1042,3851,zhijie chen,CNY,Alipay ????????? (QR+APP),2024-12-02 13:10,12,Invoice Payment,34423,pi_3QRRtWRxxun8okeS1LKb4Or3,14.41,0,0,7.24143,14.41,$1.9899
+1043,3870,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-02 15:51,12,Refund of Transaction ID pi_3QRHz6Rxxun8okeS1zZA9NHZ,34387,,0,0,50,7.24143,-50,-$6.9047
+1044,3366,Hui He,USD,PayPal,2024-12-02 16:45,12,Invoice Payment,32263,6N250760H8635210T,12.59,0.93,0,1,11.66,$11.6600
+1046,3271,Atlee Zhong,USD,Alipay ????????? (QR+APP),2024-12-02 22:02,12,Invoice Payment,34471,pi_3QRaArRxxun8okeS0P7KNS25,16.79,0,0,1,16.79,$16.7900
+1048,254,xiao zhang,CNY,Alipay ????????? (QR+APP),2024-12-03 00:52,12,Invoice Payment,34507,pi_3QRcqwRxxun8okeS1SxnhccA,7.75,0,0,7.24143,7.75,$1.0702
+1049,3935,ming wu,USD,Alipay ????????? (QR+APP),2024-12-03 10:23,12,Invoice Payment,34531,pi_3QRlhzRxxun8okeS1S9OdbEg,35.99,0,0,1,35.99,$35.9900
+1050,2366,yao pei,USD,PayPal,2024-12-03 12:19,12,Invoice Payment,32467,8YH52055N06831526,1.99,0.59,0,1,1.4,$1.4000
+1051,3964,dy mh,USD,PayPal,2024-12-03 18:55,12,Invoice Payment,34567,8RR644291E728005K,16.79,1.33,0,1,15.46,$15.4600
+1052,3972,izumi sagiri,USD,Alipay ????????? (QR+APP),2024-12-03 19:45,12,Invoice Payment,34615,pi_3QRuXCRxxun8okeS1pgUPdG6,23.99,0,0,1,23.99,$23.9900
+1053,3974,joey kini,USD,Alipay ????????? (QR+APP),2024-12-03 20:03,12,Invoice Payment,34639,pi_3QRuolRxxun8okeS0zPlTrxf,1.99,0,0,1,1.99,$1.9900
+1054,3380,Kun kun,USD,PayPal,2024-12-03 20:07,12,Invoice Payment,32431,9G063934DV047891M,12.59,1.12,0,1,11.47,$11.4700
+1055,3975,Zheng Chenghao,USD,Alipay ????????? (QR+APP),2024-12-03 20:07,12,Invoice Payment,34651,pi_3QRusRRxxun8okeS0uFfTqgy,1.99,0,0,1,1.99,$1.9900
+1056,318,leticis ???,USD,Alipay ????????? (QR+APP),2024-12-03 21:26,12,Invoice Payment,17335,pi_3QRw6wRxxun8okeS1ykezp83,1.09,0,0,1,1.09,$1.0900
+1057,3986,DEVIN LEE HILL,USD,PayPal,2024-12-03 22:02,12,Invoice Payment,34699,6CD652955B894780W,16.79,1.08,0,1,15.71,$15.7100
+1058,3978,DE ED,USD,Alipay ????????? (QR+APP),2024-12-03 22:04,12,Invoice Payment,34735,pi_3QRwhwRxxun8okeS134U3re3,20.99,0,0,1,20.99,$20.9900
+1059,3983,Izayoi Sakuya,CNY,Alipay ????????? (QR+APP),2024-12-03 22:04,12,Invoice Payment,34723,pi_3QRwhkRxxun8okeS1ZGE4Byr,122.19,0,0,7.27334,122.19,$16.7997
+1060,3985,li wang,USD,PayPal,2024-12-03 22:05,12,Invoice Payment,34747,31371697TG4353008,20.99,1.22,0,1,19.77,$19.7700
+1061,3970,xxx xxx,CNY,Crypto ????????????,2024-12-03 22:05,12,Invoice Payment,34711,26c9490d24a450126b3ee2f7e52382b330f44be389773749e0f2c711b3ac33fc,122.16,0,0,7.27334,122.16,$16.7956
+1062,3989,_ Lin,USD,Alipay ????????? (QR+APP),2024-12-03 23:48,12,Invoice Payment,34759,pi_3QRyHtRxxun8okeS0uwjQfGw,17.99,0,0,1,17.99,$17.9900
+1065,163,??? kn,USD,Alipay ????????? (QR+APP),2024-12-04 00:00,12,Invoice Payment,34483,,0,0,0,1,0,$0.0000
+1063,2686,zhang lin,USD,Alipay ????????? (QR+APP),2024-12-04 00:25,12,Invoice Payment,34075,pi_3QRyu0Rxxun8okeS0DsbrXhA,3.99,0,0,1,3.99,$3.9900
+1064,3935,ming wu,USD,Alipay ????????? (QR+APP),2024-12-04 09:31,12,Invoice Payment,34819,pi_3QS7QYRxxun8okeS1BiaSBUk,35.99,0,0,1,35.99,$35.9900
+1066,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-04 15:29,12,Invoice Payment,32755,pi_3QSD0YRxxun8okeS0w2rBjrV,85.97,0,0,7.28586,85.97,$11.7996
+1067,4035,sion sylphs,USD,Alipay ????????? (QR+APP),2024-12-04 18:11,12,Invoice Payment,34855,pi_3QSFXXRxxun8okeS0EEYRd2l,23.99,0,0,1,23.99,$23.9900
+1068,3974,joey kini,USD,Alipay ????????? (QR+APP),2024-12-04 19:15,12,Invoice Payment,34867,pi_3QSGXqRxxun8okeS0RIXG45g,1.99,0,0,1,1.99,$1.9900
+1069,4042,l y,CNY,PayPal,2024-12-04 22:13,12,Invoice Payment,34891,8K06905923647281X,122.37,9.69,0,7.28586,112.68,$15.4656
+1070,4046,overload stock,USD,PayPal,2024-12-05 00:00,12,Invoice Payment,34903,,0,0,0,1,0,$0.0000
+1077,735,MAX MAX,CNY,Alipay ????????? (QR+APP),2024-12-05 00:00,12,Invoice Payment,35047,,0,0,0,7.27078,0,$0.0000
+1071,4056,Liu fuzhu,USD,Alipay ????????? (QR+APP),2024-12-05 01:49,12,Invoice Payment,34915,pi_3QSMfXRxxun8okeS0Csf7TCk,7.99,0,0,1,7.99,$7.9900
+1072,4079,Pli IC,USD,Alipay ????????? (QR+APP),2024-12-05 09:17,12,Invoice Payment,34999,pi_3QSTgmRxxun8okeS18qSPIiA,16.79,0,0,1,16.79,$16.7900
+1073,3851,zhijie chen,CNY,Alipay ????????? (QR+APP),2024-12-05 09:26,12,Invoice Payment,35011,pi_3QSTq0Rxxun8okeS0ynUfP4w,36.28,0,0,7.27078,36.28,$4.9898
+1074,3998,yasui woo,USD,Alipay ????????? (QR+APP),2024-12-05 11:21,12,Invoice Payment,35023,pi_3QSVahRxxun8okeS0gRsU78I,17.99,0,0,1,17.99,$17.9900
+1075,4091,feeeee dssfs,USD,Alipay ????????? (QR+APP),2024-12-05 13:06,12,Invoice Payment,35035,pi_3QSXB1Rxxun8okeS14z4v0OP,16.79,0,0,1,16.79,$16.7900
+1076,4096,Elizabeth Russell,USD,PayPal,2024-12-05 14:20,12,Invoice Payment,35059,3LA04485YP731811F,11.99,0.91,0,1,11.08,$11.0800
+1078,4099,nomad wang,CNY,Alipay ????????? (QR+APP),2024-12-05 15:32,12,Invoice Payment,35083,pi_3QSZXQRxxun8okeS0mhhtn60,174.43,0,0,7.27078,174.43,$23.9905
+1079,4100,Martin Fan,USD,PayPal,2024-12-05 15:40,12,Invoice Payment,35095,6EG153785V5175132,23.99,1.33,0,1,22.66,$22.6600
+1080,4099,nomad wang,CNY,Alipay ????????? (QR+APP),2024-12-05 15:54,12,Invoice Payment,35083,,0.03,0,0,7.27078,0.03,$0.0041
+1081,3499,WingTim Yip,USD,Alipay ????????? (QR+APP),2024-12-05 16:05,12,Invoice Payment,35107,pi_3QSa2cRxxun8okeS1MMWYAO8,1.09,0,0,1,1.09,$1.0900
+1082,4056,Liu fuzhu,USD,Alipay ????????? (QR+APP),2024-12-05 17:15,12,Invoice Payment,35119,pi_3QSb82Rxxun8okeS0dzTOP9k,4,0,0,1,4,$4.0000
+1083,61,L L,USD,Alipay ????????? (QR+APP),2024-12-05 18:01,12,Invoice Payment,35131,pi_3QSbryRxxun8okeS1irpWYYu,1,0,0,1,1,$1.0000
+1084,396,All me,USD,PayPal,2024-12-05 20:23,12,Invoice Payment,34975,69A39904WP3141409,1.09,0.54,0,1,0.55,$0.5500
+1085,4115,liu dehua,USD,PayPal,2024-12-05 20:46,12,Invoice Payment,35143,08S48469HL998564V,23.99,1.69,0,1,22.3,$22.3000
+1086,3987,qin wei,CNY,Alipay ????????? (QR+APP),2024-12-05 21:59,12,Invoice Payment,35179,pi_3QSfa9Rxxun8okeS1liFZkc1,87.18,0,0,7.27078,87.18,$11.9905
+1087,3987,qin wei,CNY,Alipay ????????? (QR+APP),2024-12-05 22:07,12,Invoice Payment,35179,,0.03,0,0,7.27078,0.03,$0.0041
+1088,3309,Tang Joe,USD,Alipay ????????? (QR+APP),2024-12-06 00:56,12,Invoice Payment,35191,pi_3QSiLORxxun8okeS1DLeI3jg,59.99,0,0,1,59.99,$59.9900
+1089,4175,Prompan Goldsen,USD,Alipay ????????? (QR+APP),2024-12-06 06:21,12,Invoice Payment,35203,pi_3QSnPoRxxun8okeS06YCOrvN,16.79,0,0,1,16.79,$16.7900
+1090,4196,luo ye,USD,PayPal,2024-12-06 09:12,12,Invoice Payment,35287,4ES37510KS8967648,8.99,0.94,0,1,8.05,$8.0500
+1091,4209,ryoukenn kinn,CNY,Alipay ????????? (QR+APP),2024-12-06 11:35,12,Invoice Payment,35299,pi_3QSsJbRxxun8okeS0cgLxOLs,152.57,0,0,7.26537,152.57,$20.9996
+1092,4212,Fergie Welish,USD,Crypto ????????????,2024-12-06 11:59,12,Invoice Payment,35311,cf7edf7e96390f67f65a8cb8c40b4be9120748957f2ae80f8399555a6f273bb6,3.99,0,0,1,3.99,$3.9900
+1093,4235,Shi Wen chen,USD,Alipay ????????? (QR+APP),2024-12-06 17:59,12,Invoice Payment,35335,pi_3QSyINRxxun8okeS1wpts2mX,11.99,0,0,1,11.99,$11.9900
+1094,1052,zx ddadadff,USD,Alipay ????????? (QR+APP),2024-12-06 18:46,12,Invoice Payment,32203,pi_3QSz2IRxxun8okeS049cFkyd,1.09,0,0,1,1.09,$1.0900
+1095,2230,,USD,PayPal,2024-12-06 19:37,12,Invoice Payment,31783,7AJ22876CX381241T,2.99,0.64,0,1,2.35,$2.3500
+1096,4257,zhang san,USD,Alipay ????????? (QR+APP),2024-12-06 21:42,12,Invoice Payment,35359,pi_3QT1jURxxun8okeS0EamUBR9,16.79,0,0,1,16.79,$16.7900
+1097,3614,vmliu wang,USD,Alipay ????????? (QR+APP),2024-12-06 22:21,12,Invoice Payment,33367,pi_3QT2OzRxxun8okeS0OLplheO,12.59,0,0,1,12.59,$12.5900
+1098,4283,mxr muimui,USD,Alipay ????????? (QR+APP),2024-12-07 00:12,12,Invoice Payment,35431,pi_3QT47yRxxun8okeS1kpA08V7,20.99,0,0,1,20.99,$20.9900
+1099,4196,luo ye,USD,PayPal,2024-12-07 02:02,12,Invoice Payment,35479,11T56437CL0740721,23.99,1.69,0,1,22.3,$22.3000
+1100,4236,yuong chang,USD,Alipay ????????? (QR+APP),2024-12-07 06:19,12,Invoice Payment,35491,pi_3QT9rWRxxun8okeS1r2yID6b,2.99,0,0,1,2.99,$2.9900
+1101,3265,chong yang,USD,Alipay ????????? (QR+APP),2024-12-07 09:24,12,Invoice Payment,35539,pi_3QTCkRRxxun8okeS0orO92aC,1.09,0,0,1,1.09,$1.0900
+1102,4030,Yu Chen,CNY,PayPal,2024-12-07 10:49,12,Invoice Payment,35623,8JD503935L443905H,36.24,5.37,0,7.26321,30.87,$4.2502
+1103,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-07 13:27,12,Invoice Payment,35635,pi_3QTGXERxxun8okeS1V1BpL7O,87.09,0,0,7.26321,87.09,$11.9906
+1104,4352,z z,CNY,Alipay ????????? (QR+APP),2024-12-07 17:11,12,Invoice Payment,35659,pi_3QTK2kRxxun8okeS0okBpU8F,130.67,0,0,7.26321,130.67,$17.9907
+1105,4352,z z,CNY,Alipay ????????? (QR+APP),2024-12-07 18:30,12,Invoice Payment,35659,,0.03,0,0,7.26321,0.03,$0.0041
+1106,4365,Yexin Xiao,USD,PayPal,2024-12-08 01:23,12,Invoice Payment,35683,60380469WV963433R,16.79,1.33,0,1,15.46,$15.4600
+1107,4380,nico gnaw,USD,Alipay ????????? (QR+APP),2024-12-08 04:34,12,Invoice Payment,35695,pi_3QTUh2Rxxun8okeS1wDFukei,16.79,0,0,1,16.79,$16.7900
+1108,3990,fan qing,USD,Alipay ????????? (QR+APP),2024-12-08 10:45,12,Invoice Payment,35827,pi_3QTaPlRxxun8okeS1P8uwGrk,16.79,0,0,1,16.79,$16.7900
+1109,2230,,USD,PayPal,2024-12-09 13:42,12,Refund of Transaction ID 7AJ22876CX381241T,31783,,0,-0.64,2.49,1,-1.85,-$1.8500
+1110,4030,Yu Chen,CNY,PayPal,2024-12-09 13:47,12,Refund of Transaction ID 8JD503935L443905H,35623,,0,-5.37,32.7,7.26321,-27.33,-$3.7628
+1111,4468,Nick Luo,USD,Alipay ????????? (QR+APP),2024-12-09 18:14,12,Invoice Payment,35971,pi_3QU3z1Rxxun8okeS1Vnk4qFD,23.99,0,0,1,23.99,$23.9900
+1112,4465,glady james,USD,PayPal,2024-12-09 18:20,12,Invoice Payment,35959,62U89692AX5446025,23.99,1.69,0,1,22.3,$22.3000
+1113,4474,Ray Liu,USD,PayPal,2024-12-09 18:53,12,Invoice Payment,36019,2PU89917P9567280J,23.99,1.33,0,1,22.66,$22.6600
+1114,4481,zhao yong,USD,Alipay ????????? (QR+APP),2024-12-09 19:50,12,Invoice Payment,36067,pi_3QU5SvRxxun8okeS1vX3G1BK,11.99,0,0,1,11.99,$11.9900
+1115,4483,Chris yang,USD,Alipay ????????? (QR+APP),2024-12-09 20:05,12,Invoice Payment,36079,pi_3QU5giRxxun8okeS1VXXLoVY,17.99,0,0,1,17.99,$17.9900
+1116,4491,Mark Fedor,CNY,Alipay ????????? (QR+APP),2024-12-09 21:38,12,Invoice Payment,36091,pi_3QU7A9Rxxun8okeS0MvFy8P6,18.09,0,0,7.26321,18.09,$2.4906
+1117,4493,b b,USD,PayPal,2024-12-09 22:08,12,Invoice Payment,36103,9EG069213K5529342,11.99,1.09,0,1,10.9,$10.9000
+1118,4501,??? ??????,USD,Alipay ????????? (QR+APP),2024-12-09 23:16,12,Invoice Payment,36151,pi_3QU8egRxxun8okeS0zCo3eKK,11.99,0,0,1,11.99,$11.9900
+1119,4518,Cody Doby,USD,Alipay ????????? (QR+APP),2024-12-10 01:56,12,Invoice Payment,36163,pi_3QUB5sRxxun8okeS1bHYBVql,23.99,0,0,1,23.99,$23.9900
+1120,4559,kmay kay,USD,PayPal,2024-12-10 10:21,12,Invoice Payment,36271,4BN68207TL2888415,35.99,2.29,0,1,33.7,$33.7000
+1121,4561,KE ZAHNG,CNY,Alipay ????????? (QR+APP),2024-12-10 11:40,12,Invoice Payment,36283,pi_3QUKJIRxxun8okeS1P2AMboZ,43.51,0,0,7.26438,43.51,$5.9895
+1122,4563,Kloter M Kloter M,USD,Crypto ????????????,2024-12-10 12:11,12,Invoice Payment,36295,655746176686b90d5e605a216fab03dd63128416f084cf18b86e6d8591671aeb,16.79,0,0,1,16.79,$16.7900
+1123,4570,Jiajiang Tang,CNY,Alipay ????????? (QR+APP),2024-12-10 13:08,12,Invoice Payment,36319,pi_3QULg2Rxxun8okeS0Yq6wvgY,174.35,0,0,7.26438,174.35,$24.0007
+1124,2115,Ryan Kim,USD,PayPal,2024-12-10 18:23,12,Invoice Payment,31219,8E965186YT6513427,4.99,0.66,0,1,4.33,$4.3300
+1125,36,leton Car,USD,Crypto ????????????,2024-12-10 20:14,12,Invoice Payment,33139,,600,0,0,1,600,$600.0000
+1126,4605,hang ke,USD,Alipay ????????? (QR+APP),2024-12-10 21:08,12,Invoice Payment,36379,pi_3QUTAbRxxun8okeS0HdX5VSf,2.49,0,0,1,2.49,$2.4900
+1127,4606,??? ???,CNY,Alipay ????????? (QR+APP),2024-12-10 21:24,12,Invoice Payment,36391,pi_3QUTPrRxxun8okeS0AaRTz2k,43.51,0,0,7.26438,43.51,$5.9895
+1128,4610,mu mu,USD,Alipay ????????? (QR+APP),2024-12-10 22:33,12,Invoice Payment,36403,pi_3QUUUSRxxun8okeS0lLH2NDv,20.99,0,0,1,20.99,$20.9900
+1132,1221,Hello Hey,USD,Alipay ????????? (QR+APP),2024-12-11 00:00,12,Invoice Payment,36487,,0,0,0,1,0,$0.0000
+1129,4621,SHUAI ZHANG,CNY,Alipay ????????? (QR+APP),2024-12-11 03:47,12,Invoice Payment,36415,pi_3QUZOMRxxun8okeS0rqt2TlH,36.25,0,0,7.26438,36.25,$4.9901
+1130,3819,Jeandenis Fardella,USD,PayPal,2024-12-11 10:47,12,Reversed Transaction ID: 8WA90646DW396254L,34195,8PL81363FA8416451,0,-3.21,77.99,1,-74.78,-$74.7800
+1131,3985,li wang,USD,PayPal,2024-12-11 12:18,12,Refund of Transaction ID 31371697TG4353008,34747,,0,-1.22,20.49,1,-19.27,-$19.2700
+1133,4740,peng bu,USD,Alipay ????????? (QR+APP),2024-12-11 16:33,12,Invoice Payment,36499,pi_3QUlKbRxxun8okeS1u9Hm0ms,3.99,0,0,1,3.99,$3.9900
+1134,3634,????€? ???,CNY,Alipay ????????? (QR+APP),2024-12-11 18:29,12,Invoice Payment,36523,pi_3QUnA6Rxxun8okeS1QMtoP9L,121.78,0,0,7.25316,121.78,$16.7899
+1135,3634,????€? ???,CNY,Alipay ????????? (QR+APP),2024-12-11 18:41,12,Invoice Payment,36523,,0.02,0,0,7.25316,0.02,$0.0028
+1136,4758,Richard Wang,USD,Alipay ????????? (QR+APP),2024-12-11 20:15,12,Invoice Payment,36535,pi_3QUolXRxxun8okeS1d15G2VV,11.99,0,0,1,11.99,$11.9900
+1137,4776,Sam Lam,USD,Alipay ????????? (QR+APP),2024-12-11 23:21,12,Invoice Payment,36547,pi_3QUrigRxxun8okeS0tsly5vR,23.99,0,0,1,23.99,$23.9900
+1138,4794,s1ck boy,USD,Alipay ????????? (QR+APP),2024-12-12 01:46,12,Invoice Payment,36571,pi_3QUtyGRxxun8okeS0eTXlcMR,20.99,0,0,1,20.99,$20.9900
+1139,4836,Joe Fong,USD,Alipay ????????? (QR+APP),2024-12-12 07:30,12,Invoice Payment,36583,pi_3QUzMERxxun8okeS02PHRGCF,16.79,0,0,1,16.79,$16.7900
+1140,4846,shaowei sun,USD,Alipay ????????? (QR+APP),2024-12-12 10:42,12,Invoice Payment,36715,pi_3QV2M6Rxxun8okeS09wAP4Ca,16.79,0,0,1,16.79,$16.7900
+1141,4561,KE ZAHNG,CNY,Alipay ????????? (QR+APP),2024-12-12 11:10,12,Invoice Payment,36727,pi_3QV2mdRxxun8okeS0uKkzvM4,515.64,0,0,7.26354,515.64,$70.9902
+1142,4786,Evin Leo,CNY,PayPal,2024-12-12 12:09,12,Invoice Payment,36739,3AY14754TA685240X,232.33,15.18,0,7.26354,217.15,$29.8959
+1143,479,Buddy Finley,USD,Alipay ????????? (QR+APP),2024-12-12 14:12,12,Invoice Payment,34951,pi_3QV5cMRxxun8okeS0rXdcWuW,1.09,0,0,1,1.09,$1.0900
+1144,4862,jim wen,USD,Alipay ????????? (QR+APP),2024-12-12 15:12,12,Invoice Payment,36751,pi_3QV6YoRxxun8okeS0KHeDDMv,5.99,0,0,1,5.99,$5.9900
+1145,4863,??? ??????,USD,Alipay ????????? (QR+APP),2024-12-12 15:13,12,Invoice Payment,36763,pi_3QV6ZPRxxun8okeS1JQRHe7O,16.79,0,0,1,16.79,$16.7900
+1146,4501,??? ??????,USD,Alipay ????????? (QR+APP),2024-12-12 15:15,12,Invoice Payment,36775,pi_3QV6c4Rxxun8okeS0iQtNwSm,6,0,0,1,6,$6.0000
+1147,4876,hole La,USD,Alipay ????????? (QR+APP),2024-12-12 23:52,12,Invoice Payment,36799,pi_3QVEgQRxxun8okeS0I4xdSb3,16.79,0,0,1,16.79,$16.7900
+1148,392,maike li,CNY,Alipay ????????? (QR+APP),2024-12-13 02:14,12,Invoice Payment,33595,pi_3QVGsmRxxun8okeS1NOK3d5C,7.77,0,0,7.26354,7.77,$1.0697
+1149,3607,qinghuan huan,USD,Alipay ????????? (QR+APP),2024-12-13 09:04,12,Invoice Payment,36871,pi_3QVNHsRxxun8okeS1IrTTEHB,1.09,0,0,1,1.09,$1.0900
+1150,4908,guanxi chen,USD,Alipay ????????? (QR+APP),2024-12-13 22:04,12,Invoice Payment,36907,pi_3QVZSDRxxun8okeS1eNgyxd3,5.49,0,0,1,5.49,$5.4900
+1151,1785,Theresa Chavez,CNY,Alipay ????????? (QR+APP),2024-12-13 22:24,12,Invoice Payment,36919,pi_3QVZmTRxxun8okeS1nFlmXuO,152.67,0,0,7.27023,152.67,$20.9993
+1152,127,dandy api,USD,Alipay ????????? (QR+APP),2024-12-14 17:31,12,Invoice Payment,34099,pi_3QVrg7Rxxun8okeS0qp3uhbq,1.09,0,0,1,1.09,$1.0900
+1153,4283,mxr muimui,USD,Alipay ????????? (QR+APP),2024-12-14 22:39,12,Invoice Payment,37063,pi_3QVwV8Rxxun8okeS0thJUlNn,32.99,0,0,1,32.99,$32.9900
+1154,4994,jg yan,CNY,Alipay ????????? (QR+APP),2024-12-15 12:56,12,Invoice Payment,37195,pi_3QW9rdRxxun8okeS0yBi0Xq4,29.02,0,0,7.2742,29.02,$3.9894
+1155,4994,jg yan,CNY,Alipay ????????? (QR+APP),2024-12-15 13:59,12,Invoice Payment,37207,pi_3QWArVRxxun8okeS1pVRVFFE,21.75,0,0,7.2742,21.75,$2.9900
+1156,5000,weidong wang,USD,Alipay ????????? (QR+APP),2024-12-15 17:24,12,Invoice Payment,37219,pi_3QWE37Rxxun8okeS0NKLG63x,2.49,0,0,1,2.49,$2.4900
+1157,5003,tao tao,USD,PayPal,2024-12-15 23:07,12,Invoice Payment,37231,4PW51904E7809870K,3.99,0.69,0,1,3.3,$3.3000
+1158,510,,USD,Alipay ????????? (QR+APP),2024-12-16 03:09,12,Invoice Payment,34939,pi_3QWNBCRxxun8okeS1i1DNIV2,1.09,0,0,1,1.09,$1.0900
+1159,3826,Jack Ma,USD,PayPal,2024-12-16 10:08,12,Invoice Payment,37291,99N29676556130056,1.09,0.54,0,1,0.55,$0.5500
+1160,5025,LIU DONG,USD,Alipay ????????? (QR+APP),2024-12-16 11:46,12,Invoice Payment,37339,pi_3QWVFcRxxun8okeS1H7sNnhF,3.99,0,0,1,3.99,$3.9900
+1161,351,xukun cai,USD,PayPal,2024-12-16 18:22,12,Invoice Payment,29743,98U273723V8505639,1.09,0.54,0,1,0.55,$0.5500
+1162,272,tao tao,USD,Alipay ????????? (QR+APP),2024-12-16 20:50,12,Invoice Payment,26335,pi_3QWdkQRxxun8okeS0e6vSdow,1.49,0,0,1,1.49,$1.4900
+1163,419,Eirc Pong,CNY,Alipay ????????? (QR+APP),2024-12-16 21:23,12,Invoice Payment,37363,pi_3QWeE5Rxxun8okeS1YEzpYcB,61.1,0,0,7.2742,61.1,$8.3995
+1164,5081,ling xiao,USD,PayPal,2024-12-16 21:34,12,Invoice Payment,37387,4FL092058W615633A,8.39,0.91,0,1,7.48,$7.4800
+1165,5079,mengxue work,USD,Alipay ????????? (QR+APP),2024-12-16 21:50,12,Invoice Payment,37399,pi_3QWeXxRxxun8okeS06yCyLK8,8.39,0,0,1,8.39,$8.3900
+1166,5086,kyo chan,USD,PayPal,2024-12-16 22:00,12,Invoice Payment,37411,2N9362491H041143N,10.49,1.01,0,1,9.48,$9.4800
+1167,3329,,USD,Alipay ????????? (QR+APP),2024-12-16 22:05,12,Invoice Payment,37423,pi_3QWeuMRxxun8okeS0CZZzfOK,10.49,0,0,1,10.49,$10.4900
+1168,5083,Leo Liao,USD,PayPal,2024-12-16 22:33,12,Invoice Payment,37435,89R66285EB3995810,8.39,0.78,0,1,7.61,$7.6100
+1169,5090,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-16 22:34,12,Invoice Payment,37447,pi_3QWfMhRxxun8okeS0eznZNT3,61.1,0,0,7.2742,61.1,$8.3995
+1170,5096,mike paw,USD,PayPal,2024-12-16 22:44,12,Invoice Payment,37459,9MP09192DG172864X,3.99,0.69,0,1,3.3,$3.3000
+1171,5096,mike paw,USD,PayPal,2024-12-16 23:09,12,Reversed Transaction ID: 9MP09192DG172864X,37459,037667207Y968352G,0,-0.69,3.99,1,-3.3,-$3.3000
+1172,3364,kkk lucky,USD,Alipay ????????? (QR+APP),2024-12-17 09:50,12,Invoice Payment,36211,pi_3QWpuwRxxun8okeS1oYmLnBW,1.09,0,0,1,1.09,$1.0900
+1173,417,July 0663,CNY,Alipay ????????? (QR+APP),2024-12-17 11:48,12,Invoice Payment,34519,pi_3QWrkTRxxun8okeS0lTan22y,7.72,0,0,7.28358,7.72,$1.0599
+1174,5041,John Ander,USD,Crypto ????????????,2024-12-17 12:43,12,Invoice Payment,37351,,11.99,0,0,1,11.99,$11.9900
+1175,417,July 0663,CNY,Alipay ????????? (QR+APP),2024-12-17 21:18,12,Invoice Payment,34519,,0.01,0,0,7.28358,0.01,$0.0014
+1176,5254,hunter luo,USD,PayPal,2024-12-17 21:30,12,Invoice Payment,37507,6LA875790G682745G,8.39,0.91,0,1,7.48,$7.4800
+1177,4048,woo leo,USD,Alipay ????????? (QR+APP),2024-12-17 21:32,12,Invoice Payment,37519,pi_3QX0sDRxxun8okeS1cPZUKIc,8.39,0,0,1,8.39,$8.3900
+1178,5310,fc chan,USD,PayPal,2024-12-17 21:45,12,Invoice Payment,37531,6GB73911HY950915Y,8.39,0.91,0,1,7.48,$7.4800
+1179,5322,Arthur Dailey,USD,Alipay ????????? (QR+APP),2024-12-17 22:27,12,Invoice Payment,37543,pi_3QX1huRxxun8okeS1dFvs6Dx,8.39,0,0,1,8.39,$8.3900
+1180,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-18 14:01,12,Invoice Payment,37687,pi_3QXGHqRxxun8okeS0ZwdkA1h,87.34,0,0,7.28437,87.34,$11.9901
+1181,5490,Conroy Georgine,USD,Alipay ????????? (QR+APP),2024-12-18 18:44,12,Invoice Payment,37699,pi_3QXKiiRxxun8okeS0UKdMIzq,12.59,0,0,1,12.59,$12.5900
+1182,5511,??? ???,CNY,Alipay ????????? (QR+APP),2024-12-18 21:58,12,Invoice Payment,37711,pi_3QXNkuRxxun8okeS1A31fqXn,29.06,0,0,7.28437,29.06,$3.9894
+1183,5536,VPS xServ,USD,Alipay ????????? (QR+APP),2024-12-18 23:35,12,Invoice Payment,37723,pi_3QXPFpRxxun8okeS1QhqNiju,8.39,0,0,1,8.39,$8.3900
+1184,127,dandy api,USD,Alipay ????????? (QR+APP),2024-12-19 10:03,12,Invoice Payment,34963,pi_3QXZ4pRxxun8okeS1XbeKWBr,1.09,0,0,1,1.09,$1.0900
+1185,5546,733 PA,USD,PayPal,2024-12-19 11:55,12,Invoice Payment,37771,8YL49919U9229232V,11.99,1.09,0,1,10.9,$10.9000
+1186,1037,yuxin lei,CNY,Alipay ????????? (QR+APP),2024-12-19 23:05,12,Invoice Payment,30271,pi_3QXlHuRxxun8okeS1N8ELsZY,20.98,0,0,7.28497,20.98,$2.8799
+1187,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-12-20 10:34,12,Invoice Payment,35251,pi_3QXw0fRxxun8okeS0Ghjc0LF,2.99,0,0,1,2.99,$2.9900
+1188,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-12-20 10:35,12,Invoice Payment,37639,pi_3QXw3BRxxun8okeS0jdsiweE,9.97,0,0,1,9.97,$9.9700
+1189,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-12-20 10:36,12,Invoice Payment,37267,pi_3QXw4KRxxun8okeS1cxP0wSV,3.99,0,0,1,3.99,$3.9900
+1190,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-12-20 10:37,12,Invoice Payment,37147,pi_3QXw5ERxxun8okeS0hzoueYT,8.97,0,0,1,8.97,$8.9700
+1191,1560,jinghai wang,USD,Alipay ????????? (QR+APP),2024-12-20 10:38,12,Invoice Payment,36967,pi_3QXw6LRxxun8okeS1iZMBR7a,8.97,0,0,1,8.97,$8.9700
+1192,3229,Waer san,USD,Alipay ????????? (QR+APP),2024-12-20 10:55,12,Invoice Payment,35239,pi_3QXwN6Rxxun8okeS0WmR6FEO,1.99,0,0,1,1.99,$1.9900
+1193,3324,Orange King,USD,Alipay ????????? (QR+APP),2024-12-21 10:30,12,Invoice Payment,35911,pi_3QYIRgRxxun8okeS1BmA7ilv,2.99,0,0,1,2.99,$2.9900
+1194,5905,qiuxiuya ...,USD,Alipay ????????? (QR+APP),2024-12-21 10:58,12,Invoice Payment,37963,pi_3QYIteRxxun8okeS05HTqFgA,8.39,0,0,1,8.39,$8.3900
+1195,5906,Joseph Reynolds,USD,PayPal,2024-12-21 11:18,12,Invoice Payment,37975,3BD82413UX5227925,4.99,0.74,0,1,4.25,$4.2500
+1196,1583,Baby Zhu,CNY,Alipay ????????? (QR+APP),2024-12-21 11:24,12,Invoice Payment,37987,pi_3QYJI7Rxxun8okeS11dsr2C1,153.27,0,0,7.29846,153.27,$21.0003
+1197,3229,Waer san,USD,Alipay ????????? (QR+APP),2024-12-21 12:31,12,Invoice Payment,36859,pi_3QYKKvRxxun8okeS1yAohinN,2.99,0,0,1,2.99,$2.9900
+1198,5906,Joseph Reynolds,USD,PayPal,2024-12-21 16:06,12,Invoice Payment,38011,8BM94133K2959993J,4.99,0.74,0,1,4.25,$4.2500
+1199,5906,Joseph Reynolds,USD,PayPal,2024-12-21 16:07,12,Invoice Payment,38011,4YT628922N319721D,4.99,0.74,0,1,4.25,$4.2500
+1200,3974,joey kini,USD,Alipay ????????? (QR+APP),2024-12-21 18:57,12,Invoice Payment,37951,pi_3QYQMhRxxun8okeS0oKxfHbt,1.99,0,0,1,1.99,$1.9900
+1201,3974,joey kini,USD,Alipay ????????? (QR+APP),2024-12-21 18:57,12,Invoice Payment,37879,pi_3QYQNDRxxun8okeS0lDf4lcT,1.99,0,0,1,1.99,$1.9900
+1202,5919,Logan lau,USD,PayPal,2024-12-21 18:58,12,Invoice Payment,38023,50U21686S7383333V,8.39,0.91,0,1,7.48,$7.4800
+1203,4786,Evin Leo,CNY,PayPal,2024-12-21 19:00,12,Invoice Payment,38035,4UT621738L1042129,30.38,5.11,0,7.29846,25.27,$3.4624
+1204,5920,?????? ???,USD,Alipay ????????? (QR+APP),2024-12-21 20:14,12,Invoice Payment,38059,pi_3QYRYyRxxun8okeS1TqNugTg,2.49,0,0,1,2.49,$2.4900
+1205,4498,PRD A,USD,Alipay ????????? (QR+APP),2024-12-21 22:30,12,Invoice Payment,38083,pi_3QYTggRxxun8okeS1KFro3ew,8.39,0,0,1,8.39,$8.3900
+1206,5106,Star Chan,USD,PayPal,2024-12-22 11:49,12,Invoice Payment,38071,64N645919N324951D,8.39,0.91,0,1,7.48,$7.4800
+1207,5970,eewe rtrr,USD,Alipay ????????? (QR+APP),2024-12-23 07:37,12,Invoice Payment,38155,pi_3QYyhhRxxun8okeS1zbTURDW,3.99,0,0,1,3.99,$3.9900
+1208,4862,jim wen,USD,Alipay ????????? (QR+APP),2024-12-23 14:58,12,Refund of Transaction ID pi_3QV6YoRxxun8okeS0KHeDDMv,36751,,0,0,5.49,1,-5.49,-$5.4900
+1209,5994,Glez Krissh,USD,Alipay ????????? (QR+APP),2024-12-24 01:07,12,Invoice Payment,38287,pi_3QZF6QRxxun8okeS0SUWhKvX,8.39,0,0,1,8.39,$8.3900
+1210,5995,Ru sa,USD,Alipay ????????? (QR+APP),2024-12-24 01:12,12,Invoice Payment,38299,pi_3QZF9YRxxun8okeS14GTeteE,23.09,0,0,1,23.09,$23.0900
+1211,5997,John Henkin,CNY,PayPal,2024-12-24 09:10,12,Invoice Payment,38371,4V429827T1221724U,61.29,6.64,0,7.29924,54.65,$7.4871
+1212,6023,linlin liu,CNY,Alipay ????????? (QR+APP),2024-12-24 14:54,12,Invoice Payment,38383,pi_3QZRzuRxxun8okeS0UrMVFuT,61.31,0,0,7.29924,61.31,$8.3995
+1213,6024,Mr uzx,USD,Alipay ????????? (QR+APP),2024-12-24 15:36,12,Invoice Payment,38395,pi_3QZSe8Rxxun8okeS05NIkPoW,8.39,0,0,1,8.39,$8.3900
+1214,6025,max king,USD,Alipay ????????? (QR+APP),2024-12-24 15:49,12,Invoice Payment,38407,pi_3QZSrFRxxun8okeS1E55vczf,5.99,0,0,1,5.99,$5.9900
+1215,6026,1 1,USD,Alipay ????????? (QR+APP),2024-12-24 17:27,12,Invoice Payment,38419,pi_3QZUODRxxun8okeS0BUKqLcD,8.39,0,0,1,8.39,$8.3900
+1216,3229,Waer san,USD,Alipay ????????? (QR+APP),2024-12-24 19:06,12,Invoice Payment,38431,pi_3QZVwSRxxun8okeS19nxOW7G,6.98,0,0,1,6.98,$6.9800
+1217,5996,jason wu,CNY,Alipay ????????? (QR+APP),2024-12-24 21:48,12,Invoice Payment,38455,pi_3QZYP4Rxxun8okeS1PS8qSCP,61.31,0,0,7.29924,61.31,$8.3995
+1218,6032,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-24 23:16,12,Invoice Payment,38479,pi_3QZZpXRxxun8okeS16mELZLA,18.18,0,0,7.29924,18.18,$2.4907
+1219,6034,Chenqian Wang,USD,Alipay ????????? (QR+APP),2024-12-24 23:31,12,Invoice Payment,38503,pi_3QZa4KRxxun8okeS05nyct3R,11.99,0,0,1,11.99,$11.9900
+1220,6034,Chenqian Wang,USD,Alipay ????????? (QR+APP),2024-12-25 00:43,12,Invoice Payment,38515,pi_3QZbC3Rxxun8okeS1P0Qbsg6,23.99,0,0,1,23.99,$23.9900
+1221,6038,lnzu lnzu,USD,Alipay ????????? (QR+APP),2024-12-25 01:37,12,Invoice Payment,38539,pi_3QZc2DRxxun8okeS0tMGY0Zx,11.99,0,0,1,11.99,$11.9900
+1222,5920,?????? ???,USD,Alipay ????????? (QR+APP),2024-12-25 02:13,12,Invoice Payment,38563,pi_3QZcadRxxun8okeS1vYYeiHX,23.99,0,0,1,23.99,$23.9900
+1223,5920,?????? ???,USD,Alipay ????????? (QR+APP),2024-12-25 06:00,12,Invoice Payment,38587,pi_3QZg7zRxxun8okeS0m8CUoDb,11.99,0,0,1,11.99,$11.9900
+1224,6059,Nguyen Khanh,USD,PayPal,2024-12-25 06:08,12,Invoice Payment,38599,2KT590599R6427908,14.99,1.24,0,1,13.75,$13.7500
+1225,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-25 13:27,12,Invoice Payment,38143,pi_3QZn6wRxxun8okeS1O3P0x03,86.82,0,0,7.2961,86.82,$11.8995
+1226,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-25 13:27,12,Invoice Payment,38347,pi_3QZn7mRxxun8okeS078Qrpyl,87.12,0,0,7.2961,87.12,$11.9406
+1227,6091,meeshao li,CNY,Alipay ????????? (QR+APP),2024-12-25 22:57,12,Invoice Payment,38683,pi_3QZw0sRxxun8okeS0cPoel13,61.29,0,0,7.2961,61.29,$8.4004
+1228,3537,Gray Fox,USD,Alipay ????????? (QR+APP),2024-12-26 00:56,12,Invoice Payment,36979,pi_3QZxrwRxxun8okeS1beHgFvp,1.09,0,0,1,1.09,$1.0900
+1229,4365,Yexin Xiao,USD,PayPal,2024-12-26 03:01,12,Reversed Transaction ID: 60380469WV963433R,35683,2PN43255V1467990F,0,-1.33,16.79,1,-15.46,-$15.4600
+1230,6116,ReyReyy Meow,USD,PayPal,2024-12-26 11:13,12,Invoice Payment,38767,0MT82971N5569620C,11.99,0.91,0,1,11.08,$11.0800
+1231,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-26 13:45,12,Invoice Payment,38779,pi_3Qa9smRxxun8okeS1WuZ9A09,87.48,0,0,7.2961,87.48,$11.9900
+1232,1559,Joseh Dan,USD,Crypto ????????????,2024-12-26 16:45,12,Invoice Payment,38815,,120,0,0,1,120,$120.0000
+1233,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-26 17:12,12,Invoice Payment,37615,pi_3QaD6iRxxun8okeS0ByD4Wf5,252.37,0,0,7.2961,252.37,$34.5897
+1234,6133,dav liu,USD,Alipay ????????? (QR+APP),2024-12-26 17:36,12,Invoice Payment,38863,pi_3QaDTXRxxun8okeS12TPM2nY,8.39,0,0,1,8.39,$8.3900
+1235,6132,bushi xiaoyin,USD,PayPal,2024-12-26 17:46,12,Invoice Payment,38851,2KN99617H88887749,8.39,0.91,0,1,7.48,$7.4800
+1236,6135,asdrfga gwerg,USD,Alipay ????????? (QR+APP),2024-12-26 18:02,12,Invoice Payment,38875,pi_3QaDsdRxxun8okeS0yhtlAmj,8.39,0,0,1,8.39,$8.3900
+1237,6141,dav m,USD,PayPal,2024-12-26 20:32,12,Invoice Payment,38899,31U43039UX761661C,14.69,1.22,0,1,13.47,$13.4700
+1238,6145,Han Li,USD,Alipay ????????? (QR+APP),2024-12-26 21:32,12,Invoice Payment,38911,pi_3QaHA3Rxxun8okeS0e7mdF7d,3.99,0,0,1,3.99,$3.9900
+1239,1021,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-26 23:05,12,Invoice Payment,37615,,0.02,0,0,7.2961,0.02,$0.0027
+1240,2366,yao pei,USD,PayPal,2024-12-26 23:36,12,Invoice Payment,38743,98G04998HY133200D,1.99,0.59,0,1,1.4,$1.4000
+1241,6154,Steve Sun,USD,Alipay ????????? (QR+APP),2024-12-27 00:41,12,Invoice Payment,38995,pi_3QaK60Rxxun8okeS07vtuAVo,20.25,0,0,1,20.25,$20.2500
+1242,6157,mi koto,USD,Alipay ????????? (QR+APP),2024-12-27 00:43,12,Invoice Payment,39019,pi_3QaK9XRxxun8okeS1phzghss,20.25,0,0,1,20.25,$20.2500
+1243,6160,Ding Xiao,USD,PayPal,2024-12-27 00:45,12,Invoice Payment,39055,1S041945BS681553P,20.25,1.5,0,1,18.75,$18.7500
+1244,6159,we aee,USD,Alipay ????????? (QR+APP),2024-12-27 00:47,12,Invoice Payment,39103,pi_3QaKDbRxxun8okeS1DFWIWAI,20.25,0,0,1,20.25,$20.2500
+1245,6152,aseor top,USD,Crypto ????????????,2024-12-27 00:47,12,Invoice Payment,39031,ee99c04aa8dbbecb067ff37d5b65dddc25e9cd0efbe3896d7fbf95aa94f50174,20.25,0,0,1,20.25,$20.2500
+1246,6162,Tom Tionmon,USD,Alipay ????????? (QR+APP),2024-12-27 00:48,12,Invoice Payment,39127,pi_3QaKEERxxun8okeS1SI0MwZ3,20.25,0,0,1,20.25,$20.2500
+1247,392,maike li,CNY,PayPal,2024-12-27 00:50,12,Invoice Payment,39139,50430532XB434200M,7.73,3.94,0,7.2961,3.79,$0.5195
+1248,6196,Peck Bernard,USD,Alipay ????????? (QR+APP),2024-12-27 10:00,12,Invoice Payment,39343,pi_3QaSoyRxxun8okeS1RVC4orJ,20.25,0,0,1,20.25,$20.2500
+1249,6195,Peck Bernard,USD,Alipay ????????? (QR+APP),2024-12-27 10:08,12,Invoice Payment,39331,pi_3QaSxjRxxun8okeS1bZvI4Tu,20.25,0,0,1,20.25,$20.2500
+1250,417,July 0663,CNY,Alipay ????????? (QR+APP),2024-12-27 10:11,12,Invoice Payment,39355,pi_3QaT0URxxun8okeS1wEdqDbQ,147.75,0,0,7.2961,147.75,$20.2505
+1251,3578,CCC CC,USD,PayPal,2024-12-27 10:36,12,Invoice Payment,39391,3LV93040D9537603A,20.25,1.5,0,1,18.75,$18.7500
+1252,6198,just me,USD,Alipay ????????? (QR+APP),2024-12-27 10:56,12,Invoice Payment,39367,pi_3QaTZSRxxun8okeS0vREmNrb,20.25,0,0,1,20.25,$20.2500
+1253,6154,Steve Sun,USD,Alipay ????????? (QR+APP),2024-12-27 13:47,12,Refund of Transaction ID pi_3QaK60Rxxun8okeS07vtuAVo,38995,,0,0,20.25,1,-20.25,-$20.2500
+1254,6199,Costinoyu mack,USD,Alipay ????????? (QR+APP),2024-12-27 14:44,12,Invoice Payment,39379,pi_3QaXGhRxxun8okeS1CUL2o4c,20.25,0,0,1,20.25,$20.2500
+1255,6214,Sprite Cola,USD,Alipay ????????? (QR+APP),2024-12-27 14:58,12,Invoice Payment,39523,pi_3QaXUhRxxun8okeS0hFjb9Gs,20.25,0,0,1,20.25,$20.2500
+1256,6212,jie kdosl,USD,Alipay ????????? (QR+APP),2024-12-27 15:17,12,Invoice Payment,39499,pi_3QaXnFRxxun8okeS1qTofXWj,8.39,0,0,1,8.39,$8.3900
+1257,3299,?????? ???,USD,Alipay ????????? (QR+APP),2024-12-27 16:12,12,Invoice Payment,37159,pi_3QaYdwRxxun8okeS1cKm7cTv,42.99,0,0,1,42.99,$42.9900
+1258,1583,Baby Zhu,CNY,Alipay ????????? (QR+APP),2024-12-27 21:17,12,Invoice Payment,39559,pi_3QadOLRxxun8okeS1VjhYm3S,147.75,0,0,7.2961,147.75,$20.2505
+1259,383,SSH Sc,USD,PayPal,2024-12-27 21:21,12,Invoice Payment,39607,7WT02323F2093991C,20.25,1.2,0,1,19.05,$19.0500
+1260,6227,fan fan,USD,Alipay ????????? (QR+APP),2024-12-27 21:30,12,Invoice Payment,39619,pi_3QadbLRxxun8okeS1MgeRurK,20.25,0,0,1,20.25,$20.2500
+1261,127,dandy api,USD,Alipay ????????? (QR+APP),2024-12-27 21:57,12,Invoice Payment,39655,pi_3QadwgRxxun8okeS1xmU2V0j,20.25,0,0,1,20.25,$20.2500
+1262,6229,hu zhao,USD,Alipay ????????? (QR+APP),2024-12-27 22:43,12,Invoice Payment,39679,pi_3QaekQRxxun8okeS17DeKpcc,20.25,0,0,1,20.25,$20.2500
+1263,6207,Stanasis Chan,USD,PayPal,2024-12-27 23:14,12,Invoice Payment,39703,4V509211723720845,20.25,1.2,0,1,19.05,$19.0500
+1264,2918,AI Ding Ding,USD,Alipay ????????? (QR+APP),2024-12-27 23:32,12,Invoice Payment,39715,pi_3QafRCRxxun8okeS1TLJeOCd,20.25,0,0,1,20.25,$20.2500
+1265,6234,dsgd adsrh,USD,Alipay ????????? (QR+APP),2024-12-27 23:33,12,Invoice Payment,39727,pi_3QafW6Rxxun8okeS05FJEjKR,8.39,0,0,1,8.39,$8.3900
+1266,6235,lin shan,USD,PayPal,2024-12-28 00:11,12,Invoice Payment,39739,4RM05008CX0006345,14.69,1.22,0,1,13.47,$13.4700
+1267,4910,el y,CNY,Alipay ????????? (QR+APP),2024-12-28 00:56,12,Invoice Payment,39751,pi_3QagoqRxxun8okeS1dC5DxS4,18.17,0,0,7.2961,18.17,$2.4904
+1268,6239,Nagareboshi Nagareboshi,USD,Alipay ????????? (QR+APP),2024-12-28 01:40,12,Invoice Payment,39775,pi_3QahW0Rxxun8okeS0zNJzZRm,32.99,0,0,1,32.99,$32.9900
+1269,6248,lin zhu,USD,PayPal,2024-12-28 06:47,12,Invoice Payment,39787,77S890919F499144N,20.25,1.5,0,1,18.75,$18.7500
+1270,6261,Armstrong Chen,USD,Alipay ????????? (QR+APP),2024-12-28 09:25,12,Invoice Payment,39847,pi_3QaokhRxxun8okeS1IwNUUIR,11.99,0,0,1,11.99,$11.9900
+1271,6268,Edgar Hettinger,USD,Crypto ????????????,2024-12-28 13:05,12,Invoice Payment,39871,4f212280d78dbeb6750b1856e21c2dba567beea8e0d0955282a7e9614c4ed49d,20.25,0,0,1,20.25,$20.2500
+1272,6269,Damin Leonard,CNY,Alipay ????????? (QR+APP),2024-12-28 13:10,12,Invoice Payment,39883,pi_3QasHjRxxun8okeS11x0vRZl,147.81,0,0,7.29938,147.81,$20.2497
+1273,6273,che fan,USD,Alipay ????????? (QR+APP),2024-12-28 14:33,12,Invoice Payment,39895,pi_3QatZPRxxun8okeS0frppvRp,20.25,0,0,1,20.25,$20.2500
+1274,6274,??? ???,CNY,Alipay ????????? (QR+APP),2024-12-28 14:48,12,Invoice Payment,39907,pi_3QatnMRxxun8okeS0oLeyQCh,147.81,0,0,7.29938,147.81,$20.2497
+1275,3309,Tang Joe,USD,Alipay ????????? (QR+APP),2024-12-28 16:23,12,Invoice Payment,38167,pi_3QavIDRxxun8okeS1dxlbbQT,59.99,0,0,1,59.99,$59.9900
+1276,3747,Panda Z,CNY,Alipay ????????? (QR+APP),2024-12-28 17:49,12,Invoice Payment,37183,pi_3Qawd5Rxxun8okeS01J8IBOV,52.12,0,0,7.29938,52.12,$7.1403
+1277,6284,burger Li,USD,Alipay ????????? (QR+APP),2024-12-28 19:58,12,Invoice Payment,39931,pi_3QaybkRxxun8okeS10lAdYva,20.25,0,0,1,20.25,$20.2500
+1278,6287,Yaira Jef,USD,PayPal,2024-12-28 21:51,12,Invoice Payment,39967,72D924850B438493W,20.25,1.5,0,1,18.75,$18.7500
+1279,1588,Colin Kahn,USD,Alipay ????????? (QR+APP),2024-12-28 23:06,12,Invoice Payment,40003,pi_3Qb1ZpRxxun8okeS0B3pbX1U,20.25,0,0,1,20.25,$20.2500
+1280,6290,simon Lin,USD,PayPal,2024-12-28 23:08,12,Invoice Payment,40015,9CU9743953721102F,20.25,1.5,0,1,18.75,$18.7500
+1281,6294,Willy Willy,USD,PayPal,2024-12-28 23:30,12,Invoice Payment,40063,4FC805929H409852W,20.25,1.5,0,1,18.75,$18.7500
+1282,6294,Willy Willy,USD,PayPal,2024-12-28 23:30,12,Invoice Payment,40075,80W77024UM804410C,11.99,1.09,0,1,10.9,$10.9000
+1283,6295,Nii Nii,USD,Alipay ????????? (QR+APP),2024-12-28 23:52,12,Invoice Payment,40087,pi_3Qb2IdRxxun8okeS0IlDWpAZ,20.25,0,0,1,20.25,$20.2500
+1288,1188,li li,USD,Alipay ????????? (QR+APP),2024-12-29 00:00,12,Invoice Payment,40171,,0,0,0,1,0,$0.0000
+1284,6297,nl ww,USD,Alipay ????????? (QR+APP),2024-12-29 00:14,12,Invoice Payment,40099,pi_3Qb2dmRxxun8okeS1BeMQhJN,11.99,0,0,1,11.99,$11.9900
+1285,6306,Litian Chow,USD,Alipay ????????? (QR+APP),2024-12-29 02:49,12,Invoice Payment,40111,pi_3Qb546Rxxun8okeS0auuO2Ih,20.25,0,0,1,20.25,$20.2500
+1286,6308,xlm xlm,USD,Alipay ????????? (QR+APP),2024-12-29 02:57,12,Invoice Payment,40123,pi_3Qb5BeRxxun8okeS00E6zpqK,20.25,0,0,1,20.25,$20.2500
+1287,6277,e qi,CNY,Alipay ????????? (QR+APP),2024-12-29 10:11,12,Invoice Payment,40159,pi_3QbBxZRxxun8okeS14gOrmSi,147.81,0,0,7.29938,147.81,$20.2497
+1289,6347,hua shao,USD,Alipay ????????? (QR+APP),2024-12-29 16:25,12,Invoice Payment,40183,pi_3QbHmcRxxun8okeS1HX4uAhT,20.25,0,0,1,20.25,$20.2500
+1290,6348,yuan zhou,USD,Alipay ????????? (QR+APP),2024-12-29 16:56,12,Invoice Payment,40195,pi_3QbII5Rxxun8okeS0Wwak4ob,20.25,0,0,1,20.25,$20.2500
+1291,6352,wong korgo,USD,Alipay ????????? (QR+APP),2024-12-29 19:54,12,Invoice Payment,40243,pi_3QbL37Rxxun8okeS0FfhO3fC,20.25,0,0,1,20.25,$20.2500
+1292,6353,mei li,USD,Alipay ????????? (QR+APP),2024-12-29 19:54,12,Invoice Payment,40255,pi_3QbL4RRxxun8okeS14ifMh1p,20.25,0,0,1,20.25,$20.2500
+1293,6355,Lucy Mash,USD,Alipay ????????? (QR+APP),2024-12-29 19:55,12,Invoice Payment,40279,pi_3QbL58Rxxun8okeS1s2VD3CY,20.25,0,0,1,20.25,$20.2500
+1294,6355,Lucy Mash,USD,Alipay ????????? (QR+APP),2024-12-29 19:56,12,Invoice Payment,40279,pi_3QbL58Rxxun8okeS1s2VD3CY,20.25,0,0,1,20.25,$20.2500
+1295,6351,Sun Tian,USD,PayPal,2024-12-29 20:05,12,Invoice Payment,40219,5SM438844S9014037,20.25,1.2,0,1,19.05,$19.0500
+1296,4776,Sam Lam,USD,Alipay ????????? (QR+APP),2024-12-29 20:18,12,Invoice Payment,40291,pi_3QbLRORxxun8okeS0EpP88FY,20.25,0,0,1,20.25,$20.2500
+1297,6357,R W,USD,Alipay ????????? (QR+APP),2024-12-29 22:38,12,Invoice Payment,40327,pi_3QbNd4Rxxun8okeS0vWuciQi,20.25,0,0,1,20.25,$20.2500
+1298,6360,Sofia Joe,USD,Alipay ????????? (QR+APP),2024-12-29 22:44,12,Invoice Payment,40351,pi_3QbNj5Rxxun8okeS1lTp9uwR,20.25,0,0,1,20.25,$20.2500
+1299,6361,Jason Bourne,USD,PayPal,2024-12-29 22:50,12,Invoice Payment,40363,6XJ88372B17001455,20.25,1.2,0,1,19.05,$19.0500
+1300,6367,Eiffel Chen,CNY,Alipay ????????? (QR+APP),2024-12-30 00:45,12,Invoice Payment,40399,pi_3QbPbVRxxun8okeS0Bmd6Aqx,61.31,0,0,7.29938,61.31,$8.3993
+1301,6383,adl gu,USD,PayPal,2024-12-30 07:54,12,Invoice Payment,40411,6JJ00053SY564704H,25.19,1.75,0,1,23.44,$23.4400
+1302,1606,ren 1,USD,Alipay ????????? (QR+APP),2024-12-30 09:45,12,Invoice Payment,37627,pi_3QbY24Rxxun8okeS13JIraOO,2.99,0,0,1,2.99,$2.9900
+1303,6391,shiki Kiyo,CNY,Alipay ????????? (QR+APP),2024-12-30 11:29,12,Invoice Payment,40447,pi_3QbZfCRxxun8okeS0thzxgYU,147.81,0,0,7.29938,147.81,$20.2497
+1304,1431,keke deng,USD,Alipay ????????? (QR+APP),2024-12-30 12:05,12,Invoice Payment,40471,pi_3QbaE8Rxxun8okeS0p1F0dNE,18.65,0,0,1,18.65,$18.6500
+1305,6392,Beverly Walsh,USD,Alipay ????????? (QR+APP),2024-12-30 12:09,12,Invoice Payment,40495,pi_3QbaHrRxxun8okeS0PSH8sed,20.25,0,0,1,20.25,$20.2500
+1306,6418,Jam Choi,USD,PayPal,2024-12-30 19:03,12,Invoice Payment,40519,6GL98762XW894323A,25.19,1.75,0,1,23.44,$23.4400
+1307,6420,Abigail Cooper,USD,Alipay ????????? (QR+APP),2024-12-30 19:08,12,Invoice Payment,40531,pi_3Qbgp0Rxxun8okeS1ULCUUQY,8.39,0,0,1,8.39,$8.3900
+1308,3826,Jack Ma,USD,PayPal,2024-12-30 19:11,12,Invoice Payment,37291,4Y209796U0285063B,1.09,0.54,0,1,0.55,$0.5500
+1309,6421,xin huang,USD,Alipay ????????? (QR+APP),2024-12-30 19:25,12,Invoice Payment,40543,pi_3Qbh5qRxxun8okeS0gmVLE4k,20.25,0,0,1,20.25,$20.2500
+1310,6188,Tiffany Freund,USD,Alipay ????????? (QR+APP),2024-12-30 19:32,12,Invoice Payment,40555,pi_3QbhARRxxun8okeS0oBrXoSJ,25.19,0,0,1,25.19,$25.1900
+1311,6422,Jun Lu,USD,Alipay ????????? (QR+APP),2024-12-30 19:46,12,Invoice Payment,40567,pi_3QbhPXRxxun8okeS0tHyFyIf,12.59,0,0,1,12.59,$12.5900
+1312,6427,lu la,USD,Alipay ????????? (QR+APP),2024-12-30 20:56,12,Invoice Payment,40579,pi_3QbiRsRxxun8okeS0qW3BAOa,20.25,0,0,1,20.25,$20.2500
+1313,6428,Demi Ding,USD,Alipay ????????? (QR+APP),2024-12-30 20:59,12,Invoice Payment,40591,pi_3QbiYlRxxun8okeS1cRxXfcm,20.25,0,0,1,20.25,$20.2500
+1314,6432,?????? ???,USD,Alipay ????????? (QR+APP),2024-12-30 21:39,12,Invoice Payment,40603,pi_3QbjBjRxxun8okeS0eCctjad,3.99,0,0,1,3.99,$3.9900
+1315,6433,zhan chen,USD,Alipay ????????? (QR+APP),2024-12-30 21:44,12,Invoice Payment,40627,pi_3QbjGFRxxun8okeS12Qxdexc,20.25,0,0,1,20.25,$20.2500
+1316,6461,default chen,USD,Alipay ????????? (QR+APP),2024-12-31 09:56,12,Invoice Payment,40723,pi_3QbugSRxxun8okeS0I4y8Jig,2.99,0,0,1,2.99,$2.9900
+1317,6463,ec Al,USD,Alipay ????????? (QR+APP),2024-12-31 10:08,12,Invoice Payment,40735,pi_3Qbus3Rxxun8okeS16FOXGpv,3.99,0,0,1,3.99,$3.9900
+1318,4481,zhao yong,USD,Alipay ????????? (QR+APP),2024-12-31 10:41,12,Invoice Payment,40747,pi_3QbvNbRxxun8okeS0R9dN2Zv,3.99,0,0,1,3.99,$3.9900
+1319,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-31 15:10,12,Invoice Payment,40759,pi_3QbzaNRxxun8okeS1x4MA29I,87.52,0,0,7.29931,87.52,$11.9902
+1320,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-31 15:11,12,Invoice Payment,39259,pi_3QbzbvRxxun8okeS17VguoWD,85.91,0,0,7.29931,85.91,$11.7696
+1321,1836,?????? ???,CNY,Alipay ????????? (QR+APP),2024-12-31 15:15,12,Invoice Payment,39259,,0.03,0,0,7.29931,0.03,$0.0041
+1322,4481,zhao yong,USD,Alipay ????????? (QR+APP),2024-12-31 17:17,12,Invoice Payment,40771,pi_3Qc1YxRxxun8okeS0jhB4Owp,20.25,0,0,1,20.25,$20.2500
+1323,6479,Ryan Ou,CNY,Alipay ????????? (QR+APP),2024-12-31 17:43,12,Invoice Payment,40783,pi_3Qc1ypRxxun8okeS0OxOzlMD,21.82,0,0,7.29931,21.82,$2.9893
+1324,6480,Clarissa Halvorson,USD,Alipay ????????? (QR+APP),2024-12-31 19:15,12,Invoice Payment,40795,pi_3Qc3PkRxxun8okeS1BX2twcd,20.25,0,0,1,20.25,$20.2500
+1325,4096,Elizabeth Russell,USD,PayPal,2024-12-31 19:37,12,Invoice Payment,38131,6UH74478JB953843P,11.99,0.91,0,1,11.08,$11.0800
+1326,6483,wang bin,USD,Alipay ????????? (QR+APP),2024-12-31 21:59,12,Invoice Payment,40807,pi_3Qc5yARxxun8okeS1VSNZubD,20.25,0,0,1,20.25,$20.2500
+1327,6484,zic h,USD,Alipay ????????? (QR+APP),2024-12-31 22:34,12,Invoice Payment,40831,pi_3Qc6SZRxxun8okeS1KLctZDk,23.99,0,0,1,23.99,$23.9900
+1328,6463,ec Al,USD,Alipay ????????? (QR+APP),2024-12-31 23:47,12,Invoice Payment,40855,pi_3Qc7e0Rxxun8okeS1i2LAP31,12.81,0,0,1,12.81,$12.8100
